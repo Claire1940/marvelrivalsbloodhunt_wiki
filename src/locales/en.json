@@ -33,27 +33,27 @@
     "readMore": "Read More"
   },
   "hero": {
-    "badge": "Surreal Voxel Survival Sandbox",
-    "title": "Lucid Blocks Wiki",
-    "description": "Explore dreamlike biomes, fuse items with Apotheosis, build freely, and survive strange creatures in this surreal open-world sandbox on Steam.",
-    "getFreeCodesCTA": "Explore Crafting Guide",
-    "playOnSteamCTA": "Play on Steam",
+    "badge": "Limited-Time Co-op PvE Vampire Mode",
+    "title": "Marvel Rivals Blood Hunt",
+    "description": "A limited-time Marvel Rivals PvE event where heroes team up to fight Dracula’s vampire outbreak across New York, unlock rewards, test builds, and master boss encounters.",
+    "getFreeCodesCTA": "View Blood Hunt Patch Notes",
+    "playOnSteamCTA": "Play Marvel Rivals on Steam",
     "stats": {
       "stat1": {
-        "value": "1,325",
-        "label": "Players Online"
+        "value": "Apr 23-Jul 30",
+        "label": "Blood Hunt Window"
       },
       "stat2": {
-        "value": "1,986",
-        "label": "Peak CCU"
+        "value": "4-Player",
+        "label": "Co-op PvE Squad"
       },
       "stat3": {
-        "value": "97%",
-        "label": "Positive Reviews"
+        "value": "383.7K",
+        "label": "Steam Reviews"
       },
       "stat4": {
-        "value": "Mar 12, 2026",
-        "label": "Release Date"
+        "value": "16",
+        "label": "Supported Languages"
       }
     }
   },
@@ -784,27 +784,27 @@
     ]
   },
   "cta": {
-    "title": "Ready to Explore Lucid Blocks?",
-    "description": "Join the Lucid Blocks community on Discord for guides, updates, and discussions!",
-    "joinCommunity": "Join Discord",
-    "joinGame": "Play on Steam"
+    "title": "Ready for Marvel Rivals Blood Hunt?",
+    "description": "Join the Marvel Rivals community to track Blood Hunt updates, builds, and limited-time rewards.",
+    "joinCommunity": "Join Marvel Rivals Discord",
+    "joinGame": "Visit Marvel Rivals Official Site"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Your complete resource hub for Lucid Blocks crafting, biomes, creatures, achievements, and survival guides.",
+    "title": "Marvel Rivals Blood Hunt",
+    "description": "Your fan-made resource hub for Blood Hunt mode guides, boss mechanics, rewards, and event updates.",
     "resources": "Resources",
     "community": "Community",
     "legal": "Legal",
-    "discord": "Discord",
-    "twitter": "X / Twitter",
-    "steamCommunity": "Steam Community",
-    "steamStore": "Steam Store",
+    "discord": "Official Discord",
+    "twitter": "Official X / Twitter",
+    "steamCommunity": "Official Reddit",
+    "steamStore": "Official Website",
     "about": "About",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "copyrightNotice": "Copyright",
-    "copyright": "© 2026 Lucid Blocks Wiki. Not affiliated with the developers of Lucid Blocks.",
-    "disclaimer": "Unofficial fan-made resource website."
+    "copyright": "© 2026 Marvel Rivals Blood Hunt. Unofficial fan-made resource website.",
+    "disclaimer": "Not affiliated with Marvel, NetEase Games, or official Marvel Rivals publishers."
   },
   "pages": {
     "guides": {

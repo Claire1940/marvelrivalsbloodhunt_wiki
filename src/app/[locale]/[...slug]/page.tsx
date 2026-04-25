@@ -23,6 +23,15 @@ interface PageProps {
   params: Promise<{ locale: string; slug: string[] }>
 }
 
+const SITE_NAME = 'Marvel Rivals Blood Hunt'
+const DEFAULT_SITE_URL = 'https://www.marvelrivalsbloodhunt.wiki'
+
+function toAbsoluteUrl(url: string, siteUrl: string): string {
+  if (!url) return `${siteUrl}/images/hero.webp`
+  if (/^https?:\/\//i.test(url)) return url
+  return `${siteUrl}${url.startsWith('/') ? url : `/${url}`}`
+}
+
 export default async function UnifiedContentPage({ params }: PageProps) {
   const { locale, slug } = await params
 
@@ -214,7 +223,7 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const { locale, slug } = await params
   const contentType = slug[0]
-  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.lucidblocks.wiki'
+  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || DEFAULT_SITE_URL
 
   if (!isValidContentType(contentType)) {
     return { title: 'Not Found' }
@@ -236,9 +245,18 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
         description,
         alternates: buildLanguageAlternates(path, locale as Locale, siteUrl),
         openGraph: {
+          type: 'website',
           title,
           description,
           url: `${siteUrl}${locale === 'en' ? path : `/${locale}${path}`}`,
+          siteName: SITE_NAME,
+          images: [`${siteUrl}/images/hero.webp`],
+        },
+        twitter: {
+          card: 'summary_large_image',
+          title,
+          description,
+          images: [`${siteUrl}/images/hero.webp`],
         },
         robots: {
           index: true,
@@ -254,13 +272,27 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       }
     } catch {
       // 如果翻译不存在，使用默认值
-      const defaultTitle = `${contentType.charAt(0).toUpperCase() + contentType.slice(1)} - Lucid Blocks Wiki`
+      const defaultTitle = `${contentType.charAt(0).toUpperCase() + contentType.slice(1)} | ${SITE_NAME}`
       const path = `/${contentType}`
 
       return {
         title: defaultTitle,
-        description: `Browse all ${contentType} content for Lucid Blocks Wiki`,
+        description: `Browse all ${contentType} content for ${SITE_NAME}.`,
         alternates: buildLanguageAlternates(path, locale as Locale, siteUrl),
+        openGraph: {
+          type: 'website',
+          title: defaultTitle,
+          description: `Browse all ${contentType} content for ${SITE_NAME}.`,
+          url: `${siteUrl}${locale === 'en' ? path : `/${locale}${path}`}`,
+          siteName: SITE_NAME,
+          images: [`${siteUrl}/images/hero.webp`],
+        },
+        twitter: {
+          card: 'summary_large_image',
+          title: defaultTitle,
+          description: `Browse all ${contentType} content for ${SITE_NAME}.`,
+          images: [`${siteUrl}/images/hero.webp`],
+        },
         robots: {
           index: true,
           follow: true,
@@ -288,16 +320,27 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       )
 
       const fullPath = `/${slug.join('/')}`
+      const articleTitle = `${metadata.title} | ${SITE_NAME}`
+      const articleDescription = metadata.description || `${metadata.title} guide for ${SITE_NAME}.`
+      const articleImage = toAbsoluteUrl(metadata.image || '', siteUrl)
 
       return {
-        title: `${metadata.title} - Lucid Blocks Wiki`,
-        description: metadata.description,
+        title: articleTitle,
+        description: articleDescription,
         alternates: buildLanguageAlternates(fullPath, locale as Locale, siteUrl),
         openGraph: {
-          title: metadata.title,
-          description: metadata.description,
-          images: metadata.image ? [metadata.image] : [],
+          type: 'article',
+          title: articleTitle,
+          description: articleDescription,
+          images: [articleImage],
+          siteName: SITE_NAME,
           url: `${siteUrl}${locale === 'en' ? fullPath : `/${locale}${fullPath}`}`,
+        },
+        twitter: {
+          card: 'summary_large_image',
+          title: articleTitle,
+          description: articleDescription,
+          images: [articleImage],
         },
         robots: {
           index: true,
@@ -323,16 +366,27 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
           )
 
           const fullPath = `/${slug.join('/')}`
+          const articleTitle = `${metadata.title} | ${SITE_NAME}`
+          const articleDescription = metadata.description || `${metadata.title} guide for ${SITE_NAME}.`
+          const articleImage = toAbsoluteUrl(metadata.image || '', siteUrl)
 
           return {
-            title: `${metadata.title} - Lucid Blocks Wiki`,
-            description: metadata.description,
+            title: articleTitle,
+            description: articleDescription,
             alternates: buildLanguageAlternates(fullPath, locale as Locale, siteUrl),
             openGraph: {
-              title: metadata.title,
-              description: metadata.description,
-              images: metadata.image ? [metadata.image] : [],
+              type: 'article',
+              title: articleTitle,
+              description: articleDescription,
+              images: [articleImage],
+              siteName: SITE_NAME,
               url: `${siteUrl}${locale === 'en' ? fullPath : `/${locale}${fullPath}`}`,
+            },
+            twitter: {
+              card: 'summary_large_image',
+              title: articleTitle,
+              description: articleDescription,
+              images: [articleImage],
             },
             robots: {
               index: true,
