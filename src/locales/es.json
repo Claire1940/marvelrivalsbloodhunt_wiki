@@ -1,933 +1,1425 @@
 {
   "seo": {
     "home": {
-      "title": "Wiki de Lucid Blocks - Fabricación, biomas y logros",
-      "description": "La Wiki de Lucid Blocks cubre fabricación, biomas, criaturas, objetos, logros, finales y consejos de supervivencia para la aventura surrealista de sandbox de vóxeles en Steam.",
-      "keywords": "Lucid Blocks, Lucid Blocks wiki, fabricación, biomas, logros, supervivencia, Steam",
-      "ogTitle": "Wiki de Lucid Blocks - Fabricación, biomas y logros",
-      "ogDescription": "La Wiki de Lucid Blocks cubre fabricación, biomas, criaturas, objetos, logros, finales y consejos de supervivencia para la aventura surrealista de sandbox de vóxeles en Steam.",
-      "twitterTitle": "Wiki de Lucid Blocks - Fabricación, biomas y logros",
-      "twitterDescription": "La Wiki de Lucid Blocks cubre fabricación, biomas, criaturas, objetos, logros y consejos de supervivencia para el sandbox surrealista de vóxeles en Steam."
+      "title": "Marvel Rivals Blood Hunt Wiki - Guía PvE, Jefes y Recompensas",
+      "description": "Marvel Rivals Blood Hunt Wiki cubre el modo de evento PvE, ventana de lanzamiento, jefes ocultos, recompensas, builds de héroes, niveles de dificultad y notas del parche.",
+      "keywords": "Marvel Rivals Blood Hunt, Marvel Rivals Blood Hunt wiki, Blood Hunt PvE, recompensas de Blood Hunt, jefes de Blood Hunt, builds de Blood Hunt",
+      "ogTitle": "Marvel Rivals Blood Hunt Wiki - Guía PvE, Jefes y Recompensas",
+      "ogDescription": "Marvel Rivals Blood Hunt Wiki cubre el modo de evento PvE, ventana de lanzamiento, jefes ocultos, recompensas, builds de héroes, niveles de dificultad y notas del parche.",
+      "twitterTitle": "Marvel Rivals Blood Hunt Wiki - Guía PvE, Jefes y Recompensas",
+      "twitterDescription": "Marvel Rivals Blood Hunt Wiki rastrea fechas de eventos, jefes, recompensas, builds y notas del parche para el modo PvE por tiempo limitado."
     }
   },
   "nav": {
-    "guide": "Guide",
+    "guide": "Guía",
     "builds": "Builds",
-    "characters": "Characters",
+    "characters": "Personajes",
     "tierList": "Tier List",
-    "bosses": "Bosses",
-    "gear": "Gear",
-    "mechanics": "Mechanics",
-    "release": "Release"
+    "bosses": "Jefes",
+    "gear": "Equipo",
+    "mechanics": "Mecánicas",
+    "release": "Lanzamiento"
   },
   "common": {
     "home": "Inicio",
     "more": "Más",
-    "playNow": "Juega en Steam",
+    "playNow": "Jugar Marvel Rivals",
     "switchLanguage": "Cambiar idioma",
     "switchTheme": "Cambiar tema",
     "lightMode": "Modo claro",
     "darkMode": "Modo oscuro",
     "notFound": "Página no encontrada",
-    "notFoundDescription": "La página que buscas no existe.",
+    "notFoundDescription": "La página que estás buscando no existe.",
     "backToHome": "Volver al inicio",
     "relatedArticles": "Artículos relacionados",
     "readMore": "Leer más"
   },
   "hero": {
-    "badge": "__PROTECTED_c0b0161c__ Sandbox de supervivencia de vóxeles",
-    "title": "Lucid Blocks Wiki",
-    "description": "Explora biomas oníricos, fusiona objetos con Apotheosis, construye libremente y sobrevive a criaturas extrañas en este sandbox surrealista de mundo abierto en Steam.",
-    "getFreeCodesCTA": "Explorar guía de fabricación",
-    "playOnSteamCTA": "Jugar en Steam",
+    "badge": "Modo Vampiro PvE Co-op por tiempo limitado",
+    "title": "Marvel Rivals Blood Hunt",
+    "description": "Un evento PvE de Marvel Rivals por tiempo limitado donde los héroes se unen para derrotar a Dracula, superar oleadas crecientes, ganar recompensas y avanzar en el progreso Nightmare.",
+    "getFreeCodesCTA": "Leer las notas del parche de Marvel Rivals Blood Hunt",
+    "playOnSteamCTA": "Jugar Marvel Rivals en Steam",
     "stats": {
       "stat1": {
-        "value": "1,325",
-        "label": "Jugadores en línea"
+        "value": "23 abr - 30 jul",
+        "label": "Ventana de Blood Hunt"
       },
       "stat2": {
-        "value": "1,986",
-        "label": "Pico de CCU"
+        "value": "1-4 Jugadores",
+        "label": "Escuadrón PvE Co-op"
       },
       "stat3": {
-        "value": "97%",
-        "label": "Reseñas positivas"
+        "value": "383.7K",
+        "label": "Reseñas en Steam"
       },
       "stat4": {
-        "value": "12 de mar. de 2026",
-        "label": "Fecha de lanzamiento"
+        "value": "16",
+        "label": "Idiomas compatibles"
       }
     }
   },
   "gameFeature": {
-    "title": "Jugabilidad de Lucid Blocks",
-    "description": "Explora biomas surrealistas, fusiona objetos con Apotheosis y sobrevive a criaturas extrañas en este sandbox de vóxeles onírico en Steam."
+    "title": "Jugabilidad de Marvel Rivals Blood Hunt",
+    "description": "Mira el tráiler oficial y aprende a despejar oleadas, derrotar a Dracula y reclamar recompensas de evento en Marvel Rivals Blood Hunt."
   },
   "tools": {
-    "title": "Lucid Blocks",
-    "titleHighlight": "Recursos",
-    "subtitle": "Todo lo que necesitas para explorar, fabricar y sobrevivir en Lucid Blocks",
+    "title": "Marvel Rivals Blood Hunt",
+    "titleHighlight": "Navegador de Módulos",
+    "subtitle": "Salta a través de cada sección de Marvel Rivals Blood Hunt, desde el resumen del evento hasta las notas del parche y actualizaciones del tráiler.",
     "cards": [
       {
         "icon": "BookOpen",
-        "title": "Guía para principiantes",
-        "description": "Primeros pasos, exploración y progresión inicial"
-      },
-      {
-        "icon": "Sparkles",
-        "title": "Fabricación de Apotheosis",
-        "description": "Sistema de fusión libre y recetas iniciales"
-      },
-      {
-        "icon": "Hammer",
-        "title": "Herramientas y armas",
-        "description": "Pico de escarcha, Azrael, __PROTECTED_6a765cb2__ y más"
-      },
-      {
-        "icon": "Package",
-        "title": "Almacenamiento e inventario",
-        "description": "Cubos de suministros, gabinetes y almacenamiento de Qualia"
-      },
-      {
-        "icon": "Home",
-        "title": "Qualia y construcción de bases",
-        "description": "Qualia personal y configuración de la base"
-      },
-      {
-        "icon": "Eye",
-        "title": "Regiones del mundo",
-        "description": "Fog Meadow, Ciénaga de la Esencia y más"
-      },
-      {
-        "icon": "AlertTriangle",
-        "title": "Criaturas y enemigos",
-        "description": "Maniquíes, arañas y cómo sobrevivir"
-      },
-      {
-        "icon": "ArrowRight",
-        "title": "Equipo de movilidad",
-        "description": "__PROTECTED_6a765cb2__, Guante planeador, __PROTECTED_163b9bec__"
-      },
-      {
-        "icon": "TrendingUp",
-        "title": "Cultivo y crecimiento",
-        "description": "Progresión de semillas y recolección de materiales"
-      },
-      {
-        "icon": "Star",
-        "title": "Mejores desbloqueos iniciales",
-        "description": "Mejoras prioritarias para la primera hora"
-      },
-      {
-        "icon": "ClipboardCheck",
-        "title": "Seguimiento de logros",
-        "description": "Los 19 logros y condiciones de Steam"
-      },
-      {
-        "icon": "MessageCircle",
-        "title": "Preguntas frecuentes del modo un jugador",
-        "description": "Preguntas sobre plataformas, precio, cooperativo e idiomas"
-      },
-      {
-        "icon": "Gamepad2",
-        "title": "Steam Deck y controles",
-        "description": "Configuración de Proton 9.0.4 y consejos para el control"
-      },
-      {
-        "icon": "Settings",
-        "title": "Ajustes y accesibilidad",
-        "description": "Ocultar manos, __PROTECTED_38625270__ y opciones de pantalla"
+        "title": "Resumen de Marvel Rivals Blood Hunt",
+        "description": "Identidad del modo, configuración de la historia y lista de héroes de un vistazo"
       },
       {
         "icon": "Clock",
-        "title": "Actualizaciones y notas del parche",
-        "description": "Correcciones recientes y notas de la hoja de ruta"
+        "title": "Fecha de lanzamiento de Marvel Rivals Blood Hunt",
+        "description": "Hora de lanzamiento, fecha de finalización y planificación de plazos"
+      },
+      {
+        "icon": "Hammer",
+        "title": "Guía para principiantes de Marvel Rivals Blood Hunt",
+        "description": "Cómo entrar al modo y completar las primeras limpiezas"
+      },
+      {
+        "icon": "Package",
+        "title": "Recompensas de Marvel Rivals Blood Hunt",
+        "description": "Moneda, cosméticos, hitos y rutas de fragmentos"
       },
       {
         "icon": "Shield",
-        "title": "Solución de cierres inesperados",
-        "description": "Verificación de __PROTECTED_38625270__, ruta de registros y reporte de errores"
+        "title": "Jefe oculto Kingpin en Marvel Rivals Blood Hunt",
+        "description": "Ruta de la Llave Dorada, objetivos ocultos y counters de Kingpin Fase 14"
+      },
+      {
+        "icon": "AlertTriangle",
+        "title": "Guía del jefe Dracula en Marvel Rivals Blood Hunt",
+        "description": "Interrupciones de manchas de sangre, ventanas de castigo por teletransporte y flujo de ráfaga de luz solar"
+      },
+      {
+        "icon": "Star",
+        "title": "Mejores personajes de Marvel Rivals Blood Hunt",
+        "description": "Selecciones S/A/B para progresión en solitario, anclas cooperativas y presión de jefes"
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "Builds de Marvel Rivals Blood Hunt",
+        "description": "Builds de héroes con enfoque en rasgos, prioridades de equipo y gestión de riesgos"
+      },
+      {
+        "icon": "ClipboardCheck",
+        "title": "Guía Pesadilla de Marvel Rivals Blood Hunt",
+        "description": "Orden de desbloqueo de Pesadilla, recompensas por hitos y planificación de fragmentos hasta 120"
+      },
+      {
+        "icon": "Eye",
+        "title": "Niveles de dificultad de Marvel Rivals Blood Hunt",
+        "description": "Comparación de rutas Normal, Difícil, Extrema y Pesadilla"
+      },
+      {
+        "icon": "Settings",
+        "title": "Guía de equipo de Marvel Rivals Blood Hunt",
+        "description": "Ranuras de equipo, uso de la Forja y prioridades de mejora de fragmentos de Uru"
+      },
+      {
+        "icon": "Sparkles",
+        "title": "Rasgos y Arcanos de Marvel Rivals Blood Hunt",
+        "description": "Ramas de rasgos, desbloqueos de pergaminos de Arcanos y flujo de mejoras de Pesadilla"
+      },
+      {
+        "icon": "Users",
+        "title": "Guía de jefes de Marvel Rivals Blood Hunt",
+        "description": "Resumen de Capwolf, Ratatoskr, Dracula y Kingpin"
+      },
+      {
+        "icon": "Keyboard",
+        "title": "Enemigos y oleadas de Marvel Rivals Blood Hunt",
+        "description": "Clases de enemigos, presión de oleadas y plan de posicionamiento"
+      },
+      {
+        "icon": "Gamepad2",
+        "title": "Consejos para solitario y cooperativo de Marvel Rivals Blood Hunt",
+        "description": "División de roles, rutas de supervivencia y ritmo de reanimación"
+      },
+      {
+        "icon": "MessageCircle",
+        "title": "Notas del parche y tráiler de Marvel Rivals Blood Hunt",
+        "description": "Puntos destacados del parche oficial y seguimiento del tráiler"
       }
     ]
   },
   "modules": {
     "lucidBlocksBeginnerGuide": {
-      "title": "Guía para principiantes de Lucid Blocks",
+      "title": "Resumen de Marvel Rivals Blood Hunt",
       "displayType": "steps",
-      "intro": "Comienza aprendiendo cómo se conectan la exploración, la fusión y la progresión. Lucid Blocks premia la experimentación, por lo que el progreso temprano proviene de recolectar materiales inusuales, probar combinaciones y desbloquear tu Qualia personal.",
+      "intro": "Marvel Rivals Blood Hunt es un modo de evento PvE por tiempo limitado dentro de Marvel Rivals, no un juego independiente. Este resumen explica cómo se juega el modo, por qué la historia de Dracula es importante y en qué deben centrarse los jugadores primero.",
       "steps": [
         {
-          "title": "Explora antes de comprometerte",
-          "description": "Camina hacia el exterior, mina bloques comunes y conserva cualquier botín extraño que encuentres. El progreso inicial se trata menos de misiones fijas y más de descubrir en qué se pueden convertir los materiales."
+          "title": "Marvel Rivals Blood Hunt es un modo de evento",
+          "description": "Marvel Rivals Blood Hunt se ejecuta dentro del cliente principal del juego como una lista de reproducción de evento vinculada a la Temporada 7.5 y la historia de la invasión de Dracula."
         },
         {
-          "title": "Desbloquea tu Qualia personal pronto",
-          "description": "Tu Qualia personal es uno de los hitos iniciales más importantes. Te brinda un lugar confiable para reagruparte y construir a su alrededor."
+          "title": "Marvel Rivals Blood Hunt es compatible con modo solitario y cooperativo",
+          "description": "Marvel Rivals Blood Hunt se puede jugar en solitario o en un escuadrón de 1 a 4 jugadores, con la selección de héroes duplicados habilitada para configuraciones de equipo flexibles."
         },
         {
-          "title": "Usa Osmio para progresar rápido al inicio",
-          "description": "El Osmio es uno de los materiales iniciales más útiles. Una ruta inicial popular es combinar Osmio con palos para fabricar un Pico de Escarcha para minar rápido."
+          "title": "Marvel Rivals Blood Hunt utiliza un ciclo de oleadas PvE",
+          "description": "Marvel Rivals Blood Hunt se centra en la eliminación de oleadas, ventanas cortas de mejora, gasto de Arcana y puntos de control de jefes en lugar de las rondas estándar de PvP."
         },
         {
-          "title": "Registra las buenas fusiones",
-          "description": "Lleva un registro de las combinaciones exitosas en tu diario. Lucid Blocks tiene muchas rutas de fusión posibles, por lo que anotar los resultados útiles ahorra mucho tiempo."
+          "title": "Marvel Rivals Blood Hunt cuenta con seis héroes de evento",
+          "description": "El repertorio de héroes de Marvel Rivals Blood Hunt incluye a Blade, Jeff the Land Shark, Moon Knight, The Punisher, Squirrel Girl y Thor."
+        },
+        {
+          "title": "La ruta de jefes de Marvel Rivals Blood Hunt escala según la dificultad",
+          "description": "Marvel Rivals Blood Hunt introduce más presión de jefes a medida que aumenta la dificultad, culminando en el progreso de Dracula y objetivos ocultos de Kingpin."
         }
       ],
       "quickTips": [
-        "Apotheosis no requiere una lista de recetas fija.",
-        "La generación de mundo infinito significa que moverte hacia arriba o hacia lo profundo puede revelar materiales completamente diferentes.",
-        "Las herramientas de movimiento y el equipo de utilidad se convierten en una gran mejora de calidad de vida una vez que comienzas a desbloquearlos.",
-        "Perderse al principio es normal, pero las herramientas útiles, el almacenamiento y las opciones de movimiento crecen como bola de nieve rápidamente una vez que tus primeras buenas fusiones empiezan a funcionar."
+        "Las primeras eliminaciones en Marvel Rivals Blood Hunt desbloquean el impulso de recompensas más rápido.",
+        "Las partidas de Marvel Rivals Blood Hunt son más fluidas cuando las mejoras de Arcana se eligen en función de los roles del equipo.",
+        "Los objetivos específicos de héroe en Marvel Rivals Blood Hunt en Nightmare 40 y 70 son hitos clave a largo plazo.",
+        "Los fragmentos de accesorios de Marvel Rivals Blood Hunt son más fáciles de optimizar cuando se combinan con el avance de hitos."
       ]
     },
     "lucidBlocksApotheosisCrafting": {
-      "title": "Artesanía de Apotheosis en Lucid Blocks",
+      "title": "Fecha de lanzamiento de Marvel Rivals Blood Hunt",
       "displayType": "cards",
-      "intro": "Apotheosis es el sistema de fusión sin restricciones del juego. En lugar de memorizar un libro de recetas tradicional, combinas materiales, observas el resultado y construyes tu propio conocimiento de artesanía con el tiempo.",
+      "intro": "Marvel Rivals Blood Hunt se lanzó el 23 de abril de 2026 a las 09:00 UTC y está programado para finalizar el 30 de julio de 2026 a las 09:00 UTC. Usa este panel de fechas para planificar tus partidas antes de que cierre el evento.",
       "cards": [
         {
-          "name": "Fusión de forma libre",
-          "description": "Apotheosis te permite fusionar diferentes objetos sin necesidad de seguir una lista de recetas fija."
+          "name": "Anuncio de Marvel Rivals Blood Hunt",
+          "description": "Marvel Rivals Blood Hunt se anunció en las notas oficiales del parche de la Versión 20260423 publicadas el 22 de abril de 2026."
         },
         {
-          "name": "Múltiples resultados útiles",
-          "description": "Diferentes materiales suelen orientarse hacia ciertos resultados. Los descubrimientos de la comunidad muestran que insumos similares pueden derivar en herramientas prácticas, almacenamiento o mejoras de combate."
+          "name": "Hora de lanzamiento de Marvel Rivals Blood Hunt",
+          "description": "Marvel Rivals Blood Hunt comenzó a estar disponible el 23 de abril de 2026 a las 09:00 UTC con el despliegue del evento de la Temporada 7.5."
         },
         {
-          "name": "Artesanía basada en el diario",
-          "description": "La mejor manera de aprender Apotheosis es registrar tus combinaciones exitosas. Tu diario se convertirá rápidamente en tu propia referencia de artesanía."
+          "name": "Periodo de actividad de Marvel Rivals Blood Hunt",
+          "description": "Marvel Rivals Blood Hunt permanecerá activo desde el 23 de abril de 2026 hasta el 30 de julio de 2026 como un modo PvE por tiempo limitado."
         },
         {
-          "name": "Fusiones iniciales probadas por la comunidad",
-          "description": "Ejemplos iniciales populares incluyen Osmio más Palo para un Pico de Escarcha, Palo más Apéndice de Tungsteno para Azrael, y Azrael más Magnetita para el Estoque de Zarcillo."
+          "name": "Fecha de finalización de Marvel Rivals Blood Hunt",
+          "description": "El acceso al evento Marvel Rivals Blood Hunt se cierra el 30 de julio de 2026 a las 09:00 UTC, por lo que las rutas de hitos deben completarse antes de esa fecha."
+        },
+        {
+          "name": "Planificación de zona horaria para Marvel Rivals Blood Hunt",
+          "description": "Los plazos de Marvel Rivals Blood Hunt se anuncian en UTC, así que convierte los cierres del evento a tu hora local para la programación del escuadrón."
+        },
+        {
+          "name": "Prioridad de plazos de Marvel Rivals Blood Hunt",
+          "description": "Los objetivos de alto valor de Marvel Rivals Blood Hunt incluyen las primeras eliminaciones, recompensas de hitos de Nightmare y el progreso de fragmentos de accesorios de Kingpin."
         }
       ],
       "milestones": [
-        "Fusionar un objeto",
-        "Fusionar una alimaña",
-        "Fusionar un artefacto divino"
+        "22 de abr de 2026: Notas oficiales del parche",
+        "23 de abr de 2026 09:00 UTC: Comienza el evento",
+        "30 de jul de 2026 09:00 UTC: Finaliza el evento",
+        "Antes del plazo: Termina los objetivos de Nightmare y fragmentos"
       ]
     },
     "lucidBlocksToolsAndWeapons": {
-      "title": "Herramientas y armas de Lucid Blocks",
+      "title": "Guía para principiantes de Marvel Rivals Blood Hunt",
       "displayType": "itemCards",
-      "intro": "Lucid Blocks mezcla equipo de utilidad oficial con armas iniciales descubiertas por la comunidad. La mejor configuración suele ser una mezcla de minería rápida, travesía segura y una opción de combate confiable.",
+      "intro": "Usa esta ruta de primera partida para entrar en Marvel Rivals Blood Hunt, elegir un héroe y ganar impulso desde la progresión Normal hasta Pesadilla.",
       "items": [
         {
-          "name": "Pico de Escarcha",
-          "type": "Herramienta de minería",
-          "description": "Un pico inicial rápido y económico hecho de Osmio y Palo. Los jugadores lo usan para acelerar la recolección inicial de materiales."
+          "name": "Abre la lista de reproducción y entra en Rivalidad",
+          "type": "Paso de acceso",
+          "description": "Desde el menú principal de Marvel Rivals, abre la lista de reproducción, cambia a la pestaña Rivalidad y selecciona el icono de Marvel Rivals Blood Hunt."
         },
         {
-          "name": "Azrael",
-          "type": "Arma inicial",
-          "description": "Una ruta práctica para un arma inicial fabricada con un Palo y un Apéndice de Tungsteno."
+          "name": "Elige una dificultad para tu primera partida",
+          "type": "Paso de progresión",
+          "description": "Comienza Marvel Rivals Blood Hunt en Normal para aprender el ritmo de las oleadas y los tiempos de los jefes antes de pasar a las dificultades Difícil y Extremo."
         },
         {
-          "name": "Estoque de Zarcillo",
-          "type": "Arma mejorada",
-          "description": "Una continuación más fuerte creada al combinar Azrael con Magnetita. Es una de las rutas de combate inicial-media más útiles compartidas por los jugadores."
+          "name": "Elige uno de los seis héroes del evento",
+          "type": "Paso de héroe",
+          "description": "Marvel Rivals Blood Hunt permite elegir héroes duplicados, por lo que los escuadrones pueden optimizar el daño, el control de oleadas o la supervivencia."
         },
         {
-          "name": "__PROTECTED_6a765cb2__",
-          "type": "Herramienta de movilidad",
-          "description": "Un objeto de travesía oficial que mejora enormemente el movimiento y la exploración vertical."
+          "name": "Configura las ranuras de equipo antes de hacer cola",
+          "type": "Paso de preparación",
+          "description": "Revisa las ranuras de armas, armaduras, accesorios y exclusivas para que las partidas de Marvel Rivals Blood Hunt comiencen con una base de construcción estable."
         },
         {
-          "name": "__PROTECTED_163b9bec__",
-          "type": "Herramienta de movilidad",
-          "description": "Un objeto de movimiento oficial que ayuda a cubrir terreno de forma más segura y eficiente."
+          "name": "Gasta puntos de rasgos entre partidas",
+          "type": "Paso de construcción",
+          "description": "El escalado en Marvel Rivals Blood Hunt mejora rápidamente cuando los puntos de rasgos se asignan a las necesidades principales de daño, defensa y utilidad."
         },
         {
-          "name": "Varita de Bola",
-          "type": "Arma de utilidad",
-          "description": "Un objeto de utilidad a distancia oficial que expande tus opciones de combate y acertijos."
+          "name": "Usa Arcanos para el escalado a mitad de la partida",
+          "type": "Paso de combate",
+          "description": "En Marvel Rivals Blood Hunt, las elecciones de Arcanos durante las partidas deciden la estabilidad de las oleadas y los puntos de ruptura de daño a los jefes."
         },
         {
-          "name": "Equipo de buceo",
-          "type": "Equipo de travesía",
-          "description": "Un objeto de utilidad oficial para llegar a áreas que de otro modo ralentizarían la exploración."
+          "name": "Recicla botines en la Forja",
+          "type": "Paso de economía",
+          "description": "Convierte los botines no deseados en fragmentos de Uru para que las mejoras de construcción de Marvel Rivals Blood Hunt se mantengan enfocadas en la ruta de tu héroe principal."
         },
         {
-          "name": "Explosivos",
-          "type": "Daño de utilidad",
-          "description": "Destacados oficialmente como parte del conjunto de herramientas principal y útiles para atravesar amenazas u obstáculos."
+          "name": "Completa la cadena: de Normal a Pesadilla",
+          "type": "Paso de objetivo",
+          "description": "El progreso en Marvel Rivals Blood Hunt es más sólido cuando cada victoria desbloquea la siguiente dificultad y la ruta de recompensas por hitos."
         }
       ]
     },
     "lucidBlocksStorageAndInventory": {
-      "title": "Almacenamiento e inventario de Lucid Blocks",
+      "title": "Recompensas de Marvel Rivals Blood Hunt",
       "displayType": "solutionCards",
-      "intro": "La presión del inventario comienza temprano en Lucid Blocks, por lo que construir almacenamiento debería ser uno de tus primeros objetivos. Ya destacan varias soluciones probadas por jugadores reales.",
+      "intro": "Las recompensas de Marvel Rivals Blood Hunt se dividen en primeras victorias, hitos de Pesadilla, desafíos específicos de héroes, seguimiento de recuento de enemigos y fabricación de fragmentos de Kingpin.",
       "solutions": [
         {
-          "name": "Cubo de Almacenamiento",
-          "role": "Almacenamiento tipo cofre",
-          "description": "Los Cubos de Almacenamiento son una de las soluciones prácticas más tempranas y los jugadores los tratan como el contenedor principal tipo cofre del juego."
+          "name": "Recompensas por primera victoria en Marvel Rivals Blood Hunt",
+          "role": "Ruta principal",
+          "description": "Las primeras victorias en Normal, Difícil y Extremo otorgan unidades, moléculas inestables y cartas de galería que establecen el valor de progresión inicial."
         },
         {
-          "name": "Gabinete",
-          "role": "Almacenamiento de base simple",
-          "description": "Los gabinetes son otra opción de almacenamiento confirmada. Una receta inicial compartida usa 1 de Madera cortada y 1 de Cuerda."
+          "name": "Hitos de Pesadilla en Marvel Rivals Blood Hunt",
+          "role": "Ruta de hitos",
+          "description": "Los puntos de control de Pesadilla recompensan con estados de ánimo, divisas, títulos y fragmentos de trofeo de Kingpin repetidos en los niveles superiores."
         },
         {
-          "name": "Qualia personal",
-          "role": "Centro de almacenamiento a largo plazo",
-          "description": "Una vez desbloqueada, tu Qualia personal se convierte en un lugar natural para organizar materiales, fabricar en paz y expandir la configuración de tu base."
+          "name": "Desafíos de héroe de Marvel Rivals Blood Hunt",
+          "role": "Ruta de héroe",
+          "description": "Cada héroe del evento recibe objetivos específicos de Pesadilla 40 y Pesadilla 70 vinculados a recompensas exclusivas de emojis y títulos."
         },
         {
-          "name": "Seguimiento en el diario",
-          "role": "Eficiencia de inventario",
-          "description": "Registrar combinaciones útiles en tu diario reduce el desperdicio de materiales y facilita mucho la gestión del inventario."
+          "name": "Recompensas por recuento de enemigos en Marvel Rivals Blood Hunt",
+          "role": "Ruta de farmeo",
+          "description": "Derrotar a un total de enemigos desbloquea cartas de galería, divisas, cosméticos de grafiti y la placa de nombre de Blood Hunt."
+        },
+        {
+          "name": "Fragmentos de trofeo de Kingpin de Marvel Rivals Blood Hunt",
+          "role": "Ruta de accesorios",
+          "description": "Los fragmentos que caen en los hitos altos de Pesadilla son necesarios para fabricar el accesorio Trofeo de Kingpin destronado."
+        },
+        {
+          "name": "Bonificación de jefe oculto de Marvel Rivals Blood Hunt",
+          "role": "Ruta de bonificación",
+          "description": "Derrotar las rutas ocultas de Kingpin desbloquea recompensas de accesorios especiales y progresión cosmética adicional."
         }
       ],
       "managementTips": [
-        "Prioriza una opción de almacenamiento confiable antes de acumular botines raros.",
-        "Construye alrededor de tu Qualia personal una vez que esté disponible.",
-        "Mantén separados los materiales de artesanía, las herramientas de combate y el equipo de movimiento para que las mejoras sean más fáciles de planificar.",
-        "Usa tu diario como parte de la gestión del inventario, no solo para descubrir recetas."
+        "Las recompensas por primera victoria de Marvel Rivals Blood Hunt deben completarse antes de intentar los niveles profundos de Pesadilla.",
+        "La planificación de fragmentos de Marvel Rivals Blood Hunt es más sencilla cuando se sigue el orden de los puntos de control de Pesadilla.",
+        "Los títulos de los desafíos de héroe de Marvel Rivals Blood Hunt deben combinarse con tu construcción de héroe más estable.",
+        "Las recompensas por recuento de enemigos de Marvel Rivals Blood Hunt progresan de forma natural durante las sesiones regulares de farmeo."
       ]
     },
     "lucidBlocksQualiaAndBaseBuilding": {
-      "title": "Qualia y construcción de bases en Lucid Blocks",
+      "title": "Jefe oculto Kingpin de Marvel Rivals Blood Hunt",
       "displayType": "cards",
-      "intro": "La Qualia es uno de los hitos de progresión más importantes en Lucid Blocks. Te brinda un espacio personal para reagruparte, almacenar materiales y convertir gradualmente el progreso de exploración en una verdadera base de operaciones.",
+      "intro": "Kingpin en Marvel Rivals Blood Hunt es un jefe oculto de la Fase 14 que solo se desbloquea cuando se completan las 3 Golden Keys en una sola partida en dificultad Extreme antes de derrotar a Dracula.",
       "cards": [
         {
-          "name": "Qualia personal",
-          "description": "Desbloquear una Qualia es un hito inicial que te da un lugar más confiable al cual regresar mientras exploras el mundo exterior."
+          "name": "Marvel Rivals Blood Hunt Paso 1: Comenzar en dificultad Extreme",
+          "description": "La ruta de Kingpin en Marvel Rivals Blood Hunt solo aparece en Extreme, así que planifica los objetivos clave antes de la Fase 13 en lugar de tratar la partida como una limpieza normal."
         },
         {
-          "name": "Construcción centrada en el almacenamiento",
-          "description": "Muchos jugadores comienzan usando su Qualia como un centro de almacenamiento antes de convertirla en una base más grande con espacios organizados para artesanía y construcción."
+          "name": "Marvel Rivals Blood Hunt Paso 2: Barrera arcana de la Fase 4 (90s)",
+          "description": "Corre hacia la barrera del puente, rómpela rápido y entra en el punto de control para asegurar la Golden Key 1 antes de que expire el temporizador de 90 segundos."
         },
         {
-          "name": "Construcción creativa de hogares",
-          "description": "Lucid Blocks admite la construcción creativa, y los jugadores ya están usando los espacios de Qualia para crear casas y diseños personalizados."
+          "name": "Marvel Rivals Blood Hunt Paso 3: Capullos de coágulos de sangre de la Fase 7",
+          "description": "Limpia los capullos de coágulos de sangre de las ruinas para obtener la Golden Key 2, con cantidades que escalan según el tamaño del equipo: Solo 1, Dúo 2, Escuadrón completo 4."
         },
         {
-          "name": "Centro de progresión",
-          "description": "Una base sólida te ayuda a separar el botín de exploración, los materiales de artesanía, las semillas, las herramientas y el equipo de movilidad para planificar mejor tus próximas mejoras."
+          "name": "Marvel Rivals Blood Hunt Paso 4: Círculo de sellado de la Fase 12 (120s)",
+          "description": "Destruye los cristales de sangre alrededor de la entrada del castillo en menos de 120 segundos para asegurar la Golden Key 3 y mantener activa la ruta oculta."
+        },
+        {
+          "name": "Marvel Rivals Blood Hunt Paso 5: Derrotar a Dracula para entrar en Times Square",
+          "description": "Una vez aseguradas todas las Golden Keys, al vencer a Dracula la partida pasará al encuentro con Kingpin en Times Square en la Fase 14."
+        },
+        {
+          "name": "Marvel Rivals Blood Hunt Paso 6: Contraataques para Kingpin",
+          "description": "Contrarresta el Trance Beam moviéndote constantemente y con ráfagas de daño, escóndete de la Charged Implosion, esquiva lateralmente el Aerial Slam y mantén la distancia con el Charge Attack."
         }
       ],
       "highlights": [
-        "Entrar en una qualia",
-        "Almacenar materiales de forma segura",
-        "Expandir de la utilidad a la decoración",
-        "Usar el espacio de la base para apoyar la artesanía y el cultivo"
+        "En Marvel Rivals Blood Hunt, perder cualquier Golden Key termina la ruta después de Dracula",
+        "En Marvel Rivals Blood Hunt, las pruebas contrarreloj de la Fase 4 y la Fase 12 son los dos puntos de fallo más difíciles",
+        "En Marvel Rivals Blood Hunt, los equipos deben avisar de la aparición de objetivos de inmediato para evitar la pérdida de tiempo",
+        "Completar Kingpin en Marvel Rivals Blood Hunt finaliza el progreso de objetivos ocultos y el desbloqueo de recompensas"
       ]
     },
     "lucidBlocksWorldRegions": {
-      "title": "Regiones del mundo de Lucid Blocks",
+      "title": "Guía del jefe Dracula en Marvel Rivals Blood Hunt",
       "displayType": "regionCards",
-      "intro": "Lucid Blocks utiliza generación de mundo infinito, por lo que los jugadores siguen descubriendo nuevos entornos y estructuras. Algunos lugares con nombre ya aparecen en los logros y en las discusiones de la comunidad.",
+      "intro": "Dracula en Marvel Rivals Blood Hunt tiene cuatro fases basadas en la curación por Bloodstain, pruebas de movimiento y una ventana final de ráfaga de daño potenciada por la luz solar.",
       "regions": [
         {
-          "name": "Fog Meadow",
-          "type": "Área destacada por la comunidad",
-          "description": "Fog Meadow ya es conocida entre los jugadores como un área tensa asociada con amenazas ocultas y encuentros peligrosos."
+          "name": "Marvel Rivals Blood Hunt Dracula Fase 1",
+          "type": "Fase de sifón de Bloodstain",
+          "description": "Evita alimentar las acumulaciones de Bloodstain, luego interrumpe la canalización del sifón de Dracula con ráfagas de daño en equipo para provocar un aturdimiento corto y una ventana de daño segura."
         },
         {
-          "name": "Línea ley de Tiamana",
-          "type": "Punto de referencia de descubrimiento",
-          "description": "La línea ley de tiamana es lo suficientemente importante como para tener su propio hito de logro, lo que la convierte en uno de los descubrimientos mundiales con nombre más claros hasta ahora."
+          "name": "Marvel Rivals Blood Hunt Dracula Fase 2",
+          "type": "Fase de agarre con teletransporte",
+          "description": "Cuando Dracula entra en la niebla de sangre, los jugadores fijados deben seguir moviéndose para que el agarre falle y se abra otra ventana de castigo."
         },
         {
-          "name": "Clonaqualia",
-          "type": "Espacio de construcción",
-          "description": "Los jugadores ya están usando Clonaqualia como un lugar para construir casas, almacenar materiales y experimentar con diseños más permanentes."
+          "name": "Marvel Rivals Blood Hunt Dracula Fase 3",
+          "type": "Fase de presión de espadas",
+          "description": "Rastrea las trayectorias de las espadas, destruye las espadas vivientes y conserva las herramientas de reanimación en lugar de forzar daño arriesgado."
         },
         {
-          "name": "Ciénaga de Esencia",
-          "type": "Área de recolección",
-          "description": "La Ciénaga de Esencia está siendo compartida por los jugadores como una ubicación útil para recolectar recursos, especialmente para luchar contra slimes y ganar experiencia."
+          "name": "Marvel Rivals Blood Hunt Dracula Fase 4",
+          "type": "Fase potenciada por luz solar",
+          "description": "Rompe ambos cristales para abrir la zona de luz solar, obtén el estado Empowered y luego lanza ráfagas de daño a Dracula durante las ventanas de vulnerabilidad."
+        },
+        {
+          "name": "Marvel Rivals Blood Hunt Dracula Core Rules",
+          "type": "Prioridad de todo el combate",
+          "description": "Trata las Fases 1-3 como una preparación de supervivencia, juega principalmente a distancia y reserva los enfriamientos más potentes para la secuencia de luz solar de la Fase 4."
         }
       ]
     },
     "lucidBlocksCreaturesAndEnemies": {
-      "title": "Criaturas y enemigos de Lucid Blocks",
+      "title": "Mejores personajes de Marvel Rivals Blood Hunt",
       "displayType": "creatureCards",
-      "intro": "Lucid Blocks mezcla criaturas surreales con peligros reales. Las descripciones oficiales y las publicaciones de la comunidad apuntan a un mundo lleno de vida extraña, amenazas hostiles y algunos encuentros destacados que los jugadores recuerdan rápidamente.",
+      "intro": "Las mejores elecciones de Marvel Rivals Blood Hunt son héroes que controlan hordas y mantienen la presión sobre los jefes sin depender de una coordinación de equipo perfecta.",
       "creatures": [
         {
-          "name": "Maniquíes",
-          "role": "Enemigo hostil",
-          "description": "Los maniquíes son uno de los enemigos nombrados oficialmente en el mundo y parte del catálogo de amenazas surreales del juego."
+          "name": "Squirrel Girl",
+          "role": "Tier S | Carry polivalente",
+          "description": "Squirrel Girl es una inversión de primer nivel en Marvel Rivals Blood Hunt con gran movilidad, presión a distancia y un escalado fiable para limpiezas en solitario o cooperativas."
         },
         {
-          "name": "Geles blandos",
-          "role": "Enemigo hostil",
-          "description": "Los geles blandos son otro tipo de enemigo nombrado oficialmente y ayudan a definir el extraño estilo biológico del juego."
+          "name": "Moon Knight",
+          "role": "Tier S | Especialista en daño de Ankh",
+          "description": "La build de Ankh de Phases of the Moon de Moon Knight otorga a los equipos de Marvel Rivals Blood Hunt un alto daño a jefes, control de masas y potentes herramientas de reposicionamiento."
         },
         {
-          "name": "Seres de dimensiones superiores",
-          "role": "Enemigo hostil",
-          "description": "Estos seres se presentan como parte del catálogo de enemigos más abstractos e inquietantes del mundo."
+          "name": "Jeff the Land Shark",
+          "role": "Tier S | Daño de agua progresivo",
+          "description": "Jeff the Land Shark progresa con fuerza en Marvel Rivals Blood Hunt una vez que Overflowing Waters y Forked Stream están activos para ráfagas contra jefes y cobertura de oleadas."
         },
         {
-          "name": "Arañas colosales",
-          "role": "Amenaza mayor",
-          "description": "Las arañas son uno de los enemigos más temidos de inmediato en las discusiones de la comunidad y son claramente un peligro memorable."
+          "name": "Thor",
+          "role": "Tier A | Ancla del equipo",
+          "description": "Thor proporciona a los escuadrones de Marvel Rivals Blood Hunt una estabilidad duradera en primera línea y daño fiable durante las partidas con muchas reanimaciones."
         },
         {
-          "name": "__PROTECTED_26ee183b__",
-          "role": "Criatura con nombre",
-          "description": "__PROTECTED_26ee183b__ es lo suficientemente notable como para tener su propio logro, lo que lo convierte en uno de los encuentros con criaturas nombradas más claros del juego."
+          "name": "Blade",
+          "role": "Tier B | Elección especializada",
+          "description": "Blade rinde en Marvel Rivals Blood Hunt cuando se orienta a una presión más segura basada en armas de fuego, pero requiere inversión y apoyo del equipo en los niveles altos."
         },
         {
-          "name": "Alimañas adorables",
-          "role": "Criatura interactuable",
-          "description": "Las alimañas no solo son parte de la progresión de fusión, también se les puede cambiar el nombre, dándoles un papel más personal que a los enemigos estándar."
-        },
-        {
-          "name": "Criatura blasfema",
-          "role": "Amenaza de élite",
-          "description": "La criatura blasfema está vinculada a un logro de combate dedicado, lo que la marca como un encuentro enemigo significativo."
+          "name": "The Punisher",
+          "role": "Tier B | Especialista en jefes",
+          "description": "The Punisher añade un fuerte daño a un solo objetivo en Marvel Rivals Blood Hunt, pero depende de sus compañeros para gestionar el control de hordas pesadas."
         }
       ]
     },
     "lucidBlocksMobilityGear": {
-      "title": "Equipo de movilidad de Lucid Blocks",
+      "title": "Builds de Marvel Rivals Blood Hunt",
       "displayType": "itemCards",
-      "intro": "Las mejoras de movimiento son uno de los mayores saltos en la calidad de vida en Lucid Blocks. Una vez que desbloqueas tus primeras herramientas de travesía, la exploración se vuelve más rápida, segura y mucho más gratificante.",
+      "intro": "Las builds de Marvel Rivals Blood Hunt se definen por los Rasgos, el tiempo de Arcana y cuatro ranuras de equipo: Arma, Armadura, Accesorio y Exclusivo.",
       "items": [
         {
-          "name": "__PROTECTED_6a765cb2__",
-          "type": "Herramienta de travesía",
-          "description": "El gancho es uno de los hitos de movimiento más claros del juego y tiene su propio logro dedicado."
+          "name": "Build de Squirrel Girl: Carry de movilidad a distancia en Marvel Rivals Blood Hunt",
+          "type": "Build en solitario o en equipo",
+          "description": "Prioriza el daño a distancia y la movilidad para que Squirrel Girl pueda kitear con seguridad, limpiar hordas y seguir aportando una presión significativa contra los jefes."
         },
         {
-          "name": "Guante planeador",
-          "type": "Movilidad aérea",
-          "description": "El guante planeador permite un viaje mucho más fluido y es otro hito importante de progresión con su propio logro."
+          "name": "Build de Moon Knight: Phases of the Moon en Marvel Rivals Blood Hunt",
+          "type": "Build de daño de Ankh",
+          "description": "Céntrate en el tiempo de actividad de Ankh, el escalado de armas a distancia y el equipo de supervivencia para maximizar el valor de Moon Knight contra jefes finales y en el control de oleadas."
         },
         {
-          "name": "__PROTECTED_163b9bec__",
-          "type": "Herramienta de travesía",
-          "description": "Los planeadores abeja se destacan oficialmente como parte del conjunto de herramientas de movimiento del juego para cubrir terreno de manera más eficiente."
+          "name": "Build de Jeff: Overflowing Waters en Marvel Rivals Blood Hunt",
+          "type": "Build de equipo progresiva",
+          "description": "Prioriza el apoyo de Overflowing Waters y Forked Stream para que Jeff pueda pasar de las oleadas iniciales más lentas a destrozar jefes con un alto daño."
         },
         {
-          "name": "Varita de Bola",
-          "type": "Equipo de utilidad",
-          "description": "Las varitas de bola son una de las herramientas especiales destacadas oficialmente y expanden la forma en que te mueves o interactúas con el mundo."
+          "name": "Build de Thor: Ancla de supervivencia en Marvel Rivals Blood Hunt",
+          "type": "Build de equipo de primera línea",
+          "description": "Acumula durabilidad con daño constante para mantener a Thor con vida durante las fases propensas a derrotas totales y preservar la estabilidad de la partida cooperativa."
         },
         {
-          "name": "Equipo de buceo",
-          "type": "Equipo de exploración",
-          "description": "El equipo de buceo figura oficialmente como parte del conjunto de utilidad principal para llegar a áreas que de otro modo serían más difíciles de explorar."
+          "name": "Build de Blade: A distancia centrada en armas en Marvel Rivals Blood Hunt",
+          "type": "Build de equipo especializada",
+          "description": "Apóyate en rasgos centrados en armas y presión a distancia sostenida, ya que el intercambio a corta distancia con Blade se castiga duramente en las fases finales de los jefes."
         },
         {
-          "name": "Explosivos",
-          "type": "Daño de utilidad",
-          "description": "Los explosivos están destacados oficialmente y vinculados a un hito de logro, lo que los hace parte de la progresión de utilidad principal del juego."
+          "name": "Build de Punisher: Jefes de un solo objetivo en Marvel Rivals Blood Hunt",
+          "type": "Build de especialista en jefes",
+          "description": "Desarrolla daño a un solo objetivo y tiempo de actividad para jefes, mientras confías en tus compañeros para cubrir el control de oleadas y el espacio de supervivencia."
         }
       ],
       "unlockMilestones": [
-        "Dominar un gancho",
-        "Volar con el guante planeador",
-        "Empuñar una varita de proyectiles",
-        "Empuñar un explosivo"
+        "La configuración de Marvel Rivals Blood Hunt debe bloquear las cuatro ranuras de equipo antes de adentrarse en Nightmare profundo",
+        "Los niveles altos de Marvel Rivals Blood Hunt recompensan la presión a distancia y la supervivencia por encima de la codicia en el cuerpo a cuerpo",
+        "El gasto de Arcana en Marvel Rivals Blood Hunt debe alinearse con los puntos de control de los jefes y las oleadas de peligro",
+        "La progresión en Marvel Rivals Blood Hunt es más fuerte con un equipamiento centrado en oleadas y otro centrado en jefes por héroe"
       ]
     },
     "lucidBlocksFarmingAndGrowth": {
-      "title": "Cultivo y crecimiento en Lucid Blocks",
-      "displayType": "mixedCards",
-      "intro": "El crecimiento es parte de la progresión real en Lucid Blocks. El cultivo no se trata solo de plantar y cosechar, sino también de establecer rutas de materiales repetibles que mantengan el flujo de tus herramientas, armas y opciones de artesanía.",
-      "sections": [
+      "title": "Guía de Marvel Rivals Blood Hunt Pesadilla",
+      "eyebrow": "Progresión de Endgame",
+      "subtitle": "Avanza en la escala de Marvel Rivals Blood Hunt Pesadilla desde el primer desbloqueo hasta las recompensas de Pesadilla 120. Rastrea la ruta de jefes, los hitos de recompensa, los Fragmentos de trofeo de Kingpin y las prioridades de despeje en solitario en un solo lugar.",
+      "displayType": "timelineCards",
+      "intro": "Marvel Rivals Blood Hunt Pesadilla es la ruta de dificultad de endgame para Blood Hunt. Se abre tras la progresión en Normal, Difícil y Extremo, convirtiendo el modo en un desafío escalable centrado en Capwolf, Ratatoskr, Dracula y Kingpin.",
+      "items": [
         {
-          "name": "Progresión de semillas",
-          "description": "Plantar y fertilizar semillas es un hito real en el juego, y cosechar una nuez completamente crecida es parte de la misma ruta de crecimiento."
+          "milestone": "Desbloqueo de Marvel Rivals Blood Hunt Pesadilla",
+          "type": "unlock",
+          "requirement": "Completa la ruta estándar Normal, Difícil y Extremo de Marvel Rivals Blood Hunt.",
+          "bossRoute": [
+            "Capwolf",
+            "Ratatoskr",
+            "Dracula",
+            "Kingpin"
+          ],
+          "focus": "Antes de avanzar en Marvel Rivals Blood Hunt Pesadilla, concentra las mejoras en un héroe principal, completa las cuatro ranuras de equipo y gasta los Puntos de Rasgo y Puntos de Arcano en lugar de repartir el progreso entre todos los personajes."
         },
         {
-          "name": "Recolección de materiales",
-          "description": "Un ciclo práctico de recolección inicial es crear Cápsulas de Mercurio, que generan pequeños slimes que sueltan zarcillos y viscosidad para materiales de artesanía repetibles."
+          "milestone": "Marvel Rivals Blood Hunt Pesadilla 5+",
+          "type": "reward",
+          "reward": [
+            "Expresión Succionasangre llorón"
+          ],
+          "focus": "Usa el primer nodo de recompensa para comprobar tu build. Si las oleadas se sienten lentas o inseguras, regresa a niveles inferiores para obtener equipo, Puntos de Rasgo y materiales de forja."
         },
         {
-          "name": "Sustento de herramientas",
-          "description": "La recolección de recursos se vuelve mucho más fuerte una vez que puedes reunir consistentemente Osmio, fragmentos de vidrio, plantas y materiales de slime para artesanías posteriores."
+          "milestone": "Marvel Rivals Blood Hunt Pesadilla 10+",
+          "type": "reward",
+          "reward": [
+            "100 Unidades"
+          ],
+          "focus": "Prioriza el despeje seguro de oleadas y mantén el movimiento listo para los ataques de los jefes que castigan el quedarse quieto."
         },
         {
-          "name": "Rutina de base",
-          "description": "La mejor configuración de cultivo apoya más que solo la comida. Debería abastecer tu almacenamiento, herramientas de movimiento, mejoras de armas y futuros experimentos de fusión."
+          "milestone": "Marvel Rivals Blood Hunt Pesadilla 15+",
+          "type": "reward",
+          "reward": [
+            "Expresión Cosecha sombría"
+          ],
+          "focus": "Trata la supervivencia como parte de tu plan de daño. Menos derribos significan más tiempo de actividad contra los jefes."
+        },
+        {
+          "milestone": "Marvel Rivals Blood Hunt Pesadilla 20+",
+          "type": "reward",
+          "reward": [
+            "100 Moléculas inestables",
+            "10 Fragmentos de trofeo de Kingpin"
+          ],
+          "focus": "Este es el primer nodo de Fragmentos de trofeo de Kingpin. Comienza a rastrear el progreso de los fragmentos para el accesorio de trofeo Kingpin destronado."
+        },
+        {
+          "milestone": "Marvel Rivals Blood Hunt Pesadilla 25+",
+          "type": "reward",
+          "reward": [
+            "Expresión Colmillos feroces"
+          ],
+          "focus": "Mejora las ranuras de equipo con bajo rendimiento antes de subir más, especialmente el arma para las pruebas de daño y la armadura para la supervivencia."
+        },
+        {
+          "milestone": "Marvel Rivals Blood Hunt Pesadilla 30+",
+          "type": "reward",
+          "reward": [
+            "100 Unidades"
+          ],
+          "focus": "Usa este punto medio para refinar tus hábitos en el orden de los jefes: presión a Capwolf, movimiento contra Ratatoskr, control de manchas de sangre de Dracula y espaciado contra Kingpin."
+        },
+        {
+          "milestone": "Marvel Rivals Blood Hunt Pesadilla 35+",
+          "type": "reward",
+          "reward": [
+            "Expresión ¡Aúúú!"
+          ],
+          "focus": "Los escuadrones deben mantener la disciplina de reanimación y evitar superponer jugadas arriesgadas durante las oleadas densas."
+        },
+        {
+          "milestone": "Marvel Rivals Blood Hunt Pesadilla 40+",
+          "type": "majorReward",
+          "reward": [
+            "100 Moléculas inestables",
+            "10 Fragmentos de trofeo de Kingpin"
+          ],
+          "heroRewards": [
+            "The Punisher: Emoji Venganza vampírica",
+            "Squirrel Girl: Emoji ¡Atrás, succionasangre!",
+            "Thor: Emoji ¡No me diste!",
+            "Moon Knight: Emoji Caballero de la Luna de Sangre",
+            "Blade: Emoji Sangre y espinas",
+            "Jeff the Land Shark: Emoji Conde Jeffulá"
+          ],
+          "focus": "Marvel Rivals Blood Hunt Pesadilla 40 es un objetivo principal de farmeo porque combina recompensas de cuenta, Fragmentos de trofeo de Kingpin y desbloqueos de emojis específicos de héroes."
+        },
+        {
+          "milestone": "Marvel Rivals Blood Hunt Pesadilla 45+",
+          "type": "reward",
+          "reward": [
+            "Expresión Durmiendo"
+          ],
+          "focus": "Sigue mejorando a tu héroe principal en lugar de cambiar demasiado pronto. La progresión específica del personaje es fundamental para los despejes posteriores."
+        },
+        {
+          "milestone": "Marvel Rivals Blood Hunt Pesadilla 50+",
+          "type": "reward",
+          "reward": [
+            "100 Unidades"
+          ],
+          "focus": "En este punto, el equipo con malas estadísticas debe desguazarse en fragmentos de Uru y redirigirse a las ranuras que tu build realmente necesita."
+        },
+        {
+          "milestone": "Marvel Rivals Blood Hunt Pesadilla 55+",
+          "type": "reward",
+          "reward": [
+            "Expresión Desdén real"
+          ],
+          "focus": "La consistencia contra los jefes importa más que las prisas. Evita recibir daño de Dracula porque las acumulaciones de manchas de sangre pueden convertirse en curación para él."
+        },
+        {
+          "milestone": "Marvel Rivals Blood Hunt Pesadilla 60+",
+          "type": "reward",
+          "reward": [
+            "100 Moléculas inestables",
+            "10 Fragmentos de trofeo de Kingpin"
+          ],
+          "focus": "Este es otro punto de control clave de fragmentos. Si estás farmeando el accesorio de trofeo, repite el nivel de Pesadilla más alto que puedas completar de forma fiable."
+        },
+        {
+          "milestone": "Marvel Rivals Blood Hunt Pesadilla 65+",
+          "type": "reward",
+          "reward": [
+            "Expresión Moreteado"
+          ],
+          "focus": "Prepárate para el salto de Pesadilla 70 terminando los rasgos principales y fortaleciendo el Arcano que potencie el daño, la salud o el impacto crítico."
+        },
+        {
+          "milestone": "Marvel Rivals Blood Hunt Pesadilla 70+",
+          "type": "majorReward",
+          "reward": [
+            "100 Unidades",
+            "Acceso a pergaminos de Arcano de alto nivel"
+          ],
+          "heroRewards": [
+            "The Punisher: Título Ejecutor intrépido",
+            "Squirrel Girl: Título Roedor voraz",
+            "Thor: Título Trueno purificador",
+            "Moon Knight: Título Mercenario de medianoche",
+            "Blade: Título Duelista caminante diurno",
+            "Jeff the Land Shark: Título Jeff el tiburón nocturno"
+          ],
+          "focus": "Marvel Rivals Blood Hunt Pesadilla 70 es el segundo objetivo principal específico de héroe. También abre la capa superior de progresión de Arcano vinculada al Pergamino de bendición y al Pergamino de Midas."
+        },
+        {
+          "milestone": "Marvel Rivals Blood Hunt Pesadilla 80+",
+          "type": "reward",
+          "reward": [
+            "10 Fragmentos de trofeo de Kingpin"
+          ],
+          "focus": "Avanza aquí cuando tus despejes sean estables. Las recompensas de fragmentos se convierten en la razón principal para seguir subiendo más allá del nivel de títulos."
+        },
+        {
+          "milestone": "Marvel Rivals Blood Hunt Pesadilla 100+",
+          "type": "majorReward",
+          "reward": [
+            "Título Perdición de todo mal",
+            "10 Fragmentos de trofeo de Kingpin"
+          ],
+          "focus": "Marvel Rivals Blood Hunt Pesadilla 100 es un hito de prestigio. Crea una build para la supervivencia constante contra jefes en lugar de solo daño de ráfaga máximo."
+        },
+        {
+          "milestone": "Marvel Rivals Blood Hunt Pesadilla 120+",
+          "type": "finalRewardNode",
+          "reward": [
+            "10 Fragmentos de trofeo de Kingpin"
+          ],
+          "focus": "Marvel Rivals Blood Hunt Pesadilla 120 es el nodo de recompensa más alto de la lista. Usa a tu héroe completado más fuerte, equipo optimizado y Arcanos mejorados antes de intentar despejes repetidos."
+        },
+        {
+          "milestone": "Regla de despeje en solitario de Marvel Rivals Blood Hunt",
+          "type": "survivalNote",
+          "reward": [],
+          "focus": "Los intentos en solitario son mucho menos permisivos porque ser noqueado termina la partida inmediatamente. En el juego en escuadrón, los héroes caídos pueden reanimarse tras un breve retraso, por lo que los equipos coordinados tienen más margen para recuperarse de los errores."
+        },
+        {
+          "milestone": "Objetivo de fragmentos de Marvel Rivals Blood Hunt",
+          "type": "collectionNote",
+          "reward": [
+            "Accesorio Trofeo de Kingpin destronado"
+          ],
+          "requirement": "Colecciona 100 Fragmentos de trofeo de Kingpin.",
+          "focus": "Marvel Rivals Blood Hunt Pesadilla 20, 40, 60, 80, 100 y 120 contribuyen con fragmentos, así que planifica tu ruta de farmeo alrededor del nodo más alto que puedas completar consistentemente."
         }
-      ],
-      "growthMilestones": [
-        "Fertilizar una semilla",
-        "Cosechar una nuez completamente crecida",
-        "Crear ciclos de materiales repetibles",
-        "Convertir el cultivo en progresión a largo plazo"
       ]
     },
     "lucidBlocksBestEarlyUnlocks": {
-      "title": "Mejores desbloqueos iniciales de Lucid Blocks",
-      "displayType": "priorityCards",
-      "intro": "Los desbloqueos iniciales más fuertes son aquellos que mejoran la seguridad, el almacenamiento y el movimiento. En Lucid Blocks, unas pocas mejoras prácticas pueden hacer que el resto del juego sea mucho más fluido.",
-      "priorities": [
+      "title": "Niveles de dificultad de Marvel Rivals Blood Hunt",
+      "eyebrow": "Ruta de dificultad",
+      "subtitle": "Compara los niveles Normal, Difícil, Extremo y Pesadilla de Marvel Rivals Blood Hunt antes de elegir una partida. Cada nivel cambia la ruta de jefes, el valor de las recompensas y las exigencias de progresión.",
+      "displayType": "tableCards",
+      "intro": "Marvel Rivals Blood Hunt comienza con tres niveles de dificultad estándar y añade Pesadilla como el escalafón final tras esos niveles. Normal introduce a Capwolf, Difícil añade a Ratatoskr, Extremo trae a Dracula y objetivos ocultos de Kingpin, y Pesadilla recorre todo el desafío de jefes como un reto progresivo.",
+      "items": [
         {
-          "name": "Qualia personal",
-          "priority": "Esencial",
-          "description": "Tan pronto como obtengas acceso a tu Qualia personal, tu partida se volverá mucho más estable. Actúa como un centro confiable para el almacenamiento, la construcción y el reagrupamiento."
+          "difficulty": "Marvel Rivals Blood Hunt Normal",
+          "bosses": [
+            "Capwolf"
+          ],
+          "unlock": "Dificultad de entrada para Marvel Rivals Blood Hunt.",
+          "firstClearReward": [
+            "100 Unidades",
+            "Tarjeta de galería Rey en el exilio"
+          ],
+          "bestFor": "Aprender el flujo de las oleadas, probar a los seis héroes jugables y obtener tus primeros botines de equipo.",
+          "farmAdvice": "Empieza aquí si tu héroe tiene equipo débil o no has invertido en rasgos. Sube de nivel una vez que Capwolf te resulte sencillo."
         },
         {
-          "name": "Pico de Escarcha",
-          "priority": "Muy alta",
-          "description": "Una herramienta de minería inicial rápida y barata hecha de Osmio y Palo. Es una de las mejoras más útiles para acelerar la recolección inicial de recursos."
+          "difficulty": "Marvel Rivals Blood Hunt Difícil",
+          "bosses": [
+            "Capwolf",
+            "Ratatoskr"
+          ],
+          "unlock": "Progreso tras Marvel Rivals Blood Hunt Normal.",
+          "firstClearReward": [
+            "100 Moléculas inestables",
+            "Tarjeta de galería Ardilla desatada"
+          ],
+          "bestFor": "Practicar la ruta del segundo jefe y conseguir equipo de calidad suficiente para Extremo.",
+          "farmAdvice": "Usa Difícil cuando Normal sea demasiado fácil pero Extremo aún se sienta inestable, especialmente si Ratatoskr está causando derrotas totales."
         },
         {
-          "name": "Cubo de Almacenamiento",
-          "priority": "Muy alta",
-          "description": "La presión del inventario comienza pronto, por lo que obtener tu primer contenedor confiable tipo cofre es una mejora importante de calidad de vida."
+          "difficulty": "Marvel Rivals Blood Hunt Extremo",
+          "bosses": [
+            "Capwolf",
+            "Ratatoskr",
+            "Dracula",
+            "Kingpin si se completan los objetivos ocultos"
+          ],
+          "unlock": "Progreso tras Marvel Rivals Blood Hunt Difícil.",
+          "firstClearReward": [
+            "100 Unidades",
+            "Tarjeta de galería Temporada de caza"
+          ],
+          "bestFor": "Aprender la ruta completa de Dracula, completar los objetivos ocultos de Kingpin y prepararse para Pesadilla.",
+          "farmAdvice": "Farmea en Extremo cuando puedas derrotar a Dracula con seguridad. Completa los objetivos ocultos de la Fase 4, Fase 7 y Fase 12 si quieres el encuentro con Kingpin y sus recompensas de primera vez."
         },
         {
-          "name": "__PROTECTED_6a765cb2__",
-          "priority": "Alta",
-          "description": "El gancho es uno de los hitos de movimiento más claros del juego y rápidamente hace que la exploración sea más rápida y segura."
-        },
-        {
-          "name": "Guante planeador",
-          "priority": "Alta",
-          "description": "El guante planeador añade otro gran impulso a la movilidad y hace que el movimiento a larga distancia sea mucho más eficiente."
-        },
-        {
-          "name": "Varita de proyectiles o bombas",
-          "priority": "Alta",
-          "description": "Una herramienta a distancia o una opción explosiva te brinda una respuesta más segura ante enemigos peligrosos y encuentros tipo desafío."
+          "difficulty": "Marvel Rivals Blood Hunt Pesadilla",
+          "bosses": [
+            "Capwolf",
+            "Ratatoskr",
+            "Dracula",
+            "Kingpin"
+          ],
+          "unlock": "Se desbloquea tras superar la ruta estándar de Marvel Rivals Blood Hunt en Normal, Difícil y Extremo.",
+          "firstClearReward": [
+            "Los hitos de recompensa comienzan en Pesadilla 5 y continúan hasta Pesadilla 120"
+          ],
+          "bestFor": "Farmeo de nivel máximo, fragmentos de trofeo de Kingpin, emojis específicos de héroe, títulos específicos de héroe y desafíos de superación en solitario.",
+          "farmAdvice": "Solo avanza al siguiente nodo de Pesadilla cuando tu nivel actual sea seguro. Para farmear, repite el nivel de Pesadilla más alto que puedas completar sin morir con frecuencia."
         }
       ]
     },
     "lucidBlocksAchievementTracker": {
-      "title": "Seguimiento de logros de Lucid Blocks",
-      "displayType": "achievementGrid",
-      "intro": "Lucid Blocks tiene actualmente 19 logros de Steam, y se dividen naturalmente en progresión de exploración, artesanía, movilidad, combate y crecimiento.",
-      "groups": [
+      "title": "Guía de Equipo de Marvel Rivals Blood Hunt",
+      "eyebrow": "Progresión de la Build",
+      "subtitle": "Comprende el Arma, Armadura, Accesorio y Equipo Exclusivo de Marvel Rivals Blood Hunt antes de gastar materiales de la Forja. El equipo es la capa principal de botín que convierte las partidas repetidas en limpiezas más fuertes.",
+      "displayType": "tableCards",
+      "intro": "Cada héroe de Marvel Rivals Blood Hunt tiene cuatro ranuras de equipo: Arma, Armadura, Accesorio y Exclusivo. El equipo cae de enemigos comunes y jefes, viene en cinco niveles de rareza y puede reciclarse en Fragmentos de Uru para intentos específicos en la Forja.",
+      "items": [
         {
-          "name": "Exploración",
-          "achievements": [
-            {
-              "title": "__PROTECTED_c973d4a3__ α",
-              "description": "Entrar en una qualia."
-            },
-            {
-              "title": "__PROTECTED_c973d4a3__ γ",
-              "description": "Descubrir una línea ley de tiamana."
-            },
-            {
-              "title": "__PROTECTED_c973d4a3__ δ",
-              "description": "Superar un desafío de tiamana."
-            },
-            {
-              "title": "__PROTECTED_c973d4a3__ ε",
-              "description": "Logro oculto."
-            }
-          ]
+          "gearType": "Arma de Marvel Rivals Blood Hunt",
+          "slotEffect": "Aumenta la producción de daño.",
+          "howToGet": "Cae de enemigos comunes y jefes durante las partidas de Blood Hunt.",
+          "forgeUse": "Fabrica esta ranura cuando el daño a los jefes parezca demasiado bajo o las fases de Dracula y Kingpin tarden demasiado.",
+          "nightmarePriority": "Muy alta porque las limpiezas de jefes más rápidas reducen la cantidad de mecánicas peligrosas que debes sobrevivir."
         },
         {
-          "name": "Artesanía e invocación",
-          "achievements": [
-            {
-              "title": "Apotheosis α",
-              "description": "Fusionar un objeto."
-            },
-            {
-              "title": "Apotheosis β",
-              "description": "Fusionar una alimaña."
-            },
-            {
-              "title": "Apotheosis γ",
-              "description": "Fusionar un artefacto divino."
-            },
-            {
-              "title": "Arcángel β",
-              "description": "Invoca tu fe."
-            }
-          ]
+          "gearType": "Armadura de Marvel Rivals Blood Hunt",
+          "slotEffect": "Aumenta la salud y la resistencia al daño.",
+          "howToGet": "Cae de enemigos comunes y jefes durante las partidas de Blood Hunt.",
+          "forgeUse": "Fabrica esta ranura cuando estés muriendo por la presión de las oleadas, el daño explosivo de los jefes o esquivas fallidas.",
+          "nightmarePriority": "Muy alta para limpiezas en solitario y niveles avanzados de Nightmare donde los errores se castigan severamente."
         },
         {
-          "name": "Movilidad y utilidad",
-          "achievements": [
-            {
-              "title": "Virtud α",
-              "description": "Volar con el guante planeador."
-            },
-            {
-              "title": "Virtud β",
-              "description": "Dominar un gancho."
-            },
-            {
-              "title": "Arcángel α",
-              "description": "Empuñar una varita de proyectiles."
-            },
-            {
-              "title": "Arcángel γ",
-              "description": "Empuñar un explosivo."
-            }
-          ]
+          "gearType": "Accesorio de Marvel Rivals Blood Hunt",
+          "slotEffect": "Añade efectos de bonificación como Tasa Crítica y Tasa de Bloqueo.",
+          "howToGet": "Cae de enemigos comunes y jefes durante las partidas de Blood Hunt.",
+          "forgeUse": "Fabrica esta ranura cuando tu build necesite una estadística secundaria específica para estabilizar el daño o la defensa.",
+          "nightmarePriority": "Alta porque las bonificaciones de Accesorio pueden llevar una build de la supervivencia básica al farmeo constante."
         },
         {
-          "name": "Combate y criaturas",
-          "achievements": [
-            {
-              "title": "Masacre de __PROTECTED_26ee183b__",
-              "description": "Derrotar osos burbuja inocentes."
-            },
-            {
-              "title": "Arcángel δ",
-              "description": "Eliminar una criatura blasfema."
-            },
-            {
-              "title": "__PROTECTED_c973d4a3__ β",
-              "description": "Morir."
-            },
-            {
-              "title": "Dominio γ",
-              "description": "Cambiar el nombre a una alimaña adorable."
-            }
-          ]
+          "gearType": "Equipo Exclusivo de Marvel Rivals Blood Hunt",
+          "slotEffect": "Equipo específico del personaje que potencia las habilidades de un héroe.",
+          "howToGet": "Cae de enemigos comunes y jefes durante las partidas de Blood Hunt.",
+          "forgeUse": "Fabrica esta ranura para tu héroe principal cuando quieras un mayor escalado de habilidades en lugar de estadísticas genéricas.",
+          "nightmarePriority": "Alta para los jugadores que se especializan en un héroe porque el Equipo Exclusivo apoya directamente el estilo de juego específico del personaje en el que estás invirtiendo."
         },
         {
-          "name": "Crecimiento y cultivo",
-          "achievements": [
-            {
-              "title": "Dominio α",
-              "description": "Fertilizar una semilla."
-            },
-            {
-              "title": "Dominio β",
-              "description": "Cosechar una nuez completamente crecida."
-            },
-            {
-              "title": "Dominio δ",
-              "description": "Logro oculto."
-            }
-          ]
+          "gearType": "Rareza de Equipo de Marvel Rivals Blood Hunt",
+          "slotEffect": "El equipo viene en cinco niveles de rareza, y un mayor nivel de héroe mejora la probabilidad de obtener una mejor calidad de equipo.",
+          "howToGet": "Sigue jugando y subiendo de nivel al héroe que quieras desarrollar.",
+          "forgeUse": "Usa la Forja después de subir de nivel a un héroe para mejorar las probabilidades de obtener mejor equipo fabricado.",
+          "nightmarePriority": "Progresión principal: obtener mejores niveles de rareza es una de las formas más directas de prepararse para los desafíos de Nightmare."
+        },
+        {
+          "gearType": "Forja de Marvel Rivals Blood Hunt",
+          "slotEffect": "Recicla el equipo no deseado en Fragmentos de Uru y fabrica equipo nuevo para un héroe y ranura seleccionados.",
+          "howToGet": "Abre el menú de la Forja desde los sistemas de preparación de Blood Hunt.",
+          "forgeUse": "Elige el héroe y la ranura que necesites, luego gasta Fragmentos de Uru para una nueva obtención de equipo.",
+          "nightmarePriority": "Esencial cuando una ranura débil bloquea el progreso o cuando quieres centrar todos los recursos en un héroe principal."
+        },
+        {
+          "gearType": "Fragmentos de Uru de Marvel Rivals Blood Hunt",
+          "slotEffect": "Material de fabricación creado al desguazar o fundir equipo.",
+          "howToGet": "Desguaza el equipo no deseado en el menú de la Forja.",
+          "forgeUse": "Gasta fragmentos en intentos de fabricación específicos para héroe y ranura.",
+          "nightmarePriority": "Guarda los fragmentos para las ranuras más débiles de tu héroe principal en lugar de repartirlos entre todos los personajes."
+        },
+        {
+          "gearType": "Probabilidades de Fabricación de Marvel Rivals Blood Hunt",
+          "slotEffect": "Los resultados de la Forja implican RNG, y el icono de información del juego muestra las probabilidades exactas.",
+          "howToGet": "Revisa la pantalla de la Forja antes de gastar materiales.",
+          "forgeUse": "Usa las probabilidades para decidir si seguir farmeando botines o gastar Fragmentos de Uru ahora.",
+          "nightmarePriority": "Importante para un farmeo eficiente porque los fragmentos desperdiciados retrasan la finalización de la build en el juego avanzado."
         }
       ]
     },
     "lucidBlocksSingleplayerAndPlatformFAQ": {
-      "title": "Preguntas frecuentes sobre un solo jugador y plataformas de Lucid Blocks",
-      "displayType": "accordion",
-      "intro": "Estas son las preguntas principales sobre plataformas y acceso que los jugadores suelen hacer antes de comprar Lucid Blocks.",
-      "faqs": [
+      "title": "Rasgos y Arcanos de Marvel Rivals Blood Hunt",
+      "eyebrow": "Mejoras de Héroe",
+      "subtitle": "Los Rasgos y Arcanos de Marvel Rivals Blood Hunt son las capas de mejora que permiten que tu héroe progrese más allá del Equipo básico. Úsalos para convertir las partidas repetidas en intentos de Nightmare más fuertes.",
+      "displayType": "acordeón",
+      "intro": "Los Rasgos de Marvel Rivals Blood Hunt son el árbol de habilidades específico de cada héroe potenciado por Puntos de Rasgo obtenidos en partidas y al subir de nivel. Los Arcanos son la capa de progresión más lenta pero pesada, que utiliza Puntos de Arcano y pergaminos para desbloquear mayores aumentos de estadísticas vinculados al daño, la salud, el rendimiento crítico e hitos de dificultad más altos.",
+      "items": [
         {
-          "question": "¿Es Lucid Blocks para un solo jugador?",
-          "answer": "Sí. Lucid Blocks es un juego para un solo jugador."
+          "label": "Puntos de Rasgo de Marvel Rivals Blood Hunt",
+          "summary": "Los Puntos de Rasgo se ganan jugando partidas de Marvel Rivals Blood Hunt y subiendo de nivel a un héroe.",
+          "content": "Gasta los Puntos de Rasgo en la sección de Rasgos del héroe que estés desarrollando activamente. Debido a que la progresión está ligada a la inversión en el héroe, centrarse primero en un personaje principal suele generar un progreso más rápido en el modo Nightmare de Marvel Rivals Blood Hunt que repartir los puntos equitativamente entre los seis héroes.",
+          "priority": "Comienza aquí siempre que sientas que tu héroe es débil incluso con un Equipo utilizable."
         },
         {
-          "question": "¿Está planeado el multijugador o cooperativo?",
-          "answer": "No. No se planea multijugador para el lanzamiento ni para futuras actualizaciones."
+          "label": "Rasgos Generales de Marvel Rivals Blood Hunt",
+          "summary": "Los Rasgos Generales mejoran los atributos base de un héroe.",
+          "content": "Esta rama es la inversión inicial más segura cuando necesitas más estabilidad básica. Refuerza cada parte de la partida porque unas mejores estadísticas principales ayudan en las oleadas, las peleas contra jefes y los intentos en solitario.",
+          "priority": "Elige Rasgos Generales pronto si mueres antes de las fases de los jefes o si pierdes demasiada salud durante las oleadas."
         },
         {
-          "question": "¿Dónde puedo jugar Lucid Blocks?",
-          "answer": "Actualmente está disponible en Steam para Windows."
+          "label": "Rasgos de Habilidades Distintivas de Marvel Rivals Blood Hunt",
+          "summary": "Cada héroe también tiene dos ramas de Rasgos centradas en habilidades.",
+          "content": "Estas ramas mejoran las herramientas de daño distintivas del héroe. Blade, por ejemplo, tiene rutas de Rasgos dedicadas para Danza de Hojas Purificadora y Rompealmas de Plata, mientras que las ramas de The Punisher mejoran sus habilidades principales.",
+          "priority": "Invierte aquí una vez que sepas qué ciclo de habilidades sustenta tu configuración."
         },
         {
-          "question": "¿Cuánto cuesta Lucid Blocks?",
-          "answer": "$9.99 en Steam."
+          "label": "Puntos de Arcano de Marvel Rivals Blood Hunt",
+          "summary": "Los Puntos de Arcano se acumulan más lentamente que los Puntos de Rasgo, pero desbloquean mayores ganancias de estadísticas.",
+          "content": "Las mejoras de Arcanos pueden aumentar estadísticas de combate importantes como la salud, el daño y la tasa de crítico. Esto convierte a los Arcanos en una capa fundamental a largo plazo para Nightmare, donde las pequeñas brechas de estadísticas se hacen evidentes durante los enfrentamientos contra jefes.",
+          "priority": "No ignores los Arcanos solo porque suban de nivel más despacio. Son una de las mayores fuentes de poder en el juego avanzado."
         },
         {
-          "question": "¿Lucid Blocks es compatible con controles?",
-          "answer": "Sí, pero no se recomienda jugar con control porque los menús no están diseñados para ello."
+          "label": "Pergamino de Conquista de Marvel Rivals Blood Hunt",
+          "summary": "Se desbloquea en la dificultad Normal y aumenta la bonificación de potencia total.",
+          "content": "Este pergamino es la ruta ofensiva directa de Arcanos. Úsalo cuando tus limpiezas de enemigos sean seguras pero los jefes tarden demasiado en caer.",
+          "priority": "Priorízalo para configuraciones centradas en el daño y para aumentar la velocidad de farmeo en Nightmare."
         },
         {
-          "question": "¿Lucid Blocks funciona en Steam Deck?",
-          "answer": "Sí. Proton 9.0 o 9.0.4 es la configuración recomendada habitualmente para Steam Deck."
+          "label": "Pergamino de Inmortalidad de Marvel Rivals Blood Hunt",
+          "summary": "Se desbloquea en la dificultad Normal y aumenta la salud.",
+          "content": "Este pergamino ayuda a la supervivencia y le da a tu héroe más margen para recuperarse de la presión de las oleadas o de errores contra los jefes.",
+          "priority": "Priorízalo para limpiezas en solitario, avances iniciales en Nightmare o cualquier configuración que muera antes de terminar las fases de los jefes."
         },
         {
-          "question": "¿Lucid Blocks funciona en Linux?",
-          "answer": "Sí. Se informa que Proton 9.0 funciona bien para Linux y Steam Deck."
+          "label": "Pergamino de Bendición de Marvel Rivals Blood Hunt",
+          "summary": "Se desbloquea tras completar Nightmare 70 en Marvel Rivals Blood Hunt.",
+          "content": "Este es uno de los pergaminos de Arcanos de alto nivel vinculados a la progresión avanzada de Nightmare. Considera Nightmare 70 como el umbral donde la progresión de Arcanos se expande más allá de los pergaminos básicos desbloqueados en Normal.",
+          "priority": "Búscalo una vez que el héroe elegido pueda alcanzar hitos avanzados de Nightmare de forma constante."
         },
         {
-          "question": "¿Habrá soporte para Mac o Android?",
-          "answer": "Es posible que sean compatibles en el futuro, pero no son plataformas de lanzamiento actuales."
+          "label": "Pergamino de Midas de Marvel Rivals Blood Hunt",
+          "summary": "Se desbloquea tras completar Nightmare 70 en Marvel Rivals Blood Hunt.",
+          "content": "Este es otro pergamino de Arcanos de alto nivel vinculado al hito de Nightmare 70. Ofrece a los jugadores a largo plazo una razón adicional para seguir mejorando a un héroe más allá de los nodos de recompensa iniciales.",
+          "priority": "Úsalo como parte del plan de mejora posterior a Nightmare 70 para ascender más en la clasificación."
         },
         {
-          "question": "¿Lucid Blocks tiene traducciones?",
-          "answer": "No. Actualmente no hay traducciones planeadas."
+          "label": "Gasto de Arcanos en Partida de Marvel Rivals Blood Hunt",
+          "summary": "Los jugadores gastan Arcanos iniciales al principio de una partida y pueden volver a gastarlos entre oleadas.",
+          "content": "Después de las oleadas, aparece un punto de reunión y el breve tiempo de inactividad permite a los jugadores gastar Arcanos antes de que comience la siguiente oleada. Las buenas elecciones de Arcanos ayudan a convertir una partida difícil en un intento estable contra el jefe.",
+          "priority": "Gasta deliberadamente entre oleadas en lugar de avanzar apresuradamente con poder sin usar."
         },
         {
-          "question": "¿Lucid Blocks seguirá recibiendo actualizaciones?",
-          "answer": "Sí. Se planean algunas actualizaciones de contenido después del lanzamiento, pero no pretenden continuar con un calendario regular indefinido."
+          "label": "Ruta de Mejora de Nightmare en Marvel Rivals Blood Hunt",
+          "summary": "Usa el Equipo, los Rasgos y los Arcanos en conjunto en lugar de tratarlos como sistemas separados.",
+          "content": "Una ruta práctica es: completar los espacios de Equipo básico, invertir en Rasgos Generales para obtener estabilidad, añadir Rasgos de habilidades distintivas para el daño, desmantelar Equipo débil para obtener Fragmentos de Uru y luego priorizar las mejoras de Arcanos a medida que la clasificación de Nightmare exija más estadísticas.",
+          "priority": "Ideal para jugadores estancados en Nightmare 40, Nightmare 70 o nodos superiores de farmeo de fragmentos de Marvel Rivals Blood Hunt."
         }
       ]
     },
     "lucidBlocksSteamDeckAndController": {
-      "title": "Lucid Blocks en Steam Deck y controles",
-      "displayType": "accordion",
-      "intro": "Lucid Blocks puede ejecutarse en Steam Deck, pero la configuración predeterminada puede necesitar ajustes. El teclado y el mouse siguen siendo la opción más fluida para los menús y el juego en general.",
-      "faqs": [
+      "title": "Marvel Rivals Blood Hunt Bosses Guide",
+      "eyebrow": "Marvel Rivals Blood Hunt Boss Guide",
+      "subtitle": "Track Marvel Rivals Blood Hunt boss order from Capwolf to Kingpin with unlock difficulty, core mechanics, and fast strategy notes.",
+      "displayType": "cardList",
+      "intro": "Marvel Rivals Blood Hunt escalates from early vampire waves into a full boss gauntlet. Normal starts with Capwolf, Hard adds Ratatoskr, Extreme adds Dracula and the hidden Kingpin route, and Nightmare applies the full high-pressure ladder.",
+      "items": [
         {
-          "question": "¿Lucid Blocks funciona en Steam Deck?",
-          "answer": "Sí. Proton 9.0 funciona bien, y Proton 9.0.4 es una solución compartida habitualmente para problemas en Steam Deck."
+          "boss": "Capwolf",
+          "bossOrder": 1,
+          "appearsFrom": "Marvel Rivals Blood Hunt Normal and above",
+          "encounterRole": "Opening boss and the first Marvel Rivals Blood Hunt durability check.",
+          "coreMechanics": [
+            "Capwolf marks one player as Prey and prioritizes attacks on that target.",
+            "Capwolf uses shield and claw swipes, ground-smash leaps, forward charges, and a shield throw that can stun.",
+            "In phase two, Capwolf can heal by damaging the Prey and can channel a pin combo that should be interrupted with focused burst.",
+            "Near defeat, Capwolf gains regeneration and a large shield, so breaking the shield opens a punish window."
+          ],
+          "basicStrategy": [
+            "Keep the marked Prey moving while the rest of the team attacks from safe angles.",
+            "Punish missed double pounces because Capwolf briefly stuns himself after both pounces miss.",
+            "Save burst cooldowns for the channel-pin and near-death shield windows."
+          ],
+          "bestForLearning": "Marvel Rivals Blood Hunt positioning, target focus, and interrupt timing."
         },
         {
-          "question": "¿Qué debo hacer si los controles de Steam Deck no funcionan?",
-          "answer": "Fuerza la compatibilidad y cambia el juego a Proton 9.0.4. Es posible que la configuración predeterminada no acepte correctamente la entrada del control."
+          "boss": "Ratatoskr",
+          "bossOrder": 2,
+          "appearsFrom": "Marvel Rivals Blood Hunt Hard and above",
+          "encounterRole": "Mobility and blood-zone pressure boss in Marvel Rivals Blood Hunt.",
+          "coreMechanics": [
+            "Ratatoskr uses close-range bite and horn swings against players in front.",
+            "Ratatoskr leaps back to create distance, then charges forward and can restore health on hit.",
+            "Tail swings knock nearby players airborne and punish stacked positioning.",
+            "Enrage strengthens attacks and creates blood-stain zones, and critical damage shortens the enrage window."
+          ],
+          "basicStrategy": [
+            "Stay out of the front cone and avoid fighting from tight corners.",
+            "Spread enough to limit blood-zone overlap, but stack inside split-damage impact circles when required.",
+            "Keep ranged pressure during sprint and leap cycles instead of chasing blindly."
+          ],
+          "bestForLearning": "Marvel Rivals Blood Hunt arena spacing, ranged uptime, and team damage sharing."
         },
         {
-          "question": "¿Lucid Blocks es compatible con controles?",
-          "answer": "Sí, pero no se recomienda jugar con control porque los menús del juego no están diseñados para ello."
+          "boss": "Dracula",
+          "bossOrder": 3,
+          "appearsFrom": "Marvel Rivals Blood Hunt Extreme and Nightmare",
+          "encounterRole": "Main Marvel Rivals Blood Hunt end boss.",
+          "coreMechanics": [
+            "Players gain Bloodstain stacks after taking damage.",
+            "Dracula siphons Bloodstain stacks from all players and converts them into a large heal unless the channel is interrupted.",
+            "Dracula uses sword waves, frontal pull-and-shockwave attacks, tracking blood storms, and mist teleports that can become a damaging grab.",
+            "Final phases add sentient swords, persistent vampire spawns, and Norn Stone sunlight objective windows."
+          ],
+          "basicStrategy": [
+            "Minimize damage before siphon channels so Dracula has fewer Bloodstain stacks to consume.",
+            "Interrupt siphon channels with focused burst and punish the stun window.",
+            "Destroy portal crystals quickly, enter the sunlight zone, and attack while empowered to trigger heavy vulnerability."
+          ],
+          "bestForLearning": "Marvel Rivals Blood Hunt stack management, burst interrupts, and phase objectives."
         },
         {
-          "question": "¿Es posible el soporte para Linux?",
-          "answer": "Sí. Se informa que Proton 9.0 funciona bien para Linux y Steam Deck."
-        },
-        {
-          "question": "¿Cuál es la mejor configuración de entrada?",
-          "answer": "El teclado y el mouse son la opción más fluida para la navegación por los menús y el juego general momento a momento."
+          "boss": "Kingpin",
+          "bossOrder": 4,
+          "appearsFrom": "Marvel Rivals Blood Hunt Extreme secret route and Nightmare",
+          "encounterRole": "Hidden Marvel Rivals Blood Hunt final boss and event prize gate.",
+          "coreMechanics": [
+            "Kingpin is unlocked in Extreme by completing hidden objectives before the post-Dracula secret phase.",
+            "Kingpin uses control effects that can stun or freeze players until they break out.",
+            "Charged Implosion creates a large danger zone that can instantly down exposed players.",
+            "Heavy jumps end in high AoE impact damage and punish slow repositioning."
+          ],
+          "basicStrategy": [
+            "Enter Extreme with the team aligned on the required Phase 4, Phase 7, and Phase 12 objectives.",
+            "Maintain distance and sustained pressure instead of forcing close-range trades.",
+            "During Charged Implosion, either burst inside the dome fast enough to stun Kingpin or break line-of-sight behind map objects."
+          ],
+          "bestForLearning": "Marvel Rivals Blood Hunt secret-objective routing, cover usage, and burst-or-hide decisions."
         }
       ]
     },
     "lucidBlocksSettingsAndAccessibility": {
-      "title": "Ajustes y accesibilidad de Lucid Blocks",
-      "displayType": "settingCards",
-      "intro": "Lucid Blocks ya cuenta con algunos ajustes prácticos y notas de compatibilidad que son importantes de inmediato cuando los jugadores inician el juego por primera vez.",
-      "settings": [
+      "title": "Enemigos y oleadas de Marvel Rivals Blood Hunt",
+      "eyebrow": "Guía de enemigos de Marvel Rivals Blood Hunt",
+      "subtitle": "Usa esta tabla de Marvel Rivals Blood Hunt para entender las categorías de enemigos, perfiles de amenaza, comportamiento de oleadas y planes de contraataque.",
+      "displayType": "tabla",
+      "intro": "Las oleadas de Marvel Rivals Blood Hunt combinan vampiros cuerpo a cuerpo, lanzadores de frascos a distancia, atacantes explosivos, enemigos voladores e interruptores de élite. La fuerza de los enemigos aumenta por oleada, las oleadas superadas otorgan oportunidades de Arcanos y la siguiente oleada comienza cuando el equipo entra en el punto de encuentro.",
+      "items": [
         {
-          "name": "Ajustes de pantalla",
-          "type": "Opción de comodidad",
-          "description": "Los ajustes de pantalla incluyen una opción que permite a los jugadores ocultar las manos en pantalla."
+          "category": "Enjambres cuerpo a cuerpo comunes de Marvel Rivals Blood Hunt",
+          "enemies": [
+            "Vampiro neonato",
+            "Engendro de sangre salvaje",
+            "Terror acechante"
+          ],
+          "mainThreat": "Presión rápida a corta distancia que rodea a los jugadores y obliga a un movimiento constante.",
+          "waveBehavior": "Estos enemigos persiguen a los jugadores directamente. Los engendros de sangre salvajes son más rápidos y agresivos, mientras que los terrores acechantes atacan desde ángulos bajos y ralentizan cuando reciben impactos repetidos.",
+          "counterPlan": "Usa área de efecto amplia, proyectiles perforantes y kiting constante. Squirrel Girl, Moon Knight y Jeff son anclas fuertes para despejar oleadas."
         },
         {
-          "name": "Compatibilidad de gráficos",
-          "type": "Requisito del sistema",
-          "description": "Se requiere soporte de __PROTECTED_38625270__ para que los gráficos se rendericen correctamente. Los sistemas sin __PROTECTED_38625270__ pueden sufrir cierres inesperados y errores gráficos graves."
+          "category": "Bombarderos a distancia de Marvel Rivals Blood Hunt",
+          "enemies": [
+            "Bombardero de plaga",
+            "Bombardero de plaga de sangre"
+          ],
+          "mainThreat": "Denegación de área mediante frascos de fuego y charcos de sangre ardiente.",
+          "waveBehavior": "Los bombarderos de plaga lanzan frascos explosivos retardados, mientras que los bombarderos de plaga de sangre dejan fuego persistente en el suelo.",
+          "counterPlan": "No luches dentro de los charcos persistentes y prioriza a los bombarderos pronto cuando el equipo necesite un carril de kiting seguro."
         },
         {
-          "name": "Preferencia de entrada",
-          "type": "Configuración de control",
-          "description": "Existe soporte para controles, pero el teclado y el mouse brindan una experiencia más fluida porque los menús no están diseñados para el uso de controles."
+          "category": "Atacantes explosivos de Marvel Rivals Blood Hunt",
+          "enemies": [
+            "Engendro pustuloso"
+          ],
+          "mainThreat": "Gran daño de ráfaga cuando alcanza a los jugadores o es derrotado cerca.",
+          "waveBehavior": "El engendro pustuloso lleva un saco de sangre hinchado y detona al acercarse o al morir.",
+          "counterPlan": "Enfócate a distancia antes de que alcance al equipo y reserva los enfriamientos de movilidad para crear espacio de emergencia."
         },
         {
-          "name": "Soporte de idiomas",
-          "type": "Localización",
-          "description": "La configuración actual es solo en inglés y no hay traducciones planeadas en este momento."
+          "category": "Enemigos voladores de Marvel Rivals Blood Hunt",
+          "enemies": [
+            "Acechador del cielo",
+            "Alquimista aerotransportado"
+          ],
+          "mainThreat": "Presión vertical que castiga a los equipos con cobertura a distancia débil.",
+          "waveBehavior": "Los acechadores del cielo planean y se lanzan en picado, mientras que los alquimistas aerotransportados mantienen la altitud y lanzan frascos de impacto.",
+          "counterPlan": "Asigna héroes a distancia para despejar a los voladores rápidamente. Golpear a los acechadores del cielo los ralentiza y abre ventanas de castigo más seguras."
+        },
+        {
+          "category": "Luchador de élite de Marvel Rivals Blood Hunt",
+          "enemies": [
+            "Guardia de sangre real"
+          ],
+          "mainThreat": "Cargas de seguimiento, presión de derribo y ondas de choque perforantes.",
+          "waveBehavior": "El guardia de sangre real controla el espacio con cadenas pesadas cuerpo a cuerpo y carriles de ondas de choque largos.",
+          "counterPlan": "Mantén activo el movimiento lateral, evita las retiradas en línea recta y elimínalo rápidamente antes de que divida el posicionamiento del equipo."
+        },
+        {
+          "category": "Lanzador de apoyo de élite de Marvel Rivals Blood Hunt",
+          "enemies": [
+            "Cultista del Darkhold"
+          ],
+          "mainThreat": "Mejoras para enemigos, ralentizaciones a jugadores, drenaje de salud y retirada por teletransporte.",
+          "waveBehavior": "El cultista del Darkhold amplifica a los enemigos cercanos y puede teletransportarse con salud temporal tras recibir un daño intenso.",
+          "counterPlan": "Marca al cultista del Darkhold como objetivo prioritario y ataca con ráfagas antes de que las mejoras y los drenajes abrumen la partida."
+        },
+        {
+          "category": "Amenazas móviles de élite de Marvel Rivals Blood Hunt",
+          "enemies": [
+            "Rastreador enloquecido",
+            "Cazador alasangre"
+          ],
+          "mainThreat": "Movimiento errático, teletransportes, ataques encadenados y drenaje de salud por inmovilización.",
+          "waveBehavior": "Los rastreadores enloquecidos corren y se reposicionan con magia de sangre. Los cazadores alasangre se teletransportan, se zambullen e inmovilizan a los compañeros hasta que son interrumpidos.",
+          "counterPlan": "Usa daño de seguimiento y avisos de objetivos rápidos. Cuando el cazador alasangre inmovilice a un compañero, enfócate en él de inmediato para liberar el agarre."
+        },
+        {
+          "category": "Reglas de progresión de oleadas de Marvel Rivals Blood Hunt",
+          "enemies": [
+            "Objetivos de oleadas mixtas"
+          ],
+          "mainThreat": "La densidad de enemigos y la presión aumentan en cada oleada, mientras que el ritmo de la misión afecta la economía de Arcanos.",
+          "waveBehavior": "Eliminar enemigos y completar misiones de oleada especiales otorga Arcanos. Después de cada oleada, entrar en el punto de encuentro inicia la siguiente oleada antes de tiempo.",
+          "counterPlan": "Gasta Arcanos durante los tiempos muertos, reagrúpate antes de activar los puntos de encuentro y evita atraer a la siguiente oleada mientras los compañeros aún se están restableciendo."
+        },
+        {
+          "category": "Reglas de derrota y reanimación de Marvel Rivals Blood Hunt",
+          "enemies": [
+            "Estado de supervivencia en solitario y en equipo"
+          ],
+          "mainThreat": "Un K.O. en solitario termina la partida inmediatamente, y la eliminación de todo el equipo termina el combate si la recuperación falla.",
+          "waveBehavior": "En equipos, los héroes caídos reviven tras un breve retraso. Durante las secuencias de derrota, el Suero de supervivencia puede devolver a los jugadores al combate.",
+          "counterPlan": "Los jugadores en solitario deben valorar la armadura, la salud, la movilidad y el tiempo de actividad a distancia seguro. Los equipos deben mantener vivo al menos a un jugador resistente para las ventanas de reanimación."
         }
       ]
     },
     "lucidBlocksUpdatesAndPatchNotes": {
-      "title": "Actualizaciones y notas del parche de Lucid Blocks",
-      "displayType": "timeline",
-      "intro": "Lucid Blocks ya está recibiendo correcciones rápidas post-lanzamiento y pequeñas actualizaciones de usabilidad.",
-      "entries": [
+      "title": "Consejos para Marvel Rivals Blood Hunt en solitario y cooperativo",
+      "eyebrow": "Marvel Rivals Blood Hunt en solitario y cooperativo",
+      "subtitle": "Marvel Rivals Blood Hunt admite de uno a cuatro jugadores y permite héroes duplicados, pero el equilibrio de roles permite despejar oleadas y jefes de forma más constante.",
+      "displayType": "acordeón",
+      "intro": "El plan más seguro para Marvel Rivals Blood Hunt combina limpieza de oleadas, daño explosivo contra jefes, supervivencia y estabilidad en las reanimaciones. Los jugadores en solitario necesitan héroes autosuficientes y un kiting impecable, mientras que los equipos cooperativos deben repartirse las responsabilidades antes de intentar los modos Extremo y Pesadilla.",
+      "items": [
         {
-          "title": "Actualización 2.8.2",
-          "type": "Actualización de IU",
-          "description": "Se cambió el nombre de \"awaken\" (despertar) a \"exit\" (salir) en el menú principal."
+          "title": "¿Qué deben priorizar los jugadores en solitario de Marvel Rivals Blood Hunt?",
+          "summary": "Es posible completar las fases en solitario, pero un K.O. individual termina el intento de inmediato, por lo que la supervivencia debe ser lo primero.",
+          "tips": [
+            "Elige héroes autosuficientes con presión a distancia, movilidad o gran capacidad de limpieza de oleadas.",
+            "Squirrel Girl es la opción más fiable y polivalente para jugar en solitario, tanto para hordas como para jefes.",
+            "Moon Knight es fuerte cuando se basa en el tiempo de actividad a distancia centrado en Ankh.",
+            "Jeff the Land Shark escala mucho con Aguas Desbordantes y Corriente Bifurcada tras invertir en él.",
+            "Evita quedarte estático contra bombarderos, voladores, saltos de Kingpin, atracciones de Dracula y fijaciones de Bloodwing Hunter."
+          ],
+          "recommendedHeroes": [
+            "Squirrel Girl",
+            "Moon Knight",
+            "Jeff the Land Shark"
+          ]
         },
         {
-          "title": "Pequeño parche para cierres al iniciar",
-          "type": "Hotfix",
-          "description": "Se lanzó un parche dedicado para los jugadores cuyo juego se cerraba inesperadamente al iniciar."
+          "title": "¿Cómo se debe formar un equipo de cuatro jugadores en Marvel Rivals Blood Hunt?",
+          "summary": "Los escuadrones fuertes cubren la limpieza de oleadas, el daño explosivo a jefes, la durabilidad y la recuperación en lugar de acumular una sola función limitada.",
+          "tips": [
+            "Usa a Squirrel Girl o Moon Knight como limpiador principal de oleadas.",
+            "Combínalos con Jeff para obtener un daño de gran escalado que golpee a grupos y jefes.",
+            "Añade a Thor como un ancla duradera que pueda sobrevivir mientras los compañeros reaniman.",
+            "Usa a The Punisher como especialista en jefes solo cuando el equipo ya controle las hordas.",
+            "Reserva un espacio flexible para el héroe en el que tu equipo haya invertido más."
+          ],
+          "recommendedHeroes": [
+            "Squirrel Girl",
+            "Moon Knight",
+            "Jeff the Land Shark",
+            "Thor",
+            "The Punisher"
+          ]
         },
         {
-          "title": "Soporte de contenido post-lanzamiento",
-          "type": "Nota de hoja de ruta",
-          "description": "Se planean algunas actualizaciones de contenido después del lanzamiento, pero no pretenden continuar con un calendario regular indefinido."
+          "title": "¿Se permiten héroes duplicados en Marvel Rivals Blood Hunt?",
+          "summary": "Se permiten héroes duplicados, por lo que los jugadores no necesitan competir por la misma elección.",
+          "tips": [
+            "Los duplicados ayudan con las elecciones de confianza y a subir de nivel a los héroes rápidamente con amigos.",
+            "Acumular un solo héroe suele ser más débil que asignar tareas distintas en todo el escuadrón.",
+            "Varios Punishers pueden destrozar a los jefes, pero a menudo tienen dificultades contra oleadas densas de vampiros.",
+            "Varios Blades necesitan una gran inversión para igualar el rendimiento seguro a distancia de las elecciones iniciales más fuertes.",
+            "Thor y The Punisher suelen aportar más valor como especialistas de un solo rol que como duplicados acumulados."
+          ],
+          "recommendedHeroes": [
+            "Flexible, pero equilibra los roles primero"
+          ]
+        },
+        {
+          "title": "¿Qué héroes son mejores para la limpieza de oleadas en Marvel Rivals Blood Hunt?",
+          "summary": "La limpieza de oleadas depende del daño de área sostenido, la presión segura a distancia y la movilidad a medida que aumenta la densidad de la oleada.",
+          "tips": [
+            "Squirrel Girl se encarga de grupos densos de vampiros y objetivos individuales con una preparación mínima.",
+            "Los Ankhs mejorados de Moon Knight proporcionan control de masas y presión sobre los jefes en una sola ruta de construcción.",
+            "Jeff puede cubrir grupos amplios una vez que se desbloquean Aguas Desbordantes y Corriente Bifurcada.",
+            "Thor puede mantener el espacio y ganar tiempo cuando las oleadas se vuelven inestables."
+          ],
+          "recommendedHeroes": [
+            "Squirrel Girl",
+            "Moon Knight",
+            "Jeff the Land Shark",
+            "Thor"
+          ]
+        },
+        {
+          "title": "¿Qué héroes son mejores para los jefes de Marvel Rivals Blood Hunt?",
+          "summary": "Las peleas contra jefes recompensan el tiempo de actividad a distancia seguro, las ventanas de daño explosivo y la sincronización limpia de las interrupciones.",
+          "tips": [
+            "Jeff se convierte en una opción importante de daño contra jefes tras invertir lo suficiente en equipo y habilidades.",
+            "Las construcciones de Ankh de Moon Knight mantienen una presión sostenida al tiempo que conservan la utilidad de control.",
+            "The Punisher destaca en el daño explosivo a un solo objetivo cuando el equipo ya maneja el control de oleadas.",
+            "Blade necesita configuraciones centradas en armas de fuego para combates de alta dificultad donde el tiempo de actividad cuerpo a cuerpo es arriesgado.",
+            "Contra Dracula, reserva el daño explosivo para las interrupciones de sifón y las ventanas potenciadas por la luz solar."
+          ],
+          "recommendedHeroes": [
+            "Jeff the Land Shark",
+            "Moon Knight",
+            "The Punisher",
+            "Blade"
+          ]
+        },
+        {
+          "title": "¿Cómo deben recuperarse los equipos de Marvel Rivals Blood Hunt tras cometer errores?",
+          "summary": "Las partidas cooperativas son permisivas solo mientras al menos un compañero sobreviva para mantener la partida en pie.",
+          "tips": [
+            "Cuando los compañeros caen, el jugador superviviente debe hacer kiting de forma segura en lugar de forzar el daño.",
+            "Thor, Squirrel Girl y Moon Knight son anclas de recuperación fuertes bajo presión.",
+            "Usa Suero de Supervivencia durante las secuencias de derrota cuando el equipo necesite un regreso manual.",
+            "No actives el siguiente punto de encuentro antes de que los jugadores gasten Arcana y restablezcan su posicionamiento.",
+            "Avisa de las fijaciones de élite, las canalizaciones de Dracula y la Implosión Cargada de Kingpin de inmediato."
+          ],
+          "recommendedHeroes": [
+            "Thor",
+            "Squirrel Girl",
+            "Moon Knight"
+          ]
         }
       ]
     },
     "lucidBlocksCrashFixAndTroubleshooting": {
-      "title": "Solución de cierres inesperados y solución de problemas de Lucid Blocks",
-      "displayType": "steps",
-      "intro": "La mayoría de los problemas inmediatos de inicio y cierres deben revisarse en un orden sencillo: nivel de parche, soporte de gráficos, compatibilidad de plataforma y registros.",
-      "steps": [
+      "title": "Notas del parche y tráiler de Marvel Rivals Blood Hunt",
+      "eyebrow": "Última actualización de Marvel Rivals Blood Hunt",
+      "subtitle": "Sigue las notas oficiales del parche de Marvel Rivals Blood Hunt, las actualizaciones del tráiler, las ventanas de lanzamiento y los hitos clave del evento.",
+      "displayType": "timelineCards",
+      "intro": "Marvel Rivals Blood Hunt llegó a través de la versión 20260423 como un evento PvE de la Temporada 7.5. El modo envía de uno a cuatro jugadores a la Nueva York de la Noche de Sangre para luchar contra hordas de vampiros, subir niveles de dificultad y derrotar a Dracula antes de que se cierre la ventana del evento.",
+      "items": [
         {
-          "title": "Instala el último hotfix para cierres inesperados",
-          "description": "Si el juego se cierra al iniciar, actualiza primero y prueba de nuevo con el parche más reciente para cierres al inicio."
+          "date": "2026-04-22",
+          "type": "Notas oficiales del parche",
+          "title": "Anuncio de las notas del parche de la versión 20260423 de Marvel Rivals Blood Hunt",
+          "details": "Las notas oficiales del parche confirmaron la actualización del 23 de abril de 2026, presentaron Marvel Rivals Blood Hunt como nuevo contenido PvE y detallaron la configuración de escape de Dracula para el brote de vampiros en Nueva York.",
+          "highlights": [
+            "Parche programado para el 23 de abril de 2026 a las 09:00 UTC.",
+            "No se requiere tiempo de inactividad del servidor.",
+            "Marvel Rivals Blood Hunt listado como nuevo contenido del modo PvE."
+          ],
+          "link": "https://www.marvelrivals.com/gameupdate/20260422/41548_1297228.html"
         },
         {
-          "title": "Verifica el soporte de __PROTECTED_38625270__",
-          "description": "Lucid Blocks requiere soporte de __PROTECTED_38625270__. Los sistemas sin __PROTECTED_38625270__ pueden sufrir cierres inesperados o problemas graves de renderizado."
+          "date": "2026-04-22",
+          "type": "Trailer",
+          "title": "Tráiler del nuevo modo PvE de Marvel Rivals Blood Hunt",
+          "details": "El tráiler oficial presenta Marvel Rivals Blood Hunt como un modo PvE de hordas de vampiros con combate cooperativo, dificultad progresiva y Dracula como la amenaza central.",
+          "highlights": [
+            "Muestra combate PvE basado en escuadrones contra el ejército de Dracula.",
+            "Destaca la progresión de la dificultad y la presión del jefe final.",
+            "Soporta el enfoque de video de la página de inicio y el contexto de la última actualización."
+          ],
+          "link": "https://www.youtube.com/watch?v=Zd8xPgLCQkw"
         },
         {
-          "title": "Usa Proton 9.0.4 en Steam Deck",
-          "description": "Si la entrada o el comportamiento de inicio en Steam Deck fallan, fuerza la compatibilidad y cambia a Proton 9.0.4."
+          "date": "2026-04-23",
+          "type": "Lanzamiento del modo",
+          "title": "Marvel Rivals Blood Hunt ya está disponible",
+          "details": "Marvel Rivals Blood Hunt se lanzó como un evento PvE de tiempo limitado de la Temporada 7.5 donde de uno a cuatro jugadores progresan a través de oleadas de vampiros, botines de equipo, mejoras de Arcana y puntos de control de jefes.",
+          "highlights": [
+            "La lista de héroes incluye a Blade, Moon Knight, Jeff the Land Shark, Squirrel Girl, The Punisher y Thor.",
+            "La selección de héroes duplicados está habilitada.",
+            "Los jugadores progresan a través de Normal, Difícil, Extremo y Pesadilla."
+          ],
+          "link": "https://www.marvelrivals.com/gameupdate/20260422/41548_1297228.html"
         },
         {
-          "title": "Recopila registros de cierres (logs)",
-          "description": "Abre Ejecutar de Windows, pega %APPDATA%, ve a lucid blocks/logs y reúne los archivos .txt para solucionar el problema."
+          "date": "2026-04-23",
+          "type": "Análisis de medios",
+          "title": "Cobertura de la batalla cooperativa y progresión de Marvel Rivals Blood Hunt",
+          "details": "La cobertura del lanzamiento resumió la estructura cooperativa, los límites de héroes del evento, las selecciones duplicadas, la progresión de pergaminos de Arcana, el crecimiento del equipo, la presión creciente de los enemigos y las apariciones de jefes importantes.",
+          "highlights": [
+            "Cooperativo de cuatro jugadores contra hordas de vampiros de la IA.",
+            "Los sistemas de Arcana y equipo aumentan el poder de la partida con el tiempo.",
+            "La presión enemiga incluye oleadas mixtas, élites y transiciones de jefes."
+          ],
+          "link": "https://www.gosugamers.net/entertainment/news/78316-marvel-rivals-details-new-pve-mode-blood-hunt-featuring-co-op-battles-against-dracula"
         },
         {
-          "title": "Reporta el problema correctamente",
-          "description": "Comparte los registros y los detalles del dispositivo a través del foro oficial de reportes de errores en Discord o en la página de la comunidad de Steam."
+          "date": "2026-07-30",
+          "type": "Fecha de finalización programada",
+          "title": "Se cierra la ventana del evento Marvel Rivals Blood Hunt",
+          "details": "La ventana oficial de Marvel Rivals Blood Hunt se extiende desde el 23 de abril de 2026 a las 09:00 UTC hasta el 30 de julio de 2026 a las 09:00 UTC, por lo que la finalización de recompensas y la progresión en Pesadilla tienen tiempo limitado.",
+          "highlights": [
+            "Completa las limpiezas de dificultad antes del cierre del evento.",
+            "Apunta a los hitos de Pesadilla 40, 70, 100 y 120.",
+            "Termina las rutas ocultas de Kingpin y los objetivos de fragmentos antes de la expiración."
+          ],
+          "link": "https://www.marvelrivals.com/gameupdate/20260422/41548_1297228.html"
         }
       ]
     }
   },
   "faq": {
-    "title": "Preguntas",
-    "titleHighlight": "frecuentes",
-    "subtitle": "Todo lo que necesitas saber sobre Lucid Blocks",
+    "title": "Marvel Rivals Blood Hunt: Preguntas",
+    "titleHighlight": "Frecuentes",
+    "subtitle": "Todo lo que necesitas saber sobre Marvel Rivals Blood Hunt",
     "questions": [
       {
-        "question": "¿Es Lucid Blocks un juego para un solo jugador?",
-        "answer": "Sí. Lucid Blocks es un juego exclusivamente para un solo jugador, sin planes para multijugador o cooperativo."
+        "question": "¿Es Marvel Rivals Blood Hunt un juego independiente?",
+        "answer": "Marvel Rivals Blood Hunt es un modo de evento PvE por tiempo limitado dentro de Marvel Rivals, no un juego independiente."
       },
       {
-        "question": "¿Qué es el sistema Apotheosis en Lucid Blocks?",
-        "answer": "Apotheosis es el sistema de creación por fusión de forma libre de Lucid Blocks. En lugar de seguir recetas fijas, combinas materiales y descubres tus propias rutas de creación."
+        "question": "¿Cuándo termina Marvel Rivals Blood Hunt?",
+        "answer": "Marvel Rivals Blood Hunt está programado para finalizar el 30 de julio de 2026 a las 09:00 UTC."
       },
       {
-        "question": "¿Dónde puedo jugar Lucid Blocks?",
-        "answer": "Lucid Blocks está disponible actualmente en Steam para Windows. El soporte para Linux y Steam Deck está disponible a través de Proton 9.0."
+        "question": "¿Cuántos jugadores pueden unirse a Marvel Rivals Blood Hunt?",
+        "answer": "Marvel Rivals Blood Hunt permite jugar en solitario y en escuadrones cooperativos de 1 a 4 jugadores."
       },
       {
-        "question": "¿Cuánto cuesta Lucid Blocks?",
-        "answer": "Lucid Blocks cuesta $9.99 en Steam."
+        "question": "¿Qué recompensas hay en Marvel Rivals Blood Hunt?",
+        "answer": "Las recompensas de Marvel Rivals Blood Hunt incluyen unidades, moléculas inestables, títulos, estados de ánimo, tarjetas de galería, emojis, sprays y fragmentos de accesorios de Kingpin."
       },
       {
-        "question": "¿Lucid Blocks es compatible con controles?",
-        "answer": "Sí, pero no se recomienda jugar con control porque los menús no están diseñados para ello. El teclado y el mouse son la opción más fluida."
+        "question": "¿Qué héroes están disponibles en Marvel Rivals Blood Hunt?",
+        "answer": "Marvel Rivals Blood Hunt cuenta con Blade, Jeff the Land Shark, Moon Knight, The Punisher, Squirrel Girl y Thor."
       },
       {
-        "question": "¿Recibirá actualizaciones Lucid Blocks?",
-        "answer": "Sí. Se planean algunas actualizaciones de contenido después del lanzamiento, pero no se pretende que continúen con un calendario regular indefinido."
+        "question": "¿Cómo desbloqueo la ruta de Kingpin en Marvel Rivals Blood Hunt?",
+        "answer": "La ruta de Kingpin en Marvel Rivals Blood Hunt se abre al completar la cadena de objetivos ocultos a través de las fases del evento requeridas."
       }
     ]
   },
   "cta": {
-    "title": "¿Listo para explorar Lucid Blocks?",
-    "description": "¡Únete a la comunidad de Lucid Blocks en Discord para ver guías, actualizaciones y discusiones!",
-    "joinCommunity": "Únete a Discord",
-    "joinGame": "Juega en Steam"
+    "title": "¿Estás listo para Marvel Rivals Blood Hunt?",
+    "description": "Únete a la comunidad de Marvel Rivals para seguir las actualizaciones, builds, jefes y recompensas por tiempo limitado de Marvel Rivals Blood Hunt.",
+    "joinCommunity": "Únete al Discord de Marvel Rivals",
+    "joinGame": "Visita el sitio oficial de Marvel Rivals"
   },
   "footer": {
-    "title": "Wiki de Lucid Blocks",
-    "description": "Tu centro completo de recursos para la fabricación, biomas, criaturas, logros y guías de supervivencia de Lucid Blocks.",
+    "title": "Marvel Rivals Blood Hunt",
+    "description": "Tu centro de recursos creado por fans para guías, mecánicas de jefes, recompensas y actualizaciones del evento Marvel Rivals Blood Hunt.",
     "resources": "Recursos",
     "community": "Comunidad",
     "legal": "Legal",
-    "discord": "Discord",
-    "twitter": "X / Twitter",
-    "steamCommunity": "Comunidad de Steam",
-    "steamStore": "Tienda de Steam",
+    "discord": "Discord oficial",
+    "twitter": "X / Twitter oficial",
+    "steamCommunity": "Reddit oficial",
+    "steamStore": "Sitio web oficial",
     "about": "Acerca de",
     "privacy": "Política de privacidad",
     "terms": "Términos de servicio",
-    "copyrightNotice": "Derechos de autor",
-    "copyright": "© 2026 Wiki de Lucid Blocks. No afiliada con los desarrolladores de Lucid Blocks.",
-    "disclaimer": "Sitio web de recursos no oficial creado por fans."
+    "copyrightNotice": "Copyright",
+    "copyright": "© 2026 Marvel Rivals Blood Hunt. Sitio web de recursos no oficial creado por fans.",
+    "disclaimer": "No afiliado a Marvel, NetEase Games ni a los editores oficiales de Marvel Rivals."
   },
   "pages": {
-    "guides": {
-      "title": "Guías de Lucid Blocks",
-      "description": "Guías completas de juego, desde conceptos básicos para principiantes hasta estrategias avanzadas de Apotheosis. Domina la supervivencia y la fabricación.",
-      "metaTitle": "Guías de Lucid Blocks - Estrategias de principiante a avanzado",
-      "metaDescription": "Guías completas de Lucid Blocks que cubren consejos para principiantes, el sistema Apotheosis, estrategias de supervivencia y tácticas expertas para dominar este sandbox surrealista.",
-      "categoryLabel": "GUÍAS DEL JUEGO",
-      "whatIs": "¿Qué son las guías?",
-      "whatIsDescription": "Guías exhaustivas que cubren mecánicas de juego, estrategias de supervivencia y el sistema de fabricación Apotheosis. Aprende todo, desde los primeros pasos hasta técnicas avanzadas.",
-      "why": "¿Por qué leer las guías?",
+    "guide": {
+      "title": "Guía de Marvel Rivals Blood Hunt",
+      "description": "Cobertura completa de la guía de Marvel Rivals Blood Hunt para el flujo de principiantes, rutas de progresión, estrategia de dificultad y planificación de jefes específicos del evento.",
+      "metaTitle": "Guía de Marvel Rivals Blood Hunt - Estrategia de principiante a pesadilla",
+      "metaDescription": "Lee artículos de la guía de Marvel Rivals Blood Hunt que cubren el flujo de entrada, configuración de escuadrones, planificación de rutas y limpiezas prácticas desde Normal hasta Pesadilla.",
+      "categoryLabel": "GUÍA",
+      "whatIs": "¿Qué es la categoría de Guía?",
+      "whatIsDescription": "La categoría de Guía de Marvel Rivals Blood Hunt explica el flujo completo de las partidas, el enrutamiento de misiones, los sistemas del evento y tácticas paso a paso para jugadores nuevos y veteranos.",
+      "why": "¿Por qué leer esta categoría de guía?",
       "whySteps": {
-        "step1Title": "Aprende las mecánicas principales",
-        "step1Description": "Entiende el sistema Apotheosis y evita errores comunes de principiante",
-        "step2Title": "Progresión rápida",
-        "step2Description": "Sigue caminos probados para sobrevivir y prosperar en este mundo surrealista",
-        "step3Title": "Domina las estrategias",
-        "step3Description": "Desarrolla tácticas avanzadas para la exploración y la fabricación"
+        "step1Title": "Aprende el flujo del evento rápidamente",
+        "step1Description": "Comprende cómo funciona la estructura de las partidas de Marvel Rivals Blood Hunt desde la cola hasta la limpieza final.",
+        "step2Title": "Reduce los intentos fallidos",
+        "step2Description": "Utiliza decisiones de ruta probadas en Marvel Rivals Blood Hunt para evitar muertes de equipo y reinicios evitables.",
+        "step3Title": "Escala hasta Pesadilla",
+        "step3Description": "Crea un plan de progresión constante en Marvel Rivals Blood Hunt, desde las primeras limpiezas hasta los hitos finales."
       },
       "featured": "Destacado y esencial",
-      "all": "Todas las guías"
+      "all": "Todos los artículos de la guía"
     },
-    "crafting": {
-      "title": "Fabricación en Lucid Blocks",
-      "description": "Domina el sistema de fusión Apotheosis con mecánicas de esencia, recetas y estrategias de fabricación para objetos poderosos.",
-      "metaTitle": "Fabricación en Lucid Blocks - Sistema Apotheosis y recetas",
-      "metaDescription": "Domina el sistema de fabricación Apotheosis de Lucid Blocks. Aprende mecánicas de esencia, recetas de fusión y estrategias para crear herramientas y armas poderosas.",
-      "categoryLabel": "SISTEMA DE FABRICACIÓN",
-      "whatIs": "¿Qué es la fabricación?",
-      "whatIsDescription": "El sistema Apotheosis es una mecánica de fusión única impulsada por esencias donde combinas hasta seis objetos para descubrir nuevas recetas. Sin menús de fabricación fijos: la experimentación es la clave.",
-      "why": "¿Por qué dominar la fabricación?",
+    "builds": {
+      "title": "Builds de Marvel Rivals Blood Hunt",
+      "description": "Guías de builds de Marvel Rivals Blood Hunt para configuración de roles, equipamientos específicos de héroes, elección de rasgos y optimización práctica para la presión de jefes y oleadas.",
+      "metaTitle": "Builds de Marvel Rivals Blood Hunt - Mejores equipamientos y optimización",
+      "metaDescription": "Encuentra builds de Marvel Rivals Blood Hunt para Squirrel Girl, Blade, Moon Knight, Jeff, Thor y Punisher con consejos prácticos de optimización.",
+      "categoryLabel": "BUILDS",
+      "whatIs": "¿Qué es la categoría de Builds?",
+      "whatIsDescription": "La categoría de Builds de Marvel Rivals Blood Hunt se centra en los equipamientos de los héroes, las prioridades de rasgos, las elecciones de Arcanos y las compensaciones estratégicas por rol y dificultad.",
+      "why": "¿Por qué usar guías de builds?",
       "whySteps": {
-        "step1Title": "Desbloquea objetos poderosos",
-        "step1Description": "Descubre herramientas esenciales, armas y equipo de movilidad a través de la fusión",
-        "step2Title": "Entiende las esencias",
-        "step2Description": "Aprende cómo se combinan las esencias de los objetos para crear resultados predecibles",
-        "step3Title": "Optimiza recursos",
-        "step3Description": "Usa mecánicas de dilución para maximizar la producción con materiales baratos"
+        "step1Title": "Aumentar la consistencia al completar niveles",
+        "step1Description": "Usa plantillas de builds de Marvel Rivals Blood Hunt que mantengan el daño mientras conservan la supervivencia estable.",
+        "step2Title": "Adaptarse a las fortalezas del héroe",
+        "step2Description": "Alinea los rasgos y el equipo de Marvel Rivals Blood Hunt con el ciclo de habilidades más fuerte de cada héroe.",
+        "step3Title": "Optimizar roles de equipo",
+        "step3Description": "Ajusta las builds cooperativas de Marvel Rivals Blood Hunt para que el control de oleadas y el daño explosivo a jefes estén equilibrados."
       },
       "featured": "Destacado y esencial",
-      "all": "Todas las guías de fabricación"
+      "all": "Todos los artículos de builds"
     },
-    "items": {
-      "title": "Objetos de Lucid Blocks",
-      "description": "Guías detalladas de objetos que cubren herramientas, armas, equipo de movilidad y soluciones de almacenamiento con recetas de fabricación y consejos de uso.",
-      "metaTitle": "Objetos de Lucid Blocks - Guía de herramientas, armas y equipo",
-      "metaDescription": "Base de datos completa de objetos para Lucid Blocks, incluyendo herramientas, armas, equipo de movilidad y almacenamiento. Aprende a fabricar y usar cada objeto de manera efectiva.",
-      "categoryLabel": "OBJETOS Y EQUIPAMIENTO",
-      "whatIs": "¿Qué son los objetos?",
-      "whatIsDescription": "Guías exhaustivas de herramientas, armas, equipo de movilidad y objetos funcionales. Aprende recetas de fabricación, estrategias de uso y combinaciones óptimas.",
-      "why": "¿Por qué consultar las guías de objetos?",
+    "characters": {
+      "title": "Personajes de Marvel Rivals Blood Hunt",
+      "description": "Guías de personajes de Marvel Rivals Blood Hunt que cubren las fortalezas de los héroes, el ajuste de roles, la utilidad del equipo y las elecciones prácticas para partidas en solitario y cooperativas.",
+      "metaTitle": "Personajes de Marvel Rivals Blood Hunt - Mejores elecciones y roles",
+      "metaDescription": "Explora las guías de personajes de Marvel Rivals Blood Hunt para clasificaciones de héroes, cobertura de roles y recomendaciones prácticas para cada dificultad.",
+      "categoryLabel": "PERSONAJES",
+      "whatIs": "¿Qué es la categoría de Personajes?",
+      "whatIsDescription": "La categoría de Personajes de Marvel Rivals Blood Hunt compara los kits de los héroes, los roles de equipo y el ajuste del estilo de juego para que los jugadores puedan elegir alineaciones efectivas.",
+      "why": "¿Por qué leer guías de personajes?",
       "whySteps": {
-        "step1Title": "Aprende recetas de fabricación",
-        "step1Description": "Descubre cómo fabricar herramientas y armas esenciales usando Apotheosis",
-        "step2Title": "Optimiza tu equipamiento",
-        "step2Description": "Elige los mejores objetos para tu estilo de juego y etapa de progresión",
-        "step3Title": "Mejora tu supervivencia",
-        "step3Description": "Equípate con equipo de movilidad y armas para navegar por este mundo peligroso"
+        "step1Title": "Elegir mejores héroes",
+        "step1Description": "Identifica qué héroes de Marvel Rivals Blood Hunt se ajustan a tu estilo de juego en solitario o en escuadrón.",
+        "step2Title": "Entender la cobertura de roles",
+        "step2Description": "Planifica la composición de equipo de Marvel Rivals Blood Hunt con responsabilidades claras para las oleadas y los jefes.",
+        "step3Title": "Mejorar el ritmo de progresión",
+        "step3Description": "Usa los héroes adecuados de Marvel Rivals Blood Hunt en cada nivel para evitar cuellos de botella en la progresión."
       },
       "featured": "Destacado y esencial",
-      "all": "Todos los objetos"
+      "all": "Todos los artículos de personajes"
     },
-    "biomes": {
-      "title": "Biomas de Lucid Blocks",
-      "description": "Explora las regiones del mundo, características ambientales, ubicaciones de recursos y consejos de supervivencia para cada bioma.",
-      "metaTitle": "Biomas de Lucid Blocks - Regiones del mundo y exploración",
-      "metaDescription": "Explora los biomas de Lucid Blocks, incluyendo las Líneas Ley de Tiamana, Fog Meadow y regiones surrealistas. Encuentra recursos, evita peligros y navega por un mundo infinito.",
-      "categoryLabel": "REGIONES DEL MUNDO",
-      "whatIs": "¿Qué son los biomas?",
-      "whatIsDescription": "Guías de las diferentes regiones del mundo, características ambientales, distribución de recursos y zonas de peligro. Aprende qué esperar y cómo prepararte para cada área.",
-      "why": "¿Por qué explorar los biomas?",
+    "tier-list": {
+      "title": "Tier List de Marvel Rivals Blood Hunt",
+      "description": "Cobertura de la tier list de Marvel Rivals Blood Hunt para solitario, cooperativo, escalado en Pesadilla y clasificaciones basadas en roles para los héroes del evento.",
+      "metaTitle": "Tier List de Marvel Rivals Blood Hunt - Clasificaciones en solitario y Pesadilla",
+      "metaDescription": "Consulta las guías de tier list de Marvel Rivals Blood Hunt con clasificaciones de héroes actualizadas para completar niveles en solitario, utilidad cooperativa y partidas de nivel alto en Pesadilla.",
+      "categoryLabel": "TIER LIST",
+      "whatIs": "¿Qué es la categoría de Tier List?",
+      "whatIsDescription": "La categoría de Tier List de Marvel Rivals Blood Hunt clasifica a los héroes por su valor práctico para completar niveles, consistencia y escalado a través de diferentes objetivos de partida.",
+      "why": "¿Por qué leer artículos de tier list?",
       "whySteps": {
-        "step1Title": "Encuentra recursos",
-        "step1Description": "Localiza materiales raros y esencias específicas de cada región",
-        "step2Title": "Evita peligros",
-        "step2Description": "Entiende los riesgos ambientales y las criaturas hostiles",
-        "step3Title": "Planifica tu exploración",
-        "step3Description": "Prepara las herramientas y el equipo adecuados para cada tipo de bioma"
+        "step1Title": "Priorizar héroes fuertes",
+        "step1Description": "Enfócate en los héroes de Marvel Rivals Blood Hunt que ofrecen el mejor valor para tu nivel de progresión actual.",
+        "step2Title": "Adaptarse a los objetivos del modo",
+        "step2Description": "Usa diferentes perspectivas de la tier list de Marvel Rivals Blood Hunt para avances en solitario, cooperativo y rutas de jefes.",
+        "step3Title": "Ahorrar recursos de mejora",
+        "step3Description": "Invierte materiales de Marvel Rivals Blood Hunt en héroes con beneficios a largo plazo."
       },
       "featured": "Destacado y esencial",
-      "all": "Todos los biomas"
+      "all": "Todos los artículos de tier list"
     },
-    "building": {
-      "title": "Construcción en Lucid Blocks",
-      "description": "Domina las dimensiones personales Qualia, la construcción de bases, la gestión de almacenamiento y técnicas creativas de construcción.",
-      "metaTitle": "Construcción en Lucid Blocks - Qualia y construcción de bases",
-      "metaDescription": "Domina la construcción en Lucid Blocks con las dimensiones personales Qualia, construcción de bases, soluciones de almacenamiento y técnicas creativas de construcción.",
-      "categoryLabel": "CONSTRUCCIÓN Y BASES",
-      "whatIs": "¿Qué es la construcción?",
-      "whatIsDescription": "Guías sobre el sistema de dimensiones personales Qualia, construcción de bases, gestión de almacenamiento y construcción creativa. Aprende a crear tu refugio seguro en este mundo surrealista.",
-      "why": "¿Por qué construir bases?",
+    "bosses": {
+      "title": "Jefes de Marvel Rivals Blood Hunt",
+      "description": "Guías de estrategia de jefes de Marvel Rivals Blood Hunt para Dracula, Kingpin, rutas ocultas, contraataques de fase y despejes basados en objetivos.",
+      "metaTitle": "Jefes de Marvel Rivals Blood Hunt - Dracula, Kingpin y rutas ocultas",
+      "metaDescription": "Lee guías de jefes de Marvel Rivals Blood Hunt con mecánicas de fase, pasos para desbloquear jefes ocultos y contraataques prácticos para despejes estables.",
+      "categoryLabel": "JEFES",
+      "whatIs": "¿Qué es la categoría de Jefes?",
+      "whatIsDescription": "La categoría de Jefes de Marvel Rivals Blood Hunt detalla las fases de los jefes, las condiciones de desbloqueo y los patrones de posicionamiento para cada encuentro.",
+      "why": "¿Por qué leer guías de jefes?",
       "whySteps": {
-        "step1Title": "Crea espacios seguros",
-        "step1Description": "Establece bases seguras para el almacenamiento y las operaciones de fabricación",
-        "step2Title": "Gestiona tus recursos",
-        "step2Description": "Organiza tus materiales de manera eficiente con soluciones de almacenamiento",
-        "step3Title": "Desbloquea Qualia",
-        "step3Description": "Accede a dimensiones de bolsillo personales para la máxima comodidad"
+        "step1Title": "Aprende las mecánicas de los jefes rápido",
+        "step1Description": "Comprende los ataques principales de los jefes de Marvel Rivals Blood Hunt y las ventanas de castigo antes de los avances profundos.",
+        "step2Title": "Desbloquea rutas ocultas",
+        "step2Description": "Sigue las secuencias de objetivos de Marvel Rivals Blood Hunt para acceder a encuentros ocultos de Kingpin.",
+        "step3Title": "Evita eliminaciones de alto nivel",
+        "step3Description": "Usa contraataques específicos de jefes de Marvel Rivals Blood Hunt para mantener la progresión estable."
       },
-      "featured": "Destacado y esencial",
-      "all": "Todas las guías de construcción"
+      "featured": "Destacados y esenciales",
+      "all": "Todos los artículos de jefes"
     },
-    "support": {
-      "title": "Soporte de Lucid Blocks",
-      "description": "Soporte técnico, compatibilidad de plataformas, optimización de rendimiento y solución de problemas comunes.",
-      "metaTitle": "Soporte de Lucid Blocks - Ayuda técnica y soluciones",
-      "metaDescription": "Obtén soporte técnico para Lucid Blocks, incluyendo la configuración de Steam Deck, soluciones a cierres inesperados, optimización de rendimiento y guías de compatibilidad de plataformas.",
-      "categoryLabel": "SOPORTE TÉCNICO",
-      "whatIs": "¿Qué es el soporte?",
-      "whatIsDescription": "Guías técnicas que cubren la compatibilidad de plataformas, optimización de rendimiento, soluciones a cierres inesperados y problemas comunes. Obtén ayuda con Steam Deck, preguntas sobre multijugador y ajustes.",
-      "why": "¿Por qué consultar el soporte?",
+    "gear": {
+      "title": "Equipo de Marvel Rivals Blood Hunt",
+      "description": "Cobertura de equipo de Marvel Rivals Blood Hunt para rutas de farmeo, botines legendarios, sinergia de rasgos, valor de cartas y planificación de mejoras.",
+      "metaTitle": "Equipo de Marvel Rivals Blood Hunt - Farmeo, rasgos y botines legendarios",
+      "metaDescription": "Encuentra guías de equipo de Marvel Rivals Blood Hunt que cubren rutas de farmeo, sistemas de rasgos, cartas, títulos y prioridades de mejora eficientes.",
+      "categoryLabel": "EQUIPO",
+      "whatIs": "¿Qué es la categoría de Equipo?",
+      "whatIsDescription": "La categoría de Equipo de Marvel Rivals Blood Hunt explica cómo farmear y optimizar el equipo, las cartas y los sistemas relacionados con los rasgos para partidas más fuertes.",
+      "why": "¿Por qué leer guías de equipo?",
       "whySteps": {
-        "step1Title": "Soluciona problemas técnicos",
-        "step1Description": "Resuelve cierres inesperados, problemas de rendimiento y de compatibilidad",
-        "step2Title": "Optimiza el rendimiento",
-        "step2Description": "Configura los ajustes para obtener la mejor experiencia en tu plataforma",
-        "step3Title": "Compatibilidad de plataformas",
-        "step3Description": "Aprende sobre Steam Deck, soporte para controles y requisitos del sistema"
+        "step1Title": "Farmea los objetivos correctos",
+        "step1Description": "Usa rutas de equipo de Marvel Rivals Blood Hunt que se adapten a tu héroe y dificultad actuales.",
+        "step2Title": "Mejora el poder de tu build",
+        "step2Description": "Combina rasgos, cartas y equipo de Marvel Rivals Blood Hunt para alcanzar puntos de ruptura más fuertes.",
+        "step3Title": "Mejora de manera eficiente",
+        "step3Description": "Planifica los materiales de Marvel Rivals Blood Hunt priorizando las mejoras de equipo de alto impacto primero."
       },
-      "featured": "Destacado y esencial",
-      "all": "Todos los artículos de soporte"
+      "featured": "Destacados y esenciales",
+      "all": "Todos los artículos de equipo"
+    },
+    "mechanics": {
+      "title": "Mecánicas de Marvel Rivals Blood Hunt",
+      "description": "Guías de mecánicas de Marvel Rivals Blood Hunt que cubren el límite de nivel, sistemas de rendimiento, daño de precisión, robo de vida y fundamentos de rendimiento.",
+      "metaTitle": "Mecánicas de Marvel Rivals Blood Hunt - Rendimiento, precisión y nivelación",
+      "metaDescription": "Comprende las mecánicas de Marvel Rivals Blood Hunt, incluyendo el rendimiento total, el daño de precisión, el ritmo de nivelación y el comportamiento del robo de vida.",
+      "categoryLabel": "MECÁNICAS",
+      "whatIs": "¿Qué es la categoría de Mecánicas?",
+      "whatIsDescription": "La categoría de Mecánicas de Marvel Rivals Blood Hunt explica los sistemas centrales de combate y progresión que afectan directamente la velocidad de despeje y la supervivencia.",
+      "why": "¿Por qué leer guías de mecánicas?",
+      "whySteps": {
+        "step1Title": "Comprende las matemáticas del combate",
+        "step1Description": "Aprende cómo los sistemas de rendimiento y precisión de Marvel Rivals Blood Hunt afectan el daño real.",
+        "step2Title": "Sube de nivel de manera más eficiente",
+        "step2Description": "Usa la guía de nivelación y límites de Marvel Rivals Blood Hunt para evitar una progresión desperdiciada.",
+        "step3Title": "Juega con mejores decisiones",
+        "step3Description": "Aplica el conocimiento de las mecánicas de Marvel Rivals Blood Hunt para tomar decisiones de build y juego más inteligentes."
+      },
+      "featured": "Destacados y esenciales",
+      "all": "Todos los artículos de mecánicas"
+    },
+    "release": {
+      "title": "Lanzamiento de Marvel Rivals Blood Hunt",
+      "description": "Cobertura del lanzamiento de Marvel Rivals Blood Hunt para horarios de eventos, notas de actualización, ventanas de lanzamiento, problemas de servicio y seguimiento oficial de actualizaciones.",
+      "metaTitle": "Lanzamiento de Marvel Rivals Blood Hunt: fechas, actualizaciones y horarios de eventos",
+      "metaDescription": "Sigue la cobertura de la fecha de lanzamiento de Marvel Rivals Blood Hunt, notas de actualización, ventanas de inicio y noticias de eventos centradas en problemas en un solo lugar.",
+      "categoryLabel": "LANZAMIENTO",
+      "whatIs": "¿Qué es la categoría de Lanzamiento?",
+      "whatIsDescription": "La categoría de Lanzamiento de Marvel Rivals Blood Hunt rastrea detalles del cronograma de eventos, actualizaciones e información centrada en problemas vinculada a las ventanas de lanzamiento.",
+      "why": "¿Por qué seguir los artículos de lanzamiento?",
+      "whySteps": {
+        "step1Title": "Seguimiento de horarios de eventos",
+        "step1Description": "Monitorea las ventanas de inicio y fin de Marvel Rivals Blood Hunt para que las partidas se planifiquen antes de los plazos.",
+        "step2Title": "Sigue los cambios de las actualizaciones",
+        "step2Description": "Usa la cobertura de actualizaciones de Marvel Rivals Blood Hunt para adaptar configuraciones y estrategias rápidamente.",
+        "step3Title": "Responde a los problemas más rápido",
+        "step3Description": "Consulta los informes de problemas de Marvel Rivals Blood Hunt para resolver bloqueos por cierres inesperados o lag más pronto."
+      },
+      "featured": "Destacados y esenciales",
+      "all": "Todos los artículos de lanzamiento"
     }
   }
 }

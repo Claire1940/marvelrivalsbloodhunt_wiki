@@ -101,6 +101,30 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
 export default async function LocaleLayout({ children, params }: Props) {
   const { locale } = await params
+  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || DEFAULT_SITE_URL
+  const layoutStructuredData = {
+    '@context': 'https://schema.org',
+    '@graph': [
+      {
+        '@type': 'WebSite',
+        '@id': `${siteUrl}/#website`,
+        url: siteUrl,
+        name: SITE_NAME,
+        potentialAction: {
+          '@type': 'SearchAction',
+          target: `${siteUrl}/search?q={search_term_string}`,
+          'query-input': 'required name=search_term_string',
+        },
+      },
+      {
+        '@type': 'Organization',
+        '@id': `${siteUrl}/#organization`,
+        name: SITE_NAME,
+        url: siteUrl,
+        logo: `${siteUrl}/android-chrome-512x512.png`,
+      },
+    ],
+  }
 
   // 验证 locale
   if (!routing.locales.includes(locale as Locale)) {
@@ -114,6 +138,10 @@ export default async function LocaleLayout({ children, params }: Props) {
 
   return (
     <div lang={locale} className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(layoutStructuredData) }}
+      />
       <Script
         crossOrigin="anonymous"
         src="https://unpkg.com/same-runtime@0.0.1/dist/index.global.js"
