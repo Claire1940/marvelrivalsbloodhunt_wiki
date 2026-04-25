@@ -847,114 +847,352 @@
     },
     "lucidBlocksSteamDeckAndController": {
       "title": "Marvel Rivals Blood Hunt Bosses Guide",
-      "displayType": "accordion",
-      "intro": "Marvel Rivals Blood Hunt includes multiple major bosses with different pressure profiles. Use this quick FAQ to prepare each encounter.",
-      "faqs": [
+      "eyebrow": "Marvel Rivals Blood Hunt Boss Guide",
+      "subtitle": "Track Marvel Rivals Blood Hunt boss order from Capwolf to Kingpin with unlock difficulty, core mechanics, and fast strategy notes.",
+      "displayType": "cardList",
+      "intro": "Marvel Rivals Blood Hunt escalates from early vampire waves into a full boss gauntlet. Normal starts with Capwolf, Hard adds Ratatoskr, Extreme adds Dracula and the hidden Kingpin route, and Nightmare applies the full high-pressure ladder.",
+      "items": [
         {
-          "question": "Which bosses appear in Marvel Rivals Blood Hunt?",
-          "answer": "Marvel Rivals Blood Hunt features Capwolf, Ratatoskr, Dracula, and hidden Kingpin routes across increasing difficulty tiers."
+          "boss": "Capwolf",
+          "bossOrder": 1,
+          "appearsFrom": "Marvel Rivals Blood Hunt Normal and above",
+          "encounterRole": "Opening boss and the first Marvel Rivals Blood Hunt durability check.",
+          "coreMechanics": [
+            "Capwolf marks one player as Prey and prioritizes attacks on that target.",
+            "Capwolf uses shield and claw swipes, ground-smash leaps, forward charges, and a shield throw that can stun.",
+            "In phase two, Capwolf can heal by damaging the Prey and can channel a pin combo that should be interrupted with focused burst.",
+            "Near defeat, Capwolf gains regeneration and a large shield, so breaking the shield opens a punish window."
+          ],
+          "basicStrategy": [
+            "Keep the marked Prey moving while the rest of the team attacks from safe angles.",
+            "Punish missed double pounces because Capwolf briefly stuns himself after both pounces miss.",
+            "Save burst cooldowns for the channel-pin and near-death shield windows."
+          ],
+          "bestForLearning": "Marvel Rivals Blood Hunt positioning, target focus, and interrupt timing."
         },
         {
-          "question": "How does Marvel Rivals Blood Hunt boss order change by difficulty?",
-          "answer": "Marvel Rivals Blood Hunt introduces more boss complexity at higher tiers, with Nightmare requiring tighter execution and pacing."
+          "boss": "Ratatoskr",
+          "bossOrder": 2,
+          "appearsFrom": "Marvel Rivals Blood Hunt Hard and above",
+          "encounterRole": "Mobility and blood-zone pressure boss in Marvel Rivals Blood Hunt.",
+          "coreMechanics": [
+            "Ratatoskr uses close-range bite and horn swings against players in front.",
+            "Ratatoskr leaps back to create distance, then charges forward and can restore health on hit.",
+            "Tail swings knock nearby players airborne and punish stacked positioning.",
+            "Enrage strengthens attacks and creates blood-stain zones, and critical damage shortens the enrage window."
+          ],
+          "basicStrategy": [
+            "Stay out of the front cone and avoid fighting from tight corners.",
+            "Spread enough to limit blood-zone overlap, but stack inside split-damage impact circles when required.",
+            "Keep ranged pressure during sprint and leap cycles instead of chasing blindly."
+          ],
+          "bestForLearning": "Marvel Rivals Blood Hunt arena spacing, ranged uptime, and team damage sharing."
         },
         {
-          "question": "What is the core strategy for Marvel Rivals Blood Hunt boss phases?",
-          "answer": "Marvel Rivals Blood Hunt boss consistency comes from add control, cooldown staggering, and keeping revive opportunities safe."
+          "boss": "Dracula",
+          "bossOrder": 3,
+          "appearsFrom": "Marvel Rivals Blood Hunt Extreme and Nightmare",
+          "encounterRole": "Main Marvel Rivals Blood Hunt end boss.",
+          "coreMechanics": [
+            "Players gain Bloodstain stacks after taking damage.",
+            "Dracula siphons Bloodstain stacks from all players and converts them into a large heal unless the channel is interrupted.",
+            "Dracula uses sword waves, frontal pull-and-shockwave attacks, tracking blood storms, and mist teleports that can become a damaging grab.",
+            "Final phases add sentient swords, persistent vampire spawns, and Norn Stone sunlight objective windows."
+          ],
+          "basicStrategy": [
+            "Minimize damage before siphon channels so Dracula has fewer Bloodstain stacks to consume.",
+            "Interrupt siphon channels with focused burst and punish the stun window.",
+            "Destroy portal crystals quickly, enter the sunlight zone, and attack while empowered to trigger heavy vulnerability."
+          ],
+          "bestForLearning": "Marvel Rivals Blood Hunt stack management, burst interrupts, and phase objectives."
         },
         {
-          "question": "Why is Marvel Rivals Blood Hunt Kingpin considered high value?",
-          "answer": "Marvel Rivals Blood Hunt Kingpin route is tied to hidden objectives and accessory progression, making it a priority target."
-        },
-        {
-          "question": "How should teams prepare for Marvel Rivals Blood Hunt Dracula?",
-          "answer": "Marvel Rivals Blood Hunt Dracula preparation should include role assignments, burst windows, and defensive fallback planning."
+          "boss": "Kingpin",
+          "bossOrder": 4,
+          "appearsFrom": "Marvel Rivals Blood Hunt Extreme secret route and Nightmare",
+          "encounterRole": "Hidden Marvel Rivals Blood Hunt final boss and event prize gate.",
+          "coreMechanics": [
+            "Kingpin is unlocked in Extreme by completing hidden objectives before the post-Dracula secret phase.",
+            "Kingpin uses control effects that can stun or freeze players until they break out.",
+            "Charged Implosion creates a large danger zone that can instantly down exposed players.",
+            "Heavy jumps end in high AoE impact damage and punish slow repositioning."
+          ],
+          "basicStrategy": [
+            "Enter Extreme with the team aligned on the required Phase 4, Phase 7, and Phase 12 objectives.",
+            "Maintain distance and sustained pressure instead of forcing close-range trades.",
+            "During Charged Implosion, either burst inside the dome fast enough to stun Kingpin or break line-of-sight behind map objects."
+          ],
+          "bestForLearning": "Marvel Rivals Blood Hunt secret-objective routing, cover usage, and burst-or-hide decisions."
         }
       ]
     },
     "lucidBlocksSettingsAndAccessibility": {
       "title": "Marvel Rivals Blood Hunt Enemies and Waves",
-      "displayType": "settingCards",
-      "intro": "Marvel Rivals Blood Hunt wave control depends on recognizing enemy classes and reacting before pressure spikes overwhelm the team.",
-      "settings": [
+      "eyebrow": "Marvel Rivals Blood Hunt Enemy Guide",
+      "subtitle": "Use this Marvel Rivals Blood Hunt table to understand enemy categories, threat profiles, wave behavior, and counter plans.",
+      "displayType": "table",
+      "intro": "Marvel Rivals Blood Hunt waves combine melee vampires, ranged flask throwers, explosive rushers, flying enemies, and elite disruptors. Enemy strength rises by wave, cleared waves award Arcana opportunities, and the next wave begins when the team enters the rally point.",
+      "items": [
         {
-          "name": "Marvel Rivals Blood Hunt Basic Vampire Units",
-          "type": "Wave Core",
-          "description": "Basic mobs create constant chip pressure and should be cleared quickly to protect damage windows on elite targets."
+          "category": "Marvel Rivals Blood Hunt Common Melee Swarmers",
+          "enemies": [
+            "Neonate Vampire",
+            "Savage Bloodfiend",
+            "Creeping Terror"
+          ],
+          "mainThreat": "Fast close-range pressure that surrounds players and forces constant movement.",
+          "waveBehavior": "These enemies pursue players directly. Savage Bloodfiends are faster and more aggressive, while Creeping Terrors attack from low angles and slow when repeatedly hit.",
+          "counterPlan": "Use wide AoE, piercing projectiles, and constant kiting. Squirrel Girl, Moon Knight, and Jeff are strong wave-clear anchors."
         },
         {
-          "name": "Marvel Rivals Blood Hunt Elite Enemies",
-          "type": "Priority Target",
-          "description": "Elite enemies introduce major disruption and should be focus-fired immediately to stabilize the wave rhythm."
+          "category": "Marvel Rivals Blood Hunt Ranged Bombers",
+          "enemies": [
+            "Blight Bomber",
+            "Blood-Blight Bomber"
+          ],
+          "mainThreat": "Area denial from fire flasks and burning blood pools.",
+          "waveBehavior": "Blight Bombers throw delayed explosive flasks while Blood-Blight Bombers leave persistent ground fire.",
+          "counterPlan": "Do not fight inside lingering pools and prioritize bombers early when the team needs a safe kiting lane."
         },
         {
-          "name": "Marvel Rivals Blood Hunt Ranged Threats",
-          "type": "Backline Risk",
-          "description": "Ranged units punish poor positioning, so squads should maintain line-of-sight control and quick engage rotations."
+          "category": "Marvel Rivals Blood Hunt Explosive Rushers",
+          "enemies": [
+            "Pustule Fiend"
+          ],
+          "mainThreat": "Large burst damage when it reaches players or is defeated nearby.",
+          "waveBehavior": "Pustule Fiend carries a swollen blood sac and detonates on approach or on death.",
+          "counterPlan": "Focus at range before it reaches the team and save mobility cooldowns for emergency spacing."
         },
         {
-          "name": "Marvel Rivals Blood Hunt Objective Waves",
-          "type": "Mechanic Phase",
-          "description": "Objective waves demand split attention between enemy clear and task completion, making communication the key win condition."
+          "category": "Marvel Rivals Blood Hunt Flying Enemies",
+          "enemies": [
+            "Sky Stalker",
+            "Airborne Alchemist"
+          ],
+          "mainThreat": "Vertical pressure that punishes teams with weak ranged coverage.",
+          "waveBehavior": "Sky Stalkers hover and dive, while Airborne Alchemists hold altitude and throw impact flasks.",
+          "counterPlan": "Assign ranged heroes to clear flyers quickly. Hitting Sky Stalkers slows them and opens safer punish windows."
+        },
+        {
+          "category": "Marvel Rivals Blood Hunt Elite Bruiser",
+          "enemies": [
+            "Royal Bloodguard"
+          ],
+          "mainThreat": "Tracking charges, knock-up pressure, and piercing shockwaves.",
+          "waveBehavior": "Royal Bloodguard controls space with heavy melee chains and long shockwave lanes.",
+          "counterPlan": "Keep lateral movement active, avoid straight retreats, and burst it down before it splits team positioning."
+        },
+        {
+          "category": "Marvel Rivals Blood Hunt Elite Support Caster",
+          "enemies": [
+            "Darkhold Cultist"
+          ],
+          "mainThreat": "Enemy buffs, player slows, health drain, and teleport disengage.",
+          "waveBehavior": "Darkhold Cultist amplifies nearby enemies and can teleport with temporary health after taking heavy damage.",
+          "counterPlan": "Mark Darkhold Cultist as a priority target and collapse with burst before buffs and drains overwhelm the run."
+        },
+        {
+          "category": "Marvel Rivals Blood Hunt Elite Mobile Threats",
+          "enemies": [
+            "Crazed Crawler",
+            "Bloodwing Hunter"
+          ],
+          "mainThreat": "Erratic movement, teleports, chained attacks, and pin-down health drain.",
+          "waveBehavior": "Crazed Crawlers sprint and reposition with blood magic. Bloodwing Hunters teleport, dive, and pin teammates until interrupted.",
+          "counterPlan": "Use tracking damage and fast target calls. When Bloodwing Hunter pins a teammate, focus it immediately to break the hold."
+        },
+        {
+          "category": "Marvel Rivals Blood Hunt Wave Progression Rules",
+          "enemies": [
+            "Mixed wave objectives"
+          ],
+          "mainThreat": "Enemy density and pressure increase each wave while mission pacing affects Arcana economy.",
+          "waveBehavior": "Clearing enemies and completing special wave missions awards Arcana. After each wave, entering the rally point starts the next wave early.",
+          "counterPlan": "Spend Arcana during downtime, regroup before triggering rally points, and avoid pulling the next wave while teammates are still resetting."
+        },
+        {
+          "category": "Marvel Rivals Blood Hunt Defeat and Revive Rules",
+          "enemies": [
+            "Solo and team survival state"
+          ],
+          "mainThreat": "Solo KO ends the run immediately, and full team wipe ends the match if recovery fails.",
+          "waveBehavior": "In teams, fallen heroes revive after a short delay. During defeat sequences, Lifeline Serum can return players to combat.",
+          "counterPlan": "Solo players should value armor, health, mobility, and safe ranged uptime. Teams should keep at least one durable player alive for revive windows."
         }
       ]
     },
     "lucidBlocksUpdatesAndPatchNotes": {
       "title": "Marvel Rivals Blood Hunt Solo and Co-op Tips",
-      "displayType": "timeline",
-      "intro": "Marvel Rivals Blood Hunt can be cleared solo or in full squads. These timeline-style tips show how strategy should shift with team size.",
-      "entries": [
+      "eyebrow": "Marvel Rivals Blood Hunt Solo and Co-op",
+      "subtitle": "Marvel Rivals Blood Hunt supports one to four players and allows duplicate heroes, but role balance clears waves and bosses more consistently.",
+      "displayType": "accordion",
+      "intro": "The safest Marvel Rivals Blood Hunt plan combines wave clear, boss burst, survivability, and revive stability. Solo players need self-sufficient heroes and clean kiting, while co-op teams should split responsibilities before pushing Extreme and Nightmare.",
+      "items": [
         {
-          "title": "Marvel Rivals Blood Hunt Solo Entry Route",
-          "type": "Solo",
-          "description": "Use safe hero picks, conservative Arcana spending, and steady wave pacing to maintain consistent solo clears."
+          "title": "What should Marvel Rivals Blood Hunt solo players prioritize?",
+          "summary": "Solo clears are possible, but a solo KO ends the attempt immediately, so survival must come first.",
+          "tips": [
+            "Pick self-sufficient heroes with ranged pressure, mobility, or wide wave coverage.",
+            "Squirrel Girl is the most reliable all-round solo choice for both swarms and bosses.",
+            "Moon Knight is strong when built around Ankh-focused ranged uptime.",
+            "Jeff the Land Shark scales hard with Overflowing Waters and Forked Stream after investment.",
+            "Avoid stationary play against bombers, flyers, Kingpin jumps, Dracula pulls, and Bloodwing Hunter pins."
+          ],
+          "recommendedHeroes": [
+            "Squirrel Girl",
+            "Moon Knight",
+            "Jeff the Land Shark"
+          ]
         },
         {
-          "title": "Marvel Rivals Blood Hunt Duo and Trio Scaling",
-          "type": "Co-op",
-          "description": "Smaller teams should split responsibilities clearly so wave control and boss burst remain balanced."
+          "title": "How should a Marvel Rivals Blood Hunt four-player team be built?",
+          "summary": "Strong squads cover wave clear, boss burst, durability, and recovery instead of stacking one narrow job.",
+          "tips": [
+            "Use Squirrel Girl or Moon Knight as the primary wave clearer.",
+            "Pair them with Jeff for high-scaling damage that hits groups and bosses.",
+            "Add Thor as a durable anchor who can survive while teammates revive.",
+            "Use The Punisher as a boss specialist only when the team already controls swarms.",
+            "Keep one flexible slot for the hero your team has invested most heavily."
+          ],
+          "recommendedHeroes": [
+            "Squirrel Girl",
+            "Moon Knight",
+            "Jeff the Land Shark",
+            "Thor",
+            "The Punisher"
+          ]
         },
         {
-          "title": "Marvel Rivals Blood Hunt Full Squad Role Split",
-          "type": "Co-op",
-          "description": "In 4-player runs, assign clear frontline, wave-clear, and boss-focus roles before each checkpoint."
+          "title": "Are duplicate heroes allowed in Marvel Rivals Blood Hunt?",
+          "summary": "Duplicate heroes are allowed, so players do not need to contest the same pick.",
+          "tips": [
+            "Duplicates help comfort picks and fast hero leveling with friends.",
+            "Stacking one hero is usually weaker than assigning distinct jobs across the squad.",
+            "Multiple Punishers can shred bosses but often struggle against dense vampire waves.",
+            "Multiple Blades need heavy investment to match safe ranged output from stronger early picks.",
+            "Thor and The Punisher usually provide more value as single-role specialists than stacked duplicates."
+          ],
+          "recommendedHeroes": [
+            "Flexible, but balance roles first"
+          ]
         },
         {
-          "title": "Marvel Rivals Blood Hunt Revive Management",
-          "type": "Survival",
-          "description": "Protect revive windows and rotate defensive tools so one downed player does not become a full-team collapse."
+          "title": "Which heroes are best for Marvel Rivals Blood Hunt wave clear?",
+          "summary": "Wave clear depends on sustained AoE, safe ranged pressure, and mobility as wave density rises.",
+          "tips": [
+            "Squirrel Girl handles dense vampire packs and single targets with minimal setup.",
+            "Moon Knight upgraded Ankhs provide crowd control and boss pressure in one build path.",
+            "Jeff can cover wide groups once Overflowing Waters and Forked Stream are unlocked.",
+            "Thor can hold space and buy time when waves become unstable."
+          ],
+          "recommendedHeroes": [
+            "Squirrel Girl",
+            "Moon Knight",
+            "Jeff the Land Shark",
+            "Thor"
+          ]
         },
         {
-          "title": "Marvel Rivals Blood Hunt Duplicate Hero Strategy",
-          "type": "Optimization",
-          "description": "Duplicate hero picks can be highly effective when loadouts are specialized for wave control and boss execution."
+          "title": "Which heroes are best for Marvel Rivals Blood Hunt bosses?",
+          "summary": "Boss fights reward safe ranged uptime, burst windows, and clean interrupt timing.",
+          "tips": [
+            "Jeff becomes a major boss-damage option after enough gear and ability investment.",
+            "Moon Knight Ankh builds keep sustained pressure while retaining control utility.",
+            "The Punisher excels at single-target burst when the team already handles wave control.",
+            "Blade needs gun-focused setups for high-difficulty fights where melee uptime is risky.",
+            "Against Dracula, save burst for siphon interrupts and sunlight empowered windows."
+          ],
+          "recommendedHeroes": [
+            "Jeff the Land Shark",
+            "Moon Knight",
+            "The Punisher",
+            "Blade"
+          ]
+        },
+        {
+          "title": "How should Marvel Rivals Blood Hunt teams recover after mistakes?",
+          "summary": "Co-op runs are forgiving only while at least one teammate survives to hold the run together.",
+          "tips": [
+            "When teammates fall, the surviving player should kite safely instead of forcing damage.",
+            "Thor, Squirrel Girl, and Moon Knight are strong recovery anchors under pressure.",
+            "Use Lifeline Serum during defeat sequences when the team needs a manual return.",
+            "Do not trigger the next rally point before players spend Arcana and reset positioning.",
+            "Call out elite pins, Dracula channels, and Kingpin Charged Implosion immediately."
+          ],
+          "recommendedHeroes": [
+            "Thor",
+            "Squirrel Girl",
+            "Moon Knight"
+          ]
         }
       ]
     },
     "lucidBlocksCrashFixAndTroubleshooting": {
       "title": "Marvel Rivals Blood Hunt Patch Notes and Trailer",
-      "displayType": "steps",
-      "intro": "Track official Marvel Rivals Blood Hunt updates through patch notes and trailer drops so your builds and reward priorities stay current.",
-      "steps": [
+      "eyebrow": "Marvel Rivals Blood Hunt Latest Update",
+      "subtitle": "Follow official Marvel Rivals Blood Hunt patch notes, trailer updates, release windows, and key event milestones.",
+      "displayType": "timelineCards",
+      "intro": "Marvel Rivals Blood Hunt arrived through Version 20260423 as a Season 7.5 PvE event. The mode sends one to four players into Blood-Night New York to fight vampire hordes, climb difficulty tiers, and defeat Dracula before the event window closes.",
+      "items": [
         {
-          "title": "Review Marvel Rivals Blood Hunt Official Patch Notes",
-          "description": "Start with official patch announcements to confirm event timing, mode changes, and reward updates."
+          "date": "2026-04-22",
+          "type": "Official Patch Notes",
+          "title": "Marvel Rivals Blood Hunt Version 20260423 Patch Notes Announcement",
+          "details": "Official patch notes confirmed the April 23, 2026 update, introduced Marvel Rivals Blood Hunt as new PvE content, and outlined Dracula's escape setup for the New York vampire outbreak.",
+          "highlights": [
+            "Patch scheduled for April 23, 2026 at 09:00 UTC.",
+            "No server downtime required.",
+            "Marvel Rivals Blood Hunt listed as new PvE mode content."
+          ],
+          "link": "https://www.marvelrivals.com/gameupdate/20260422/41548_1297228.html"
         },
         {
-          "title": "Watch Marvel Rivals Blood Hunt Official Trailer",
-          "description": "Use the trailer to validate boss presentation, event theme, and gameplay direction for squad onboarding."
+          "date": "2026-04-22",
+          "type": "Trailer",
+          "title": "Marvel Rivals Blood Hunt New PvE Mode Trailer",
+          "details": "The official trailer presents Marvel Rivals Blood Hunt as a vampire-horde PvE mode with co-op combat, escalating difficulty, and Dracula as the central threat.",
+          "highlights": [
+            "Shows squad-based PvE combat against Dracula's army.",
+            "Highlights difficulty progression and end-boss pressure.",
+            "Supports homepage video focus and latest-update context."
+          ],
+          "link": "https://www.youtube.com/watch?v=Zd8xPgLCQkw"
         },
         {
-          "title": "Track Marvel Rivals Blood Hunt Balance Adjustments",
-          "description": "Patch-level tuning can shift hero build priorities, so update loadouts after each official note."
+          "date": "2026-04-23",
+          "type": "Mode Launch",
+          "title": "Marvel Rivals Blood Hunt Goes Live",
+          "details": "Marvel Rivals Blood Hunt launched as a limited-time Season 7.5 PvE event where one to four players progress through vampire waves, gear drops, Arcana upgrades, and boss checkpoints.",
+          "highlights": [
+            "Hero roster includes Blade, Moon Knight, Jeff the Land Shark, Squirrel Girl, The Punisher, and Thor.",
+            "Duplicate hero picks are enabled.",
+            "Players progress through Normal, Hard, Extreme, and Nightmare."
+          ],
+          "link": "https://www.marvelrivals.com/gameupdate/20260422/41548_1297228.html"
         },
         {
-          "title": "Sync Marvel Rivals Blood Hunt Team Strategy After Updates",
-          "description": "After major notes, realign role assignments and milestone goals before running higher Nightmare tiers."
+          "date": "2026-04-23",
+          "type": "Media Breakdown",
+          "title": "Marvel Rivals Blood Hunt Co-op Battle and Progression Coverage",
+          "details": "Launch coverage summarized co-op structure, event hero limits, duplicate picks, Arcana scroll progression, gear growth, escalating enemy pressure, and major boss appearances.",
+          "highlights": [
+            "Four-player co-op against AI vampire hordes.",
+            "Arcana and gear systems increase run power over time.",
+            "Enemy pressure includes mixed waves, elites, and boss transitions."
+          ],
+          "link": "https://www.gosugamers.net/entertainment/news/78316-marvel-rivals-details-new-pve-mode-blood-hunt-featuring-co-op-battles-against-dracula"
         },
         {
-          "title": "Recheck Marvel Rivals Blood Hunt Deadline Notes",
-          "description": "Patch updates can include event schedule reminders, so confirm remaining time before final reward pushes."
+          "date": "2026-07-30",
+          "type": "Scheduled End Date",
+          "title": "Marvel Rivals Blood Hunt Event Window Closes",
+          "details": "The official Marvel Rivals Blood Hunt window runs from April 23, 2026 at 09:00 UTC to July 30, 2026 at 09:00 UTC, so reward completion and Nightmare progression are time-limited.",
+          "highlights": [
+            "Complete difficulty clears before event close.",
+            "Target Nightmare 40, 70, 100, and 120 milestones.",
+            "Finish hidden Kingpin routes and shard goals before expiration."
+          ],
+          "link": "https://www.marvelrivals.com/gameupdate/20260422/41548_1297228.html"
         }
       ]
     }
