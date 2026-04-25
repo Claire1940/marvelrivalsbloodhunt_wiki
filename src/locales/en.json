@@ -82,22 +82,22 @@
       {
         "icon": "Shield",
         "title": "Marvel Rivals Blood Hunt Kingpin Hidden Boss",
-        "description": "Phase objectives and unlock flow for Kingpin"
+        "description": "Golden Key route, hidden objectives, and Phase 14 Kingpin counters"
       },
       {
         "icon": "AlertTriangle",
         "title": "Marvel Rivals Blood Hunt Dracula Boss Guide",
-        "description": "Phase-by-phase mechanics and team execution tips"
+        "description": "Bloodstain interrupts, teleport punish windows, and sunlight burst flow"
       },
       {
         "icon": "Star",
         "title": "Marvel Rivals Blood Hunt Best Characters",
-        "description": "Top hero picks for clears, farming, and bosses"
+        "description": "S/A/B picks for solo progression, co-op anchors, and boss pressure"
       },
       {
         "icon": "TrendingUp",
         "title": "Marvel Rivals Blood Hunt Builds",
-        "description": "High-value loadouts for each event hero"
+        "description": "Hero builds with trait focus, gear priorities, and risk management"
       },
       {
         "icon": "ClipboardCheck",
@@ -305,137 +305,150 @@
     "lucidBlocksQualiaAndBaseBuilding": {
       "title": "Marvel Rivals Blood Hunt Kingpin Hidden Boss",
       "displayType": "cards",
-      "intro": "Marvel Rivals Blood Hunt Kingpin route is a hidden objective chain. Completing the required phase conditions unlocks the boss encounter and accessory progress.",
+      "intro": "Marvel Rivals Blood Hunt Kingpin is a hidden Phase 14 boss unlocked only when all 3 Golden Keys are completed in one Extreme run before defeating Dracula.",
       "cards": [
         {
-          "name": "Marvel Rivals Blood Hunt Phase 4 Key Objective",
-          "description": "Complete the required phase objective early so the hidden route remains active for later steps."
+          "name": "Marvel Rivals Blood Hunt Step 1: Start on Extreme Difficulty",
+          "description": "Marvel Rivals Blood Hunt Kingpin route only appears on Extreme, so plan key objectives before Phase 13 instead of treating the run like a normal clear."
         },
         {
-          "name": "Marvel Rivals Blood Hunt Phase 7 Key Objective",
-          "description": "Continue the hidden objective chain at phase 7 to preserve Kingpin boss eligibility."
+          "name": "Marvel Rivals Blood Hunt Step 2: Phase 4 Arcane Barrier (90s)",
+          "description": "Sprint to the bridge barrier, break it fast, and enter the checkpoint to secure Golden Key 1 before the 90-second timer expires."
         },
         {
-          "name": "Marvel Rivals Blood Hunt Phase 12 Key Objective",
-          "description": "Finish the final hidden trigger objective in phase 12 to unlock the Kingpin showdown path."
+          "name": "Marvel Rivals Blood Hunt Step 3: Phase 7 Bloodclot Buds",
+          "description": "Clear Ruins bloodclot buds for Golden Key 2, with scaling counts by team size: Solo 1, Duo 2, Full squad 4."
         },
         {
-          "name": "Marvel Rivals Blood Hunt Kingpin Encounter",
-          "description": "After all hidden objectives are completed, the Kingpin battle route opens and rewards accessory progression."
+          "name": "Marvel Rivals Blood Hunt Step 4: Phase 12 Sealing Circle (120s)",
+          "description": "Destroy blood crystals around the Castle Entrance within 120 seconds to secure Golden Key 3 and keep the hidden route active."
+        },
+        {
+          "name": "Marvel Rivals Blood Hunt Step 5: Defeat Dracula to Enter Times Square",
+          "description": "After all Golden Keys are secured, beating Dracula transitions the run to the Phase 14 Times Square Kingpin encounter."
+        },
+        {
+          "name": "Marvel Rivals Blood Hunt Step 6: Kingpin Attack Counters",
+          "description": "Counter Trance Beam with movement spam and burst, hide from Charged Implosion, sidestep Aerial Slam, and kite Charge Attack at range."
         }
       ],
       "highlights": [
-        "Track hidden objectives by phase",
-        "Coordinate squad role split before trigger waves",
-        "Save burst tools for Kingpin windows",
-        "Secure shard and accessory progress on clear"
+        "Marvel Rivals Blood Hunt missing any Golden Key ends the route after Dracula",
+        "Marvel Rivals Blood Hunt Phase 4 and Phase 12 timed checks are the two hardest failures",
+        "Marvel Rivals Blood Hunt teams should call objective spawns immediately to prevent time loss",
+        "Marvel Rivals Blood Hunt Kingpin clear completes hidden objective progression and reward unlocks"
       ]
     },
     "lucidBlocksWorldRegions": {
       "title": "Marvel Rivals Blood Hunt Dracula Boss Guide",
       "displayType": "regionCards",
-      "intro": "Marvel Rivals Blood Hunt Dracula fight is phase-driven. Understanding each transition keeps revives stable and damage windows efficient.",
+      "intro": "Marvel Rivals Blood Hunt Dracula has four phases built around Bloodstain healing, movement checks, and a final sunlight-powered burst window.",
       "regions": [
         {
           "name": "Marvel Rivals Blood Hunt Dracula Phase 1",
-          "type": "Opening Phase",
-          "description": "Focus on safe spacing, quick add cleanup, and disciplined dodge timing while learning the first attack cycle."
+          "type": "Bloodstain Siphon Phase",
+          "description": "Avoid feeding Bloodstain stacks, then interrupt Dracula's siphon channel with team burst to trigger a short stun and safe damage window."
         },
         {
           "name": "Marvel Rivals Blood Hunt Dracula Phase 2",
-          "type": "Bloodstain Phase",
-          "description": "Manage blood zones and healing denial mechanics to keep team uptime high during pressure spikes."
+          "type": "Teleport Grab Phase",
+          "description": "When Dracula enters blood mist, targeted players must keep moving so the grab misses and opens another punish window."
         },
         {
           "name": "Marvel Rivals Blood Hunt Dracula Phase 3",
-          "type": "Teleport Phase",
-          "description": "Track teleport patterns, call target focus, and rotate recovery skills to prevent wipe chains."
+          "type": "Sword Pressure Phase",
+          "description": "Track sweeping sword lanes, destroy sentient swords, and preserve revival tools instead of forcing risky damage."
         },
         {
           "name": "Marvel Rivals Blood Hunt Dracula Phase 4",
-          "type": "Final Burn",
-          "description": "Use protected safe zones, stack burst cooldowns, and finish the execute window before attrition takes over."
+          "type": "Sunlight Empowered Phase",
+          "description": "Break both crystals to open the sunlight zone, gain Empowered, then burst Dracula during vulnerability windows."
+        },
+        {
+          "name": "Marvel Rivals Blood Hunt Dracula Core Rules",
+          "type": "Whole Fight Priority",
+          "description": "Treat Phases 1-3 as survival setup, play mostly at range, and reserve strongest cooldowns for the Phase 4 sunlight sequence."
         }
       ]
     },
     "lucidBlocksCreaturesAndEnemies": {
       "title": "Marvel Rivals Blood Hunt Best Characters",
       "displayType": "creatureCards",
-      "intro": "Marvel Rivals Blood Hunt hero value depends on wave clear, boss DPS, and team utility. Use this tier snapshot to pick stable carries for your current difficulty.",
+      "intro": "Marvel Rivals Blood Hunt best picks are heroes that control swarms and still deliver boss pressure without relying on perfect team coordination.",
       "creatures": [
         {
-          "name": "Blade",
-          "role": "S Tier",
-          "description": "Blade offers high sustain and boss consistency, making him a top Marvel Rivals Blood Hunt pick for solo and team clears."
+          "name": "Squirrel Girl",
+          "role": "S Tier | All-round Carry",
+          "description": "Squirrel Girl is a top Marvel Rivals Blood Hunt investment with strong mobility, ranged pressure, and reliable scaling for solo or co-op clears."
         },
         {
           "name": "Moon Knight",
-          "role": "S Tier",
-          "description": "Moon Knight excels at controlled burst windows and reliable pressure during Marvel Rivals Blood Hunt boss phases."
-        },
-        {
-          "name": "The Punisher",
-          "role": "A Tier",
-          "description": "The Punisher provides stable single-target damage, especially effective for Marvel Rivals Blood Hunt boss burn windows."
-        },
-        {
-          "name": "Squirrel Girl",
-          "role": "A Tier",
-          "description": "Squirrel Girl delivers excellent wave coverage and consistent utility for Marvel Rivals Blood Hunt farming routes."
-        },
-        {
-          "name": "Thor",
-          "role": "A Tier",
-          "description": "Thor offers strong control and frontline pressure that helps Marvel Rivals Blood Hunt squads hold difficult wave transitions."
+          "role": "S Tier | Ankh Damage Specialist",
+          "description": "Moon Knight's Phases of the Moon Ankh build gives Marvel Rivals Blood Hunt teams high boss damage, crowd control, and strong reposition tools."
         },
         {
           "name": "Jeff the Land Shark",
-          "role": "A Tier",
-          "description": "Jeff the Land Shark supports safe clears with flexible utility, making Marvel Rivals Blood Hunt runs more forgiving."
+          "role": "S Tier | Scaling Water Damage",
+          "description": "Jeff the Land Shark scales hard in Marvel Rivals Blood Hunt once Overflowing Waters and Forked Stream are online for boss burst and wave coverage."
+        },
+        {
+          "name": "Thor",
+          "role": "A Tier | Team Anchor",
+          "description": "Thor provides Marvel Rivals Blood Hunt squads with durable frontline stability and reliable damage during revive-heavy runs."
+        },
+        {
+          "name": "Blade",
+          "role": "B Tier | Specialized Pick",
+          "description": "Blade performs in Marvel Rivals Blood Hunt when built around safer gun-focused pressure, but needs investment and team support at high tiers."
+        },
+        {
+          "name": "The Punisher",
+          "role": "B Tier | Boss Specialist",
+          "description": "The Punisher adds strong single-target damage in Marvel Rivals Blood Hunt but depends on teammates to handle heavy swarm control."
         }
       ]
     },
     "lucidBlocksMobilityGear": {
       "title": "Marvel Rivals Blood Hunt Builds",
       "displayType": "itemCards",
-      "intro": "Marvel Rivals Blood Hunt builds should balance wave uptime, elite burst, and boss execution. These archetypes are effective for event progression.",
+      "intro": "Marvel Rivals Blood Hunt builds are defined by Traits, Arcana timing, and four gear slots: Weapon, Armor, Accessory, and Exclusive.",
       "items": [
         {
-          "name": "Blade Lifesteal Pressure Build",
-          "type": "Sustain Build",
-          "description": "Prioritize survivability and consistent damage so Blade can keep pressure through long Marvel Rivals Blood Hunt runs."
+          "name": "Marvel Rivals Blood Hunt Squirrel Girl Ranged Mobility Carry",
+          "type": "Solo or Team Build",
+          "description": "Prioritize ranged damage and mobility so Squirrel Girl can kite safely, clear swarms, and still contribute meaningful boss pressure."
         },
         {
-          "name": "Moon Knight Burst Cycle Build",
-          "type": "Boss Build",
-          "description": "Stack burst amplifiers and cooldown rhythm to maximize Moon Knight damage in Marvel Rivals Blood Hunt boss windows."
+          "name": "Marvel Rivals Blood Hunt Moon Knight Phases of the Moon Build",
+          "type": "Ankh Damage Build",
+          "description": "Focus on Ankh uptime, ranged weapon scaling, and survivability gear to maximize Moon Knight's endgame boss and wave control value."
         },
         {
-          "name": "Punisher Single-Target Build",
-          "type": "DPS Build",
-          "description": "Focus on sustained precision damage and safe positioning for high-value Marvel Rivals Blood Hunt elite and boss targets."
+          "name": "Marvel Rivals Blood Hunt Jeff Overflowing Waters Build",
+          "type": "Scaling Team Build",
+          "description": "Rush Overflowing Waters and Forked Stream support so Jeff can transition from slower early waves into high-damage boss shredding."
         },
         {
-          "name": "Squirrel Girl Wave Control Build",
-          "type": "Wave Build",
-          "description": "Use crowd control and repeatable AoE cadence to stabilize Marvel Rivals Blood Hunt wave stages for the team."
+          "name": "Marvel Rivals Blood Hunt Thor Survival Anchor Build",
+          "type": "Frontline Team Build",
+          "description": "Stack durability with steady damage to keep Thor alive during wipe-prone phases and preserve co-op run stability."
         },
         {
-          "name": "Thor Frontline Control Build",
-          "type": "Control Build",
-          "description": "Build around engagement stability and layered control to anchor Marvel Rivals Blood Hunt co-op clears."
+          "name": "Marvel Rivals Blood Hunt Blade Gun-Focused Ranged Build",
+          "type": "Specialized Team Build",
+          "description": "Lean into gun-focused traits and sustained ranged pressure because close-range Blade trading is punished heavily in late boss phases."
         },
         {
-          "name": "Jeff Utility Sustain Build",
-          "type": "Support Build",
-          "description": "Jeff gains high value in Marvel Rivals Blood Hunt with utility-heavy setups that preserve team recovery options."
+          "name": "Marvel Rivals Blood Hunt Punisher Single-Target Boss Build",
+          "type": "Boss Specialist Build",
+          "description": "Build single-target damage and uptime for bosses, while relying on teammates to cover wave control and survival space."
         }
       ],
       "unlockMilestones": [
-        "Set one stable Normal-to-Hard build",
-        "Tune Arcana around your role",
-        "Upgrade gear slots before pushing Nightmare",
-        "Lock one boss-focused loadout and one wave-focused loadout"
+        "Marvel Rivals Blood Hunt setup should lock all four gear slots before pushing deep Nightmare",
+        "Marvel Rivals Blood Hunt high tiers reward ranged pressure and survivability over melee greed",
+        "Marvel Rivals Blood Hunt Arcana spending should align with boss checkpoints and danger waves",
+        "Marvel Rivals Blood Hunt progression is stronger with one wave-focused and one boss-focused loadout per hero"
       ]
     },
     "lucidBlocksFarmingAndGrowth": {
