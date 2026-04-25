@@ -11,12 +11,14 @@
     }
   },
   "nav": {
-    "guides": "Anleitungen",
-    "crafting": "Herstellung",
-    "items": "Gegenstände",
-    "biomes": "Biome",
-    "building": "Bauen",
-    "support": "Unterstützung"
+    "guide": "Guide",
+    "builds": "Builds",
+    "characters": "Characters",
+    "tierList": "Tier List",
+    "bosses": "Bosses",
+    "gear": "Gear",
+    "mechanics": "Mechanics",
+    "release": "Release"
   },
   "common": {
     "home": "Startseite",

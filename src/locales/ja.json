@@ -11,12 +11,14 @@
     }
   },
   "nav": {
-    "guides": "ガイド",
-    "crafting": "クラフト",
-    "items": "アイテム",
-    "biomes": "バイオーム",
-    "building": "建築",
-    "support": "サポート"
+    "guide": "Guide",
+    "builds": "Builds",
+    "characters": "Characters",
+    "tierList": "Tier List",
+    "bosses": "Bosses",
+    "gear": "Gear",
+    "mechanics": "Mechanics",
+    "release": "Release"
   },
   "common": {
     "home": "ホーム",

@@ -11,12 +11,14 @@
     }
   },
   "nav": {
-    "guides": "Руководства",
-    "crafting": "Крафт",
-    "items": "Предметы",
-    "biomes": "Биомы",
-    "building": "Строительство",
-    "support": "Поддержка"
+    "guide": "Guide",
+    "builds": "Builds",
+    "characters": "Characters",
+    "tierList": "Tier List",
+    "bosses": "Bosses",
+    "gear": "Gear",
+    "mechanics": "Mechanics",
+    "release": "Release"
   },
   "common": {
     "home": "Главная",

@@ -11,12 +11,14 @@
     }
   },
   "nav": {
-    "guides": "Guias",
-    "crafting": "Criação",
-    "items": "Itens",
-    "biomes": "Biomas",
-    "building": "Construção",
-    "support": "Suporte"
+    "guide": "Guide",
+    "builds": "Builds",
+    "characters": "Characters",
+    "tierList": "Tier List",
+    "bosses": "Bosses",
+    "gear": "Gear",
+    "mechanics": "Mechanics",
+    "release": "Release"
   },
   "common": {
     "home": "Início",

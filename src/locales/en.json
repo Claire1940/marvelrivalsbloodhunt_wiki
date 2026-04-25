@@ -10,7 +10,16 @@
       "twitterDescription": "Marvel Rivals Blood Hunt Wiki tracks event dates, bosses, rewards, builds, and patch notes for the limited-time PvE mode."
     }
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "builds": "Builds",
+    "characters": "Characters",
+    "tierList": "Tier List",
+    "bosses": "Bosses",
+    "gear": "Gear",
+    "mechanics": "Mechanics",
+    "release": "Release"
+  },
   "common": {
     "home": "Home",
     "more": "More",
@@ -1252,125 +1261,165 @@
     "disclaimer": "Not affiliated with Marvel, NetEase Games, or official Marvel Rivals publishers."
   },
   "pages": {
-    "guides": {
-      "title": "Marvel Rivals Blood Hunt Guides",
-      "description": "Complete Marvel Rivals Blood Hunt guides from first clear setup to advanced Nightmare progression and boss execution.",
-      "metaTitle": "Marvel Rivals Blood Hunt Guides - Beginner to Nightmare",
-      "metaDescription": "Complete Marvel Rivals Blood Hunt guides covering event access, beginner routes, hero builds, boss mechanics, and Nightmare milestones.",
-      "categoryLabel": "BLOOD HUNT GUIDES",
-      "whatIs": "What are Guides?",
-      "whatIsDescription": "Marvel Rivals Blood Hunt guides explain event systems, progression routes, reward planning, and practical co-op execution from start to finish.",
-      "why": "Why read guides?",
+    "guide": {
+      "title": "Marvel Rivals Blood Hunt Guide",
+      "description": "Complete Marvel Rivals Blood Hunt guide coverage for beginner flow, progression routes, difficulty strategy, and event-specific boss planning.",
+      "metaTitle": "Marvel Rivals Blood Hunt Guide - Beginner to Nightmare Strategy",
+      "metaDescription": "Read Marvel Rivals Blood Hunt guide articles covering entry flow, squad setup, route planning, and practical clears from Normal to Nightmare.",
+      "categoryLabel": "GUIDE",
+      "whatIs": "What is the Guide category?",
+      "whatIsDescription": "The Marvel Rivals Blood Hunt Guide category explains full run flow, mission routing, event systems, and step-by-step tactics for new and returning players.",
+      "why": "Why read this guide category?",
       "whySteps": {
-        "step1Title": "Learn Core Event Systems",
-        "step1Description": "Understand Marvel Rivals Blood Hunt flow before pushing higher tiers",
-        "step2Title": "Progress Faster",
-        "step2Description": "Follow proven Marvel Rivals Blood Hunt routes for stable milestone clears",
-        "step3Title": "Improve Team Execution",
-        "step3Description": "Use role-based Marvel Rivals Blood Hunt strategy for boss and wave consistency"
+        "step1Title": "Learn Event Flow Quickly",
+        "step1Description": "Understand how Marvel Rivals Blood Hunt run structure works from queue to final clear.",
+        "step2Title": "Reduce Failed Attempts",
+        "step2Description": "Use proven Marvel Rivals Blood Hunt route decisions to avoid avoidable wipes and resets.",
+        "step3Title": "Scale Into Nightmare",
+        "step3Description": "Build a consistent Marvel Rivals Blood Hunt progression plan from early clears to late milestones."
       },
       "featured": "Featured & Essential",
-      "all": "All Guides"
+      "all": "All Guide Articles"
     },
-    "crafting": {
+    "builds": {
       "title": "Marvel Rivals Blood Hunt Builds",
-      "description": "Master Marvel Rivals Blood Hunt build planning with trait priorities, Arcana routes, gear slots, and role-focused loadouts.",
-      "metaTitle": "Marvel Rivals Blood Hunt Builds - Traits, Arcana & Gear",
-      "metaDescription": "Master Marvel Rivals Blood Hunt builds with trait paths, Arcana upgrades, gear slot strategy, and hero-specific loadout planning.",
-      "categoryLabel": "BUILD SYSTEM",
-      "whatIs": "What is Build Planning?",
-      "whatIsDescription": "Marvel Rivals Blood Hunt build planning combines traits, Arcana, and gear to create stable wave control and boss burst patterns.",
-      "why": "Why optimize builds?",
+      "description": "Marvel Rivals Blood Hunt build guides for role setup, hero-specific loadouts, trait choices, and practical optimization for boss and wave pressure.",
+      "metaTitle": "Marvel Rivals Blood Hunt Builds - Best Loadouts and Optimization",
+      "metaDescription": "Find Marvel Rivals Blood Hunt builds for Squirrel Girl, Blade, Moon Knight, Jeff, Thor, and Punisher with practical optimization tips.",
+      "categoryLabel": "BUILDS",
+      "whatIs": "What is the Builds category?",
+      "whatIsDescription": "The Marvel Rivals Blood Hunt Builds category focuses on hero loadouts, trait priorities, Arcana choices, and strategy trade-offs by role and difficulty.",
+      "why": "Why use build guides?",
       "whySteps": {
-        "step1Title": "Increase Damage Consistency",
-        "step1Description": "Build stable Marvel Rivals Blood Hunt damage across waves and boss phases",
-        "step2Title": "Improve Survivability",
-        "step2Description": "Use defensive scaling to reduce failures in Marvel Rivals Blood Hunt Nightmare tiers",
-        "step3Title": "Match Team Roles",
-        "step3Description": "Align each Marvel Rivals Blood Hunt hero with a defined co-op responsibility"
+        "step1Title": "Increase Clear Consistency",
+        "step1Description": "Use Marvel Rivals Blood Hunt build templates that maintain damage while keeping survival stable.",
+        "step2Title": "Match Hero Strengths",
+        "step2Description": "Align Marvel Rivals Blood Hunt traits and gear with each hero's strongest skill loop.",
+        "step3Title": "Optimize Team Roles",
+        "step3Description": "Tune Marvel Rivals Blood Hunt co-op builds so wave control and boss burst are balanced."
       },
       "featured": "Featured & Essential",
-      "all": "All Build Guides"
+      "all": "All Build Articles"
     },
-    "items": {
+    "characters": {
+      "title": "Marvel Rivals Blood Hunt Characters",
+      "description": "Marvel Rivals Blood Hunt character guides covering hero strengths, role fit, team utility, and practical picks for solo and co-op runs.",
+      "metaTitle": "Marvel Rivals Blood Hunt Characters - Best Picks and Roles",
+      "metaDescription": "Explore Marvel Rivals Blood Hunt character guides for hero rankings, role coverage, and practical recommendations for each difficulty.",
+      "categoryLabel": "CHARACTERS",
+      "whatIs": "What is the Characters category?",
+      "whatIsDescription": "The Marvel Rivals Blood Hunt Characters category compares hero kits, team roles, and playstyle fit so players can choose effective lineups.",
+      "why": "Why read character guides?",
+      "whySteps": {
+        "step1Title": "Choose Better Hero Picks",
+        "step1Description": "Identify which Marvel Rivals Blood Hunt heroes fit your solo or squad playstyle.",
+        "step2Title": "Understand Role Coverage",
+        "step2Description": "Plan Marvel Rivals Blood Hunt team composition with clear wave and boss responsibilities.",
+        "step3Title": "Improve Progression Pace",
+        "step3Description": "Use the right Marvel Rivals Blood Hunt heroes at each tier to avoid progression bottlenecks."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Character Articles"
+    },
+    "tier-list": {
+      "title": "Marvel Rivals Blood Hunt Tier List",
+      "description": "Marvel Rivals Blood Hunt tier list coverage for solo, co-op, nightmare scaling, and role-based rankings across event heroes.",
+      "metaTitle": "Marvel Rivals Blood Hunt Tier List - Solo and Nightmare Rankings",
+      "metaDescription": "Check Marvel Rivals Blood Hunt tier list guides with updated hero rankings for solo clears, co-op utility, and high-tier Nightmare runs.",
+      "categoryLabel": "TIER LIST",
+      "whatIs": "What is the Tier List category?",
+      "whatIsDescription": "The Marvel Rivals Blood Hunt Tier List category ranks heroes by practical clear value, consistency, and scaling across different run goals.",
+      "why": "Why read tier list articles?",
+      "whySteps": {
+        "step1Title": "Prioritize Strong Heroes",
+        "step1Description": "Focus on Marvel Rivals Blood Hunt heroes that offer the best value for your current progression tier.",
+        "step2Title": "Adapt to Mode Goals",
+        "step2Description": "Use different Marvel Rivals Blood Hunt tier perspectives for solo pushes, co-op, and boss routes.",
+        "step3Title": "Save Upgrade Resources",
+        "step3Description": "Invest Marvel Rivals Blood Hunt materials into heroes with long-term payoff."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Tier List Articles"
+    },
+    "bosses": {
+      "title": "Marvel Rivals Blood Hunt Bosses",
+      "description": "Marvel Rivals Blood Hunt boss strategy guides for Dracula, Kingpin, hidden routes, phase counters, and objective-driven clears.",
+      "metaTitle": "Marvel Rivals Blood Hunt Bosses - Dracula, Kingpin and Hidden Routes",
+      "metaDescription": "Read Marvel Rivals Blood Hunt boss guides with phase mechanics, hidden boss unlock steps, and practical counters for stable clears.",
+      "categoryLabel": "BOSSES",
+      "whatIs": "What is the Bosses category?",
+      "whatIsDescription": "The Marvel Rivals Blood Hunt Bosses category breaks down boss phases, unlock conditions, and positioning patterns for each encounter.",
+      "why": "Why read boss guides?",
+      "whySteps": {
+        "step1Title": "Learn Boss Mechanics Fast",
+        "step1Description": "Understand core Marvel Rivals Blood Hunt boss attacks and punish windows before deep pushes.",
+        "step2Title": "Unlock Hidden Routes",
+        "step2Description": "Follow Marvel Rivals Blood Hunt objective sequences to access hidden Kingpin encounters.",
+        "step3Title": "Avoid High-Tier Wipes",
+        "step3Description": "Use Marvel Rivals Blood Hunt boss-specific counters to keep progression stable."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Boss Articles"
+    },
+    "gear": {
       "title": "Marvel Rivals Blood Hunt Gear",
-      "description": "Detailed Marvel Rivals Blood Hunt gear guides for weapon, armor, accessory, exclusive slots, and forge upgrade strategy.",
-      "metaTitle": "Marvel Rivals Blood Hunt Gear - Slots, Forge & Upgrades",
-      "metaDescription": "Complete Marvel Rivals Blood Hunt gear coverage including slot roles, rarity progression, forge usage, and upgrade priorities.",
-      "categoryLabel": "GEAR SYSTEM",
-      "whatIs": "What is Gear?",
-      "whatIsDescription": "Marvel Rivals Blood Hunt gear defines offensive output, survivability, and utility through targeted slot progression and forge upgrades.",
-      "why": "Why check gear guides?",
+      "description": "Marvel Rivals Blood Hunt gear coverage for farming routes, legendary drops, trait synergy, card value, and upgrade planning.",
+      "metaTitle": "Marvel Rivals Blood Hunt Gear - Farming, Traits and Legendary Drops",
+      "metaDescription": "Find Marvel Rivals Blood Hunt gear guides covering farm routes, trait systems, cards, titles, and efficient upgrade priorities.",
+      "categoryLabel": "GEAR",
+      "whatIs": "What is the Gear category?",
+      "whatIsDescription": "The Marvel Rivals Blood Hunt Gear category explains how to farm and optimize gear, cards, and trait-related systems for stronger runs.",
+      "why": "Why read gear guides?",
       "whySteps": {
-        "step1Title": "Understand Slot Roles",
-        "step1Description": "Learn what each Marvel Rivals Blood Hunt gear slot contributes to your build",
-        "step2Title": "Use Forge Efficiently",
-        "step2Description": "Convert weak drops into targeted Marvel Rivals Blood Hunt upgrades",
-        "step3Title": "Prepare for Nightmare",
-        "step3Description": "Meet Marvel Rivals Blood Hunt tier demands with structured gear progression"
+        "step1Title": "Farm the Right Targets",
+        "step1Description": "Use Marvel Rivals Blood Hunt gear routes that support your current hero and difficulty.",
+        "step2Title": "Improve Build Power",
+        "step2Description": "Combine Marvel Rivals Blood Hunt traits, cards, and gear to hit stronger breakpoints.",
+        "step3Title": "Upgrade Efficiently",
+        "step3Description": "Plan Marvel Rivals Blood Hunt materials around high-impact gear improvements first."
       },
       "featured": "Featured & Essential",
-      "all": "All Gear Guides"
+      "all": "All Gear Articles"
     },
-    "biomes": {
-      "title": "Marvel Rivals Blood Hunt Maps and Boss Routes",
-      "description": "Explore Marvel Rivals Blood Hunt arenas, wave layouts, boss routes, and objective transitions for each difficulty tier.",
-      "metaTitle": "Marvel Rivals Blood Hunt Maps - Waves, Routes & Boss Flow",
-      "metaDescription": "Explore Marvel Rivals Blood Hunt map flow including wave pressure points, objective phases, and boss transition planning.",
-      "categoryLabel": "MAPS & ROUTES",
-      "whatIs": "What are Maps and Routes?",
-      "whatIsDescription": "Marvel Rivals Blood Hunt map knowledge helps teams control wave entry points, objective timing, and boss engagement zones.",
-      "why": "Why learn map flow?",
+    "mechanics": {
+      "title": "Marvel Rivals Blood Hunt Mechanics",
+      "description": "Marvel Rivals Blood Hunt mechanics guides covering level cap, output systems, precision damage, lifesteal, and performance fundamentals.",
+      "metaTitle": "Marvel Rivals Blood Hunt Mechanics - Output, Precision and Leveling",
+      "metaDescription": "Understand Marvel Rivals Blood Hunt mechanics including total output, precision damage, leveling pace, and lifesteal behavior.",
+      "categoryLabel": "MECHANICS",
+      "whatIs": "What is the Mechanics category?",
+      "whatIsDescription": "The Marvel Rivals Blood Hunt Mechanics category explains core combat and progression systems that directly affect clear speed and survivability.",
+      "why": "Why read mechanics guides?",
       "whySteps": {
-        "step1Title": "Control Wave Pressure",
-        "step1Description": "Use Marvel Rivals Blood Hunt map awareness to reduce enemy overwhelm",
-        "step2Title": "Optimize Objectives",
-        "step2Description": "Complete Marvel Rivals Blood Hunt objective phases without losing team tempo",
-        "step3Title": "Improve Boss Entry",
-        "step3Description": "Start Marvel Rivals Blood Hunt boss phases with better positioning and cooldowns"
+        "step1Title": "Understand Combat Math",
+        "step1Description": "Learn how Marvel Rivals Blood Hunt output and precision systems affect real damage.",
+        "step2Title": "Level More Efficiently",
+        "step2Description": "Use Marvel Rivals Blood Hunt leveling and cap guidance to avoid wasted progression.",
+        "step3Title": "Play With Better Decisions",
+        "step3Description": "Apply Marvel Rivals Blood Hunt mechanics knowledge to smarter build and gameplay choices."
       },
       "featured": "Featured & Essential",
-      "all": "All Maps & Route Guides"
+      "all": "All Mechanics Articles"
     },
-    "building": {
-      "title": "Marvel Rivals Blood Hunt Progression",
-      "description": "Track Marvel Rivals Blood Hunt progression across difficulties, milestones, hero challenges, and accessory shard goals.",
-      "metaTitle": "Marvel Rivals Blood Hunt Progression - Milestones & Rewards",
-      "metaDescription": "Master Marvel Rivals Blood Hunt progression with difficulty unlock order, Nightmare milestones, hero challenges, and shard planning.",
-      "categoryLabel": "PROGRESSION TRACK",
-      "whatIs": "What is Progression?",
-      "whatIsDescription": "Marvel Rivals Blood Hunt progression includes clear chains, milestone rewards, hero-specific targets, and late-game accessory crafting.",
-      "why": "Why track progression?",
+    "release": {
+      "title": "Marvel Rivals Blood Hunt Release",
+      "description": "Marvel Rivals Blood Hunt release coverage for event timing, update notes, launch windows, service issues, and official update tracking.",
+      "metaTitle": "Marvel Rivals Blood Hunt Release - Dates, Updates and Event Timing",
+      "metaDescription": "Track Marvel Rivals Blood Hunt release date coverage, update notes, start windows, and issue-focused event news in one place.",
+      "categoryLabel": "RELEASE",
+      "whatIs": "What is the Release category?",
+      "whatIsDescription": "The Marvel Rivals Blood Hunt Release category tracks event schedule details, updates, and issue-focused information tied to launch windows.",
+      "why": "Why follow release articles?",
       "whySteps": {
-        "step1Title": "Unlock Difficulties Efficiently",
-        "step1Description": "Advance through Marvel Rivals Blood Hunt tiers with minimal stalled runs",
-        "step2Title": "Claim Rewards in Order",
-        "step2Description": "Prioritize Marvel Rivals Blood Hunt milestones for steady value gains",
-        "step3Title": "Finish Completion Goals",
-        "step3Description": "Complete Marvel Rivals Blood Hunt titles, cosmetics, and shard objectives"
+        "step1Title": "Track Event Timing",
+        "step1Description": "Monitor Marvel Rivals Blood Hunt start and end windows so runs are planned before deadlines.",
+        "step2Title": "Follow Update Changes",
+        "step2Description": "Use Marvel Rivals Blood Hunt update coverage to adapt builds and strategy quickly.",
+        "step3Title": "Respond to Issues Faster",
+        "step3Description": "Check Marvel Rivals Blood Hunt issue reports to resolve crashing or lag blockers sooner."
       },
       "featured": "Featured & Essential",
-      "all": "All Progression Guides"
-    },
-    "support": {
-      "title": "Marvel Rivals Blood Hunt Support",
-      "description": "Technical support and update tracking for Marvel Rivals Blood Hunt, including patch notes and common access troubleshooting.",
-      "metaTitle": "Marvel Rivals Blood Hunt Support - Access & Patch Help",
-      "metaDescription": "Get Marvel Rivals Blood Hunt support with access checks, update references, and practical troubleshooting for common issues.",
-      "categoryLabel": "EVENT SUPPORT",
-      "whatIs": "What is Support?",
-      "whatIsDescription": "Marvel Rivals Blood Hunt support content covers update references, event access checks, and practical issue resolution steps.",
-      "why": "Why check support?",
-      "whySteps": {
-        "step1Title": "Fix Access Issues Quickly",
-        "step1Description": "Resolve Marvel Rivals Blood Hunt entry problems and queue blockers",
-        "step2Title": "Stay Updated",
-        "step2Description": "Track Marvel Rivals Blood Hunt patch notes and event adjustments",
-        "step3Title": "Keep Runs Stable",
-        "step3Description": "Use Marvel Rivals Blood Hunt troubleshooting guidance before deep pushes"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Support Articles"
+      "all": "All Release Articles"
     }
   }
 }
