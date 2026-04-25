@@ -102,22 +102,22 @@
       {
         "icon": "ClipboardCheck",
         "title": "Marvel Rivals Blood Hunt Nightmare Guide",
-        "description": "Nightmare progression checkpoints and priorities"
+        "description": "Nightmare unlock order, milestone rewards, and shard planning to 120"
       },
       {
         "icon": "Eye",
         "title": "Marvel Rivals Blood Hunt Difficulty Levels",
-        "description": "Normal to Nightmare differences and unlock path"
+        "description": "Normal, Hard, Extreme, and Nightmare route comparison"
       },
       {
         "icon": "Settings",
         "title": "Marvel Rivals Blood Hunt Gear Guide",
-        "description": "Weapon, armor, accessory, and forge fundamentals"
+        "description": "Gear slots, Forge usage, and Uru Shard upgrade priorities"
       },
       {
         "icon": "Sparkles",
         "title": "Marvel Rivals Blood Hunt Traits and Arcana",
-        "description": "Trait points, Arcana upgrades, and scaling flow"
+        "description": "Trait branches, Arcana scroll unlocks, and Nightmare upgrade flow"
       },
       {
         "icon": "Users",
@@ -453,173 +453,395 @@
     },
     "lucidBlocksFarmingAndGrowth": {
       "title": "Marvel Rivals Blood Hunt Nightmare Guide",
-      "displayType": "mixedCards",
-      "intro": "Marvel Rivals Blood Hunt Nightmare progression rewards disciplined pacing. Use this route to scale from first Nightmare clears to deep milestone targets.",
-      "sections": [
+      "eyebrow": "Endgame Progression",
+      "subtitle": "Push the Marvel Rivals Blood Hunt Nightmare ladder from first unlock to Nightmare 120 rewards. Track the boss route, reward milestones, Kingpin Trophy Shards, and solo-clear priorities in one place.",
+      "displayType": "timelineCards",
+      "intro": "Marvel Rivals Blood Hunt Nightmare is the endgame difficulty path for Blood Hunt. It opens after Normal, Hard, and Extreme progression, then turns the mode into a scaling gauntlet built around Capwolf, Ratatoskr, Dracula, and Kingpin.",
+      "items": [
         {
-          "name": "Marvel Rivals Blood Hunt Nightmare Unlock Path",
-          "description": "Clear Normal, Hard, and Extreme in sequence so Nightmare opens with enough baseline gear and trait investment."
+          "milestone": "Marvel Rivals Blood Hunt Nightmare Unlock",
+          "type": "unlock",
+          "requirement": "Clear the standard Marvel Rivals Blood Hunt Normal, Hard, and Extreme path.",
+          "bossRoute": [
+            "Capwolf",
+            "Ratatoskr",
+            "Dracula",
+            "Kingpin"
+          ],
+          "focus": "Before pushing Marvel Rivals Blood Hunt Nightmare, concentrate upgrades on one main hero, fill all four Gear slots, and spend Trait Points and Arcana Points instead of spreading progress across every character."
         },
         {
-          "name": "Marvel Rivals Blood Hunt Nightmare 5-30 Route",
-          "description": "Early Nightmare milestones focus on currencies and mood rewards; prioritize clean clears over risky speed runs."
+          "milestone": "Marvel Rivals Blood Hunt Nightmare 5+",
+          "type": "reward",
+          "reward": [
+            "Bawling Bloodsucker Mood"
+          ],
+          "focus": "Use the first reward node as a build check. If waves feel slow or unsafe, return to lower tiers for Gear, Trait Points, and Forge materials."
         },
         {
-          "name": "Marvel Rivals Blood Hunt Nightmare 40-70 Route",
-          "description": "This range is critical for hero challenge emojis and titles, so align hero picks with your most consistent builds."
+          "milestone": "Marvel Rivals Blood Hunt Nightmare 10+",
+          "type": "reward",
+          "reward": [
+            "100 Units"
+          ],
+          "focus": "Prioritize safe wave clears and keep movement ready for boss attacks that punish standing still."
         },
         {
-          "name": "Marvel Rivals Blood Hunt Nightmare 80-120 Route",
-          "description": "Late milestones emphasize shard and title completion; optimize revive timing and boss burst execution."
+          "milestone": "Marvel Rivals Blood Hunt Nightmare 15+",
+          "type": "reward",
+          "reward": [
+            "Grim Harvest Mood"
+          ],
+          "focus": "Treat survivability as part of your damage plan. Fewer knockdowns means more uptime against bosses."
+        },
+        {
+          "milestone": "Marvel Rivals Blood Hunt Nightmare 20+",
+          "type": "reward",
+          "reward": [
+            "100 Unstable Molecules",
+            "10 Kingpin Trophy Shards"
+          ],
+          "focus": "This is the first Kingpin Trophy Shard node. Begin tracking shard progress toward the Kingpin Dethroned Trophy Accessory."
+        },
+        {
+          "milestone": "Marvel Rivals Blood Hunt Nightmare 25+",
+          "type": "reward",
+          "reward": [
+            "Feral Fangs Mood"
+          ],
+          "focus": "Upgrade underperforming Gear slots before pushing higher, especially Weapon for damage checks and Armor for survival."
+        },
+        {
+          "milestone": "Marvel Rivals Blood Hunt Nightmare 30+",
+          "type": "reward",
+          "reward": [
+            "100 Units"
+          ],
+          "focus": "Use this midpoint to refine your boss order habits: Capwolf pressure, Ratatoskr movement, Dracula Bloodstain control, and Kingpin spacing."
+        },
+        {
+          "milestone": "Marvel Rivals Blood Hunt Nightmare 35+",
+          "type": "reward",
+          "reward": [
+            "Awooo! Mood"
+          ],
+          "focus": "Squads should keep revive discipline and avoid overlapping risky plays during dense waves."
+        },
+        {
+          "milestone": "Marvel Rivals Blood Hunt Nightmare 40+",
+          "type": "majorReward",
+          "reward": [
+            "100 Unstable Molecules",
+            "10 Kingpin Trophy Shards"
+          ],
+          "heroRewards": [
+            "The Punisher: Vampiric Vengeance Emoji",
+            "Squirrel Girl: Back Off, Bloodsucker! Emoji",
+            "Thor: Missed Me! Emoji",
+            "Moon Knight: Blood Moon Knight Emoji",
+            "Blade: Blood and Thorns Emoji",
+            "Jeff the Land Shark: Count Jeffula Emoji"
+          ],
+          "focus": "Marvel Rivals Blood Hunt Nightmare 40 is a major farming target because it combines account rewards, Kingpin Trophy Shards, and hero-specific emoji unlocks."
+        },
+        {
+          "milestone": "Marvel Rivals Blood Hunt Nightmare 45+",
+          "type": "reward",
+          "reward": [
+            "Catching Z's Mood"
+          ],
+          "focus": "Keep improving your main hero instead of swapping too early. Character-specific progression matters for later clears."
+        },
+        {
+          "milestone": "Marvel Rivals Blood Hunt Nightmare 50+",
+          "type": "reward",
+          "reward": [
+            "100 Units"
+          ],
+          "focus": "At this point, weak Gear rolls should be scrapped into Uru Shards and redirected into the slots your build actually needs."
+        },
+        {
+          "milestone": "Marvel Rivals Blood Hunt Nightmare 55+",
+          "type": "reward",
+          "reward": [
+            "Royal Disdain Mood"
+          ],
+          "focus": "Boss consistency matters more than rushing. Avoid Dracula damage intake because Bloodstain stacks can turn into healing for him."
+        },
+        {
+          "milestone": "Marvel Rivals Blood Hunt Nightmare 60+",
+          "type": "reward",
+          "reward": [
+            "100 Unstable Molecules",
+            "10 Kingpin Trophy Shards"
+          ],
+          "focus": "This is another key shard checkpoint. If you are farming the Trophy Accessory, repeat the highest Nightmare tier you can clear reliably."
+        },
+        {
+          "milestone": "Marvel Rivals Blood Hunt Nightmare 65+",
+          "type": "reward",
+          "reward": [
+            "Black and Blue Mood"
+          ],
+          "focus": "Prepare for the Nightmare 70 jump by finishing core Traits and strengthening Arcana that supports damage, health, or critical output."
+        },
+        {
+          "milestone": "Marvel Rivals Blood Hunt Nightmare 70+",
+          "type": "majorReward",
+          "reward": [
+            "100 Units",
+            "High-tier Arcana scroll access"
+          ],
+          "heroRewards": [
+            "The Punisher: Fearless Executioner Title",
+            "Squirrel Girl: Ravenous Rodent Title",
+            "Thor: Purifying Thunder Title",
+            "Moon Knight: Midnight Mercenary Title",
+            "Blade: Daywalking Duelist Title",
+            "Jeff the Land Shark: Jeff the Night Shark Title"
+          ],
+          "focus": "Marvel Rivals Blood Hunt Nightmare 70 is the second major hero-specific target. It also opens the higher Arcana progression layer tied to Scroll of Blessing and Scroll of Midas."
+        },
+        {
+          "milestone": "Marvel Rivals Blood Hunt Nightmare 80+",
+          "type": "reward",
+          "reward": [
+            "10 Kingpin Trophy Shards"
+          ],
+          "focus": "Push here when your clears are stable. Shard rewards become the main reason to keep climbing beyond the title tier."
+        },
+        {
+          "milestone": "Marvel Rivals Blood Hunt Nightmare 100+",
+          "type": "majorReward",
+          "reward": [
+            "Bane of all Evil Title",
+            "10 Kingpin Trophy Shards"
+          ],
+          "focus": "Marvel Rivals Blood Hunt Nightmare 100 is a prestige milestone. Build for consistent boss survival rather than only peak burst damage."
+        },
+        {
+          "milestone": "Marvel Rivals Blood Hunt Nightmare 120+",
+          "type": "finalRewardNode",
+          "reward": [
+            "10 Kingpin Trophy Shards"
+          ],
+          "focus": "Marvel Rivals Blood Hunt Nightmare 120 is the top listed reward node. Use your strongest completed hero, optimized Gear, and upgraded Arcana before attempting repeat clears."
+        },
+        {
+          "milestone": "Marvel Rivals Blood Hunt Solo Clear Rule",
+          "type": "survivalNote",
+          "reward": [],
+          "focus": "Solo attempts are much less forgiving because being KO'd ends the run immediately. In squad play, fallen heroes can revive after a short delay, so coordinated teams have more room to recover from mistakes."
+        },
+        {
+          "milestone": "Marvel Rivals Blood Hunt Shard Goal",
+          "type": "collectionNote",
+          "reward": [
+            "Kingpin Dethroned Trophy Accessory"
+          ],
+          "requirement": "Collect 100 Kingpin Trophy Shards.",
+          "focus": "Marvel Rivals Blood Hunt Nightmare 20, 40, 60, 80, 100, and 120 all contribute shards, so plan your farming route around the highest node you can clear consistently."
         }
-      ],
-      "growthMilestones": [
-        "Nightmare 5: first milestone confidence check",
-        "Nightmare 20: first shard checkpoint",
-        "Nightmare 40 and 70: hero challenge breakpoints",
-        "Nightmare 100 and 120: deep completion targets"
       ]
     },
     "lucidBlocksBestEarlyUnlocks": {
       "title": "Marvel Rivals Blood Hunt Difficulty Levels",
-      "displayType": "priorityGrid",
-      "intro": "Marvel Rivals Blood Hunt difficulty ladder moves from onboarding clears to high-pressure endurance. Use this comparison to choose the next efficient tier.",
-      "priorities": [
+      "eyebrow": "Difficulty Path",
+      "subtitle": "Compare Marvel Rivals Blood Hunt Normal, Hard, Extreme, and Nightmare before choosing a run. Each tier changes the boss route, reward value, and progression demands.",
+      "displayType": "tableCards",
+      "intro": "Marvel Rivals Blood Hunt starts with three standard difficulty levels and adds Nightmare as the endgame ladder after those tiers. Normal introduces Capwolf, Hard adds Ratatoskr, Extreme brings Dracula and hidden Kingpin objectives, and Nightmare runs the full boss gauntlet as a scaling challenge.",
+      "items": [
         {
-          "name": "Marvel Rivals Blood Hunt Normal",
-          "priority": "Essential",
-          "description": "Best tier for first-run learning, route familiarity, and initial reward unlocks before scaling upward."
+          "difficulty": "Marvel Rivals Blood Hunt Normal",
+          "bosses": [
+            "Capwolf"
+          ],
+          "unlock": "Entry difficulty for Marvel Rivals Blood Hunt.",
+          "firstClearReward": [
+            "100 Units",
+            "King in Exile Gallery Card"
+          ],
+          "bestFor": "Learning wave flow, testing the six playable heroes, and getting your first Gear drops.",
+          "farmAdvice": "Start here if your hero has weak Gear or no Trait investment. Move up once Capwolf feels consistent."
         },
         {
-          "name": "Marvel Rivals Blood Hunt Hard",
-          "priority": "Essential",
-          "description": "Introduces stronger wave pressure and requires cleaner role execution while still remaining highly farmable."
+          "difficulty": "Marvel Rivals Blood Hunt Hard",
+          "bosses": [
+            "Capwolf",
+            "Ratatoskr"
+          ],
+          "unlock": "Progress after Marvel Rivals Blood Hunt Normal.",
+          "firstClearReward": [
+            "100 Unstable Molecules",
+            "Squirrel Gone Wild Gallery Card"
+          ],
+          "bestFor": "Practicing the second boss route and building enough Gear quality for Extreme.",
+          "farmAdvice": "Use Hard when Normal is too easy but Extreme still feels unstable, especially if Ratatoskr is causing wipes."
         },
         {
-          "name": "Marvel Rivals Blood Hunt Extreme",
-          "priority": "Very High",
-          "description": "Prepares teams for Nightmare mechanics and includes hidden boss progress routes tied to top-value rewards."
+          "difficulty": "Marvel Rivals Blood Hunt Extreme",
+          "bosses": [
+            "Capwolf",
+            "Ratatoskr",
+            "Dracula",
+            "Kingpin if hidden objectives are completed"
+          ],
+          "unlock": "Progress after Marvel Rivals Blood Hunt Hard.",
+          "firstClearReward": [
+            "100 Units",
+            "Hunting Season Gallery Card"
+          ],
+          "bestFor": "Learning the full Dracula route, completing hidden Kingpin objectives, and preparing for Nightmare.",
+          "farmAdvice": "Farm Extreme when you can clear Dracula safely. Complete the Phase 4, Phase 7, and Phase 12 hidden objectives if you want the Kingpin encounter and its first-time rewards."
         },
         {
-          "name": "Marvel Rivals Blood Hunt Nightmare",
-          "priority": "Very High",
-          "description": "Primary endgame track with repeated milestone currencies, title rewards, and shard progression."
-        },
-        {
-          "name": "Marvel Rivals Blood Hunt Tier Transition Rules",
-          "priority": "High",
-          "description": "Advance one tier at a time after securing stable clears and gear improvements to avoid progression stalls."
-        },
-        {
-          "name": "Marvel Rivals Blood Hunt Recommended Progression Order",
-          "priority": "High",
-          "description": "Use the sequence Normal, Hard, Extreme, then Nightmare to keep both rewards and build scaling aligned."
+          "difficulty": "Marvel Rivals Blood Hunt Nightmare",
+          "bosses": [
+            "Capwolf",
+            "Ratatoskr",
+            "Dracula",
+            "Kingpin"
+          ],
+          "unlock": "Unlocks after beating the standard Marvel Rivals Blood Hunt Normal, Hard, and Extreme path.",
+          "firstClearReward": [
+            "Reward milestones begin at Nightmare 5 and continue through Nightmare 120"
+          ],
+          "bestFor": "Endgame farming, Kingpin Trophy Shards, hero-specific emojis, hero-specific titles, and solo-clear challenges.",
+          "farmAdvice": "Only push the next Nightmare node when your current tier is reliable. For farming, repeat the highest Nightmare level you can clear without frequent deaths."
         }
       ]
     },
     "lucidBlocksAchievementTracker": {
       "title": "Marvel Rivals Blood Hunt Gear Guide",
-      "displayType": "achievementGrid",
-      "intro": "Marvel Rivals Blood Hunt gear growth is built around slot management, rarity upgrades, and forge conversion efficiency.",
-      "groups": [
+      "eyebrow": "Build Progression",
+      "subtitle": "Understand Marvel Rivals Blood Hunt Weapon, Armor, Accessory, and Exclusive Gear before spending Forge materials. Gear is the main loot layer that turns repeated runs into stronger clears.",
+      "displayType": "tableCards",
+      "intro": "Every Marvel Rivals Blood Hunt hero has four Gear slots: Weapon, Armor, Accessory, and Exclusive. Gear drops from regular enemies and bosses, comes in five rarity tiers, and can be recycled into Uru Shards for targeted Forge attempts.",
+      "items": [
         {
-          "name": "Marvel Rivals Blood Hunt Weapon Gear",
-          "achievements": [
-            {
-              "title": "Primary Damage Slot",
-              "description": "Weapon upgrades define your core Marvel Rivals Blood Hunt damage profile in every difficulty tier."
-            },
-            {
-              "title": "Burst vs Sustain Split",
-              "description": "Pick weapon traits around whether your role is boss burst or wave sustain in Marvel Rivals Blood Hunt."
-            },
-            {
-              "title": "Rarity Breakpoints",
-              "description": "Higher rarity weapon lines create major DPS jumps for Marvel Rivals Blood Hunt Nightmare pushes."
-            }
-          ]
+          "gearType": "Marvel Rivals Blood Hunt Weapon",
+          "slotEffect": "Increases damage output.",
+          "howToGet": "Drops from regular enemies and bosses during Blood Hunt matches.",
+          "forgeUse": "Craft this slot when boss damage feels too low or Dracula and Kingpin phases take too long.",
+          "nightmarePriority": "Very high because faster boss clears reduce the number of dangerous mechanics you must survive."
         },
         {
-          "name": "Marvel Rivals Blood Hunt Armor Gear",
-          "achievements": [
-            {
-              "title": "Survivability Core",
-              "description": "Armor upgrades improve health and resistance, keeping Marvel Rivals Blood Hunt revive pressure manageable."
-            },
-            {
-              "title": "Wave Stability",
-              "description": "Defensive consistency in armor slots helps Marvel Rivals Blood Hunt teams survive long wave chains."
-            },
-            {
-              "title": "Tier Readiness",
-              "description": "Before moving up difficulty, validate armor durability against Marvel Rivals Blood Hunt elite damage."
-            }
-          ]
+          "gearType": "Marvel Rivals Blood Hunt Armor",
+          "slotEffect": "Increases health and damage resistance.",
+          "howToGet": "Drops from regular enemies and bosses during Blood Hunt matches.",
+          "forgeUse": "Craft this slot when you are dying to wave pressure, boss burst, or failed dodges.",
+          "nightmarePriority": "Very high for solo clears and late Nightmare levels where mistakes are heavily punished."
         },
         {
-          "name": "Marvel Rivals Blood Hunt Accessory Gear",
-          "achievements": [
-            {
-              "title": "Utility Effects",
-              "description": "Accessories add valuable modifiers that smooth Marvel Rivals Blood Hunt run pacing and control."
-            },
-            {
-              "title": "Kingpin Accessory Route",
-              "description": "Kingpin-related shard progression is a key Marvel Rivals Blood Hunt accessory objective for completionists."
-            },
-            {
-              "title": "Role Optimization",
-              "description": "Accessory rolls should match your Marvel Rivals Blood Hunt hero role, not generic stat stacking."
-            }
-          ]
+          "gearType": "Marvel Rivals Blood Hunt Accessory",
+          "slotEffect": "Adds bonus effects such as Critical Rate and Block Rate.",
+          "howToGet": "Drops from regular enemies and bosses during Blood Hunt matches.",
+          "forgeUse": "Craft this slot when your build needs a specific secondary stat to stabilize damage or defense.",
+          "nightmarePriority": "High because Accessory bonuses can push a build from basic survival into consistent farming."
         },
         {
-          "name": "Marvel Rivals Blood Hunt Forge and Uru Shards",
-          "achievements": [
-            {
-              "title": "Salvage Loop",
-              "description": "Recycle weak drops into Uru Shards to maintain a focused Marvel Rivals Blood Hunt upgrade economy."
-            },
-            {
-              "title": "Targeted Crafting",
-              "description": "Forge outputs should prioritize your primary hero path for efficient Marvel Rivals Blood Hunt progression."
-            },
-            {
-              "title": "Upgrade Discipline",
-              "description": "Consistent forge planning prevents gear bottlenecks during Marvel Rivals Blood Hunt Nightmare climbs."
-            }
-          ]
+          "gearType": "Marvel Rivals Blood Hunt Exclusive Gear",
+          "slotEffect": "Character-specific Gear that strengthens a hero's abilities.",
+          "howToGet": "Drops from regular enemies and bosses during Blood Hunt matches.",
+          "forgeUse": "Craft this slot for your main hero when you want stronger ability scaling instead of generic stats.",
+          "nightmarePriority": "High for hero mains because Exclusive Gear directly supports the character-specific playstyle you are investing in."
+        },
+        {
+          "gearType": "Marvel Rivals Blood Hunt Gear Rarity",
+          "slotEffect": "Gear comes in five rarity tiers, and higher hero level improves the chance of stronger Gear quality.",
+          "howToGet": "Keep playing and leveling the hero you want to build.",
+          "forgeUse": "Use the Forge after leveling a hero to improve the odds of better crafted Gear.",
+          "nightmarePriority": "Core progression: stronger rarity rolls are one of the cleanest ways to prepare for Nightmare pushes."
+        },
+        {
+          "gearType": "Marvel Rivals Blood Hunt Forge",
+          "slotEffect": "Recycles unwanted Gear into Uru Shards and crafts new Gear for a selected hero and slot.",
+          "howToGet": "Open the Forge menu from Blood Hunt preparation systems.",
+          "forgeUse": "Pick the hero and slot you need, then spend Uru Shards for a new Gear roll.",
+          "nightmarePriority": "Essential when one weak slot is blocking progress or when you want to focus all resources on one main hero."
+        },
+        {
+          "gearType": "Marvel Rivals Blood Hunt Uru Shards",
+          "slotEffect": "Crafting material created by scrapping or smelting Gear.",
+          "howToGet": "Scrap unwanted Gear in the Forge menu.",
+          "forgeUse": "Spend shards on targeted hero-and-slot crafting attempts.",
+          "nightmarePriority": "Save shards for your main hero's weakest slots instead of spreading them across every character."
+        },
+        {
+          "gearType": "Marvel Rivals Blood Hunt Crafting Odds",
+          "slotEffect": "Forge results involve RNG, and the in-game information icon shows the exact probabilities.",
+          "howToGet": "Check the Forge screen before spending materials.",
+          "forgeUse": "Use odds to decide whether to keep farming drops or spend Uru Shards now.",
+          "nightmarePriority": "Important for efficient farming because wasted shards slow down late-game build completion."
         }
       ]
     },
     "lucidBlocksSingleplayerAndPlatformFAQ": {
       "title": "Marvel Rivals Blood Hunt Traits and Arcana",
+      "eyebrow": "Hero Upgrades",
+      "subtitle": "Marvel Rivals Blood Hunt Traits and Arcana are the upgrade layers that make your hero scale beyond raw Gear. Use them to turn repeated runs into stronger Nightmare attempts.",
       "displayType": "accordion",
-      "intro": "Marvel Rivals Blood Hunt progression depends on smart trait allocation and Arcana timing. These answers cover the most common build decisions.",
-      "faqs": [
+      "intro": "Marvel Rivals Blood Hunt Traits are the hero-specific skill tree powered by Trait Points from matches and leveling. Arcana is the slower but heavier progression layer, using Arcana Points and scrolls to unlock larger stat boosts tied to damage, health, critical output, and higher difficulty milestones.",
+      "items": [
         {
-          "question": "How do Marvel Rivals Blood Hunt Traits improve a hero?",
-          "answer": "Marvel Rivals Blood Hunt Traits act as hero-specific progression branches that increase role power, survivability, and consistency."
+          "label": "Marvel Rivals Blood Hunt Trait Points",
+          "summary": "Trait Points are earned by playing Marvel Rivals Blood Hunt matches and leveling up a hero.",
+          "content": "Spend Trait Points in the Traits section for the hero you are actively building. Because progression is tied to hero investment, focusing one main character first usually creates faster Marvel Rivals Blood Hunt Nightmare progress than spreading points evenly across all six heroes.",
+          "priority": "Start here whenever your hero feels underpowered even with usable Gear."
         },
         {
-          "question": "How do Marvel Rivals Blood Hunt Arcana points work?",
-          "answer": "Marvel Rivals Blood Hunt Arcana points are spent during runs to gain immediate stat and utility upgrades for the current session."
+          "label": "Marvel Rivals Blood Hunt General Traits",
+          "summary": "General Traits improve a hero's base attributes.",
+          "content": "This branch is the safest early investment when you need more baseline stability. It supports every part of the run because better core stats help in waves, boss fights, and solo attempts.",
+          "priority": "Take General Traits early if you are dying before boss phases or losing too much health during waves."
         },
         {
-          "question": "What is the best Marvel Rivals Blood Hunt trait priority for beginners?",
-          "answer": "In Marvel Rivals Blood Hunt, beginners should prioritize baseline survivability first, then add reliable damage scaling for stable clears."
+          "label": "Marvel Rivals Blood Hunt Signature Ability Traits",
+          "summary": "Each hero also has two ability-focused Trait branches.",
+          "content": "These branches improve the hero's signature damage tools. Blade, for example, has dedicated Trait paths for Purging Bladedance and Silver Soulbreaker, while The Punisher's branches improve his primary abilities.",
+          "priority": "Invest here once you know which ability loop carries your build."
         },
         {
-          "question": "When should Marvel Rivals Blood Hunt players spend Arcana aggressively?",
-          "answer": "Marvel Rivals Blood Hunt Arcana should be invested before high-pressure waves and boss checkpoints where failure risk is highest."
+          "label": "Marvel Rivals Blood Hunt Arcana Points",
+          "summary": "Arcana Points build more slowly than Trait Points but unlock stronger stat gains.",
+          "content": "Arcana upgrades can increase important combat stats such as health, damage, and critical rate. This makes Arcana a major long-term layer for Nightmare, where small stat gaps become clear during boss gauntlets.",
+          "priority": "Do not ignore Arcana just because it levels slower. It is one of the biggest late-game power sources."
         },
         {
-          "question": "How do Marvel Rivals Blood Hunt Traits and Arcana combine for Nightmare?",
-          "answer": "Marvel Rivals Blood Hunt Nightmare success comes from permanent trait planning plus run-by-run Arcana adaptation to enemy pressure."
+          "label": "Marvel Rivals Blood Hunt Scroll of Conquest",
+          "summary": "Unlocks from Normal difficulty and increases total output boost.",
+          "content": "This scroll is the straightforward offensive Arcana path. Use it when your clears are safe but bosses are taking too long.",
+          "priority": "Prioritize for damage-focused builds and higher Nightmare farming speed."
         },
         {
-          "question": "Can Marvel Rivals Blood Hunt Arcana choices support co-op roles?",
-          "answer": "Yes, Marvel Rivals Blood Hunt Arcana can be tuned for frontline control, wave clear support, or boss burst specialization."
+          "label": "Marvel Rivals Blood Hunt Scroll of Immortality",
+          "summary": "Unlocks from Normal difficulty and increases health.",
+          "content": "This scroll supports survival and gives your hero more room to recover from wave pressure or boss mistakes.",
+          "priority": "Prioritize for solo clears, early Nightmare pushes, or any build that dies before finishing boss phases."
+        },
+        {
+          "label": "Marvel Rivals Blood Hunt Scroll of Blessing",
+          "summary": "Unlocks after clearing Marvel Rivals Blood Hunt Nightmare 70.",
+          "content": "This is one of the high-tier Arcana scrolls tied to late Nightmare progression. Treat Nightmare 70 as the gateway where Arcana progression expands beyond the basic Normal-unlocked scrolls.",
+          "priority": "Target after your chosen hero can consistently reach late Nightmare milestones."
+        },
+        {
+          "label": "Marvel Rivals Blood Hunt Scroll of Midas",
+          "summary": "Unlocks after clearing Marvel Rivals Blood Hunt Nightmare 70.",
+          "content": "This is another high-tier Arcana scroll attached to the Nightmare 70 milestone. It gives long-term players an additional reason to keep improving one hero past the early reward nodes.",
+          "priority": "Use it as part of the post-Nightmare 70 upgrade plan for deeper ladder pushing."
+        },
+        {
+          "label": "Marvel Rivals Blood Hunt In-Run Arcana Spending",
+          "summary": "Players spend starting Arcana at the beginning of a run and can spend Arcana again between waves.",
+          "content": "After waves, a rally point appears and the short downtime lets players spend Arcana before the next wave begins. Good Arcana choices help turn a difficult run into a stable boss attempt.",
+          "priority": "Spend deliberately between waves instead of rushing forward with unused power."
+        },
+        {
+          "label": "Marvel Rivals Blood Hunt Nightmare Upgrade Route",
+          "summary": "Use Gear, Traits, and Arcana together instead of treating them as separate systems.",
+          "content": "A practical route is: fill basic Gear slots, invest General Traits for stability, add signature ability Traits for damage, scrap weak Gear into Uru Shards, then push Arcana upgrades as the Nightmare ladder demands more stats.",
+          "priority": "Best for players stuck around Marvel Rivals Blood Hunt Nightmare 40, Nightmare 70, or higher shard-farming nodes."
         }
       ]
     },
