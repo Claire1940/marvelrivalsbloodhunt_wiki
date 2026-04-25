@@ -1,5 +1,6 @@
 import type { Metadata } from 'next'
 import { getLatestArticles } from '@/lib/getLatestArticles'
+import { buildModuleLinkMap } from '@/lib/buildModuleLinkMap'
 import type { ModuleLinkMap } from '@/lib/buildModuleLinkMap'
 import type { Language } from '@/lib/content'
 import { buildLanguageAlternates } from '@/lib/i18n-utils'
@@ -35,9 +36,6 @@ const HOME_EXTERNAL_LINKS = {
   youtube: 'https://www.youtube.com/@MarvelRivals',
   x: 'https://x.com/MarvelRivals',
 }
-
-// HomePageClient renders lucide-react icons and applies theme tokens such as hsl(var(--nav-theme)).
-// Module links are intentionally disabled for homepage sections to avoid internal URL jumps in module content.
 
 interface PageProps {
   params: Promise<{ locale: string }>
@@ -86,7 +84,13 @@ export default async function HomePage({ params }: PageProps) {
 
   // 服务器端获取最新文章数据
   const latestArticles = await getLatestArticles(locale as Language, 30)
-  const moduleLinkMap: ModuleLinkMap = {}
+  let moduleLinkMap: ModuleLinkMap = {}
+
+  try {
+    moduleLinkMap = await buildModuleLinkMap(locale as Language)
+  } catch (error) {
+    console.error('[homepage] Failed to build module link map:', error)
+  }
 
   return (
     <HomePageClient

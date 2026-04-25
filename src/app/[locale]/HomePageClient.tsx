@@ -904,7 +904,11 @@ export default function HomePageClient({
             <p className="text-xs uppercase tracking-[0.2em] text-[hsl(var(--nav-theme-light))] mb-4">
               {t.modules.lucidBlocksSteamDeckAndController.eyebrow}
             </p>
-            <h2 className="text-4xl md:text-5xl font-bold mb-4">{t.modules.lucidBlocksSteamDeckAndController.title}</h2>
+            <h2 className="text-4xl md:text-5xl font-bold mb-4">
+              <LinkedTitle linkData={moduleLinkMap['lucidBlocksSteamDeckAndController']} locale={locale}>
+                {t.modules.lucidBlocksSteamDeckAndController.title}
+              </LinkedTitle>
+            </h2>
             <p className="text-lg text-muted-foreground max-w-4xl mx-auto mb-4">
               {t.modules.lucidBlocksSteamDeckAndController.subtitle}
             </p>
@@ -933,7 +937,11 @@ export default function HomePageClient({
                     </span>
                   </div>
 
-                  <h3 className="text-xl font-bold mb-2">{boss.boss}</h3>
+                  <h3 className="text-xl font-bold mb-2">
+                    <LinkedTitle linkData={moduleLinkMap[`lucidBlocksSteamDeckAndController::items::${index}`]} locale={locale}>
+                      {boss.boss}
+                    </LinkedTitle>
+                  </h3>
                   <p className="text-sm text-muted-foreground mb-4">{boss.encounterRole}</p>
 
                   <div className="mb-4">
@@ -984,7 +992,11 @@ export default function HomePageClient({
             <p className="text-xs uppercase tracking-[0.2em] text-[hsl(var(--nav-theme-light))] mb-4">
               {t.modules.lucidBlocksSettingsAndAccessibility.eyebrow}
             </p>
-            <h2 className="text-4xl md:text-5xl font-bold mb-4">{t.modules.lucidBlocksSettingsAndAccessibility.title}</h2>
+            <h2 className="text-4xl md:text-5xl font-bold mb-4">
+              <LinkedTitle linkData={moduleLinkMap['lucidBlocksSettingsAndAccessibility']} locale={locale}>
+                {t.modules.lucidBlocksSettingsAndAccessibility.title}
+              </LinkedTitle>
+            </h2>
             <p className="text-lg text-muted-foreground max-w-4xl mx-auto mb-4">
               {t.modules.lucidBlocksSettingsAndAccessibility.subtitle}
             </p>
@@ -1014,7 +1026,11 @@ export default function HomePageClient({
                       <td className="p-4">
                         <div className="flex items-start gap-2">
                           <CategoryIcon className="w-4 h-4 mt-1 text-[hsl(var(--nav-theme-light))] flex-shrink-0" />
-                          <span className="font-semibold">{item.category}</span>
+                          <span className="font-semibold">
+                            <LinkedTitle linkData={moduleLinkMap[`lucidBlocksSettingsAndAccessibility::items::${index}`]} locale={locale}>
+                              {item.category}
+                            </LinkedTitle>
+                          </span>
                         </div>
                       </td>
                       <td className="p-4">
@@ -1045,7 +1061,11 @@ export default function HomePageClient({
                 key={index}
                 className="p-5 rounded-xl border border-border bg-card/40"
               >
-                <h3 className="font-bold text-lg mb-3">{item.category}</h3>
+                <h3 className="font-bold text-lg mb-3">
+                  <LinkedTitle linkData={moduleLinkMap[`lucidBlocksSettingsAndAccessibility::items::${index}`]} locale={locale}>
+                    {item.category}
+                  </LinkedTitle>
+                </h3>
                 <div className="flex flex-wrap gap-2 mb-3">
                   {item.enemies.map((enemy: string, enemyIndex: number) => (
                     <span
@@ -1078,7 +1098,11 @@ export default function HomePageClient({
             <p className="text-xs uppercase tracking-[0.2em] text-[hsl(var(--nav-theme-light))] mb-4">
               {t.modules.lucidBlocksUpdatesAndPatchNotes.eyebrow}
             </p>
-            <h2 className="text-4xl md:text-5xl font-bold mb-4">{t.modules.lucidBlocksUpdatesAndPatchNotes.title}</h2>
+            <h2 className="text-4xl md:text-5xl font-bold mb-4">
+              <LinkedTitle linkData={moduleLinkMap['lucidBlocksUpdatesAndPatchNotes']} locale={locale}>
+                {t.modules.lucidBlocksUpdatesAndPatchNotes.title}
+              </LinkedTitle>
+            </h2>
             <p className="text-lg text-muted-foreground max-w-4xl mx-auto mb-4">
               {t.modules.lucidBlocksUpdatesAndPatchNotes.subtitle}
             </p>
@@ -1095,7 +1119,11 @@ export default function HomePageClient({
                   className="w-full flex items-center justify-between p-5 text-left hover:bg-white/5 transition-colors"
                 >
                   <div className="pr-3">
-                    <span className="font-semibold block">{item.title}</span>
+                    <span className="font-semibold block">
+                      <LinkedTitle linkData={moduleLinkMap[`lucidBlocksUpdatesAndPatchNotes::items::${index}`]} locale={locale}>
+                        {item.title}
+                      </LinkedTitle>
+                    </span>
                     <span className="text-sm text-muted-foreground mt-1 block">{item.summary}</span>
                   </div>
                   <ChevronDown className={`w-5 h-5 flex-shrink-0 transition-transform ${soloTipsExpanded === index ? "rotate-180" : ""}`} />
@@ -1140,7 +1168,11 @@ export default function HomePageClient({
             <p className="text-xs uppercase tracking-[0.2em] text-[hsl(var(--nav-theme-light))] mb-4">
               {t.modules.lucidBlocksCrashFixAndTroubleshooting.eyebrow}
             </p>
-            <h2 className="text-4xl md:text-5xl font-bold mb-4">{t.modules.lucidBlocksCrashFixAndTroubleshooting.title}</h2>
+            <h2 className="text-4xl md:text-5xl font-bold mb-4">
+              <LinkedTitle linkData={moduleLinkMap['lucidBlocksCrashFixAndTroubleshooting']} locale={locale}>
+                {t.modules.lucidBlocksCrashFixAndTroubleshooting.title}
+              </LinkedTitle>
+            </h2>
             <p className="text-lg text-muted-foreground max-w-4xl mx-auto mb-4">
               {t.modules.lucidBlocksCrashFixAndTroubleshooting.subtitle}
             </p>
@@ -1164,7 +1196,11 @@ export default function HomePageClient({
                     </span>
                   </div>
 
-                  <h3 className="text-xl font-bold mb-2">{entry.title}</h3>
+                  <h3 className="text-xl font-bold mb-2">
+                    <LinkedTitle linkData={moduleLinkMap[`lucidBlocksCrashFixAndTroubleshooting::items::${index}`]} locale={locale}>
+                      {entry.title}
+                    </LinkedTitle>
+                  </h3>
                   <p className="text-sm text-muted-foreground mb-4">{entry.details}</p>
 
                   <ul className="space-y-2 mb-4">

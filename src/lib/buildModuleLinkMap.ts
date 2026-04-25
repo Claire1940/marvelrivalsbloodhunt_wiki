@@ -22,38 +22,38 @@ const MODULE_FIELDS: Record<string, { field: string; nameKey: string }> = {
   lucidBlocksWorldRegions: { field: 'regions', nameKey: 'name' },
   lucidBlocksCreaturesAndEnemies: { field: 'creatures', nameKey: 'name' },
   lucidBlocksMobilityGear: { field: 'items', nameKey: 'name' },
-  lucidBlocksFarmingAndGrowth: { field: 'sections', nameKey: 'name' },
-  lucidBlocksBestEarlyUnlocks: { field: 'priorities', nameKey: 'name' },
-  lucidBlocksAchievementTracker: { field: 'groups', nameKey: 'name' },
-  lucidBlocksSingleplayerAndPlatformFAQ: { field: 'faqs', nameKey: 'question' },
-  lucidBlocksSteamDeckAndController: { field: 'faqs', nameKey: 'question' },
-  lucidBlocksSettingsAndAccessibility: { field: 'settings', nameKey: 'name' },
-  lucidBlocksUpdatesAndPatchNotes: { field: 'entries', nameKey: 'title' },
-  lucidBlocksCrashFixAndTroubleshooting: { field: 'steps', nameKey: 'title' },
+  lucidBlocksFarmingAndGrowth: { field: 'items', nameKey: 'milestone' },
+  lucidBlocksBestEarlyUnlocks: { field: 'items', nameKey: 'difficulty' },
+  lucidBlocksAchievementTracker: { field: 'items', nameKey: 'gearType' },
+  lucidBlocksSingleplayerAndPlatformFAQ: { field: 'items', nameKey: 'label' },
+  lucidBlocksSteamDeckAndController: { field: 'items', nameKey: 'boss' },
+  lucidBlocksSettingsAndAccessibility: { field: 'items', nameKey: 'category' },
+  lucidBlocksUpdatesAndPatchNotes: { field: 'items', nameKey: 'title' },
+  lucidBlocksCrashFixAndTroubleshooting: { field: 'items', nameKey: 'title' },
 }
 
 // Extra semantic keywords per module to boost matching for h2 titles
 // These supplement the module title text when matching against articles
 const MODULE_EXTRA_KEYWORDS: Record<string, string[]> = {
-  lucidBlocksBeginnerGuide: ['guide', 'mastering', 'progression', 'crafting', 'starter'],
-  lucidBlocksApotheosisCrafting: ['apotheosis', 'fusion', 'essence'],
-  lucidBlocksToolsAndWeapons: ['crafting recipes', 'frost pick', 'osmium', 'azrael', 'faith wand'],
-  lucidBlocksStorageAndInventory: ['chest', 'cache cube', 'cabinet', 'storage'],
-  lucidBlocksQualiaAndBaseBuilding: ['qualia', 'clonaqualia', 'personal dimensions'],
-  lucidBlocksWorldRegions: ['tiamana', 'leyline', 'biomes', 'regions'],
-  lucidBlocksCreaturesAndEnemies: ['survival', 'combat', 'surreal creatures'],
-  lucidBlocksMobilityGear: ['bee glider', 'hookshot', 'glider', 'movement'],
-  lucidBlocksFarmingAndGrowth: ['seed', 'farming', 'growth', 'material', 'progression', 'crafting'],
-  lucidBlocksBestEarlyUnlocks: ['early', 'osmium', 'frost pick', 'starter', 'progression'],
-  lucidBlocksAchievementTracker: ['achievement', 'tiamana', 'leyline'],
-  lucidBlocksSingleplayerAndPlatformFAQ: ['multiplayer', 'platform', 'co op'],
-  lucidBlocksSteamDeckAndController: ['steam deck', 'controller', 'proton'],
-  lucidBlocksSettingsAndAccessibility: ['full screen', 'controls', 'display'],
-  lucidBlocksUpdatesAndPatchNotes: ['update', 'patch', 'fix'],
-  lucidBlocksCrashFixAndTroubleshooting: ['crash', 'vulkan', 'troubleshooting', 'full screen', 'controls', 'gameplay'],
+  lucidBlocksBeginnerGuide: ['overview', 'event mode', 'pve', 'season 7.5', 'co-op', 'wave loop'],
+  lucidBlocksApotheosisCrafting: ['release date', 'launch time', 'event window', 'april 23 2026', 'july 30 2026', 'utc'],
+  lucidBlocksToolsAndWeapons: ['beginner guide', 'first run', 'difficulty', 'trait points', 'arcana', 'forge'],
+  lucidBlocksStorageAndInventory: ['rewards', 'first clear', 'nightmare milestones', 'hero challenges', 'kingpin trophy shards', 'enemy count'],
+  lucidBlocksQualiaAndBaseBuilding: ['kingpin', 'hidden boss', 'golden key', 'phase 4', 'phase 12', 'extreme'],
+  lucidBlocksWorldRegions: ['dracula', 'bloodstain', 'siphon', 'phase 4 sunlight', 'norn stone'],
+  lucidBlocksCreaturesAndEnemies: ['best characters', 'tier list', 'squirrel girl', 'moon knight', 'jeff', 'punisher'],
+  lucidBlocksMobilityGear: ['builds', 'traits', 'arcana', 'weapon armor accessory', 'squirrel girl build', 'moon knight build'],
+  lucidBlocksFarmingAndGrowth: ['nightmare guide', 'nightmare 40', 'nightmare 70', 'nightmare 120', 'milestones', 'shards'],
+  lucidBlocksBestEarlyUnlocks: ['difficulty levels', 'normal', 'hard', 'extreme', 'nightmare', 'boss route'],
+  lucidBlocksAchievementTracker: ['gear guide', 'weapon', 'armor', 'exclusive gear', 'forge', 'uru shards'],
+  lucidBlocksSingleplayerAndPlatformFAQ: ['traits and arcana', 'trait points', 'arcana points', 'scroll of conquest', 'scroll of immortality', 'scroll of blessing'],
+  lucidBlocksSteamDeckAndController: ['bosses guide', 'capwolf', 'ratatoskr', 'dracula', 'kingpin', 'boss order'],
+  lucidBlocksSettingsAndAccessibility: ['enemies and waves', 'blight bomber', 'darkhold cultist', 'bloodwing hunter', 'wave progression', 'counter plan'],
+  lucidBlocksUpdatesAndPatchNotes: ['patch notes', 'trailer', 'version 20260423', 'mode launch', 'event window', 'official update'],
+  lucidBlocksCrashFixAndTroubleshooting: ['latest update', 'patch notes', 'trailer', 'release window', 'event end date', 'official source'],
 }
 
-const FILLER_WORDS = ['lucid', 'blocks', '2026', '2025', 'complete', 'the', 'and', 'for', 'how', 'with', 'our', 'this', 'your', 'all', 'from', 'learn', 'master']
+const FILLER_WORDS = ['marvel', 'rivals', 'blood', 'hunt', '2026', '2025', 'complete', 'the', 'and', 'for', 'how', 'with', 'our', 'this', 'your', 'all', 'from', 'learn', 'master']
 
 function normalize(text: string): string {
   return text
@@ -77,9 +77,9 @@ function matchScore(queryText: string, article: ArticleWithType, extraKeywords?:
 
   let score = 0
 
-  // Exact phrase match in title (stripped of "Lucid Blocks")
-  const strippedQuery = normalizedQuery.replace(/lucid blocks?\s*/g, '').trim()
-  const strippedTitle = normalizedTitle.replace(/lucid blocks?\s*/g, '').trim()
+  // Exact phrase match in title (stripped of topic phrase)
+  const strippedQuery = normalizedQuery.replace(/marvel rivals blood hunt\s*/g, '').trim()
+  const strippedTitle = normalizedTitle.replace(/marvel rivals blood hunt\s*/g, '').trim()
   if (strippedQuery.length > 3 && strippedTitle.includes(strippedQuery)) {
     score += 100
   }
