@@ -1,0 +1,2034 @@
+{
+  "en": {
+    "bosses": [
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-Capwolf",
+        "file": "Marvel-Rivals-Blood-Hunt-Capwolf"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-Dracula",
+        "file": "Marvel-Rivals-Blood-Hunt-Dracula"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-Kingpin",
+        "file": "Marvel-Rivals-Blood-Hunt-Kingpin"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-Ratatoskr",
+        "file": "Marvel-Rivals-Blood-Hunt-Ratatoskr"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-all-bosses",
+        "file": "Marvel-Rivals-Blood-Hunt-all-bosses"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-boss-fights",
+        "file": "Marvel-Rivals-Blood-Hunt-boss-fights"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-bosses",
+        "file": "Marvel-Rivals-Blood-Hunt-bosses"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-final-boss",
+        "file": "Marvel-Rivals-Blood-Hunt-final-boss"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-hidden-boss",
+        "file": "Marvel-Rivals-Blood-Hunt-hidden-boss"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-how-to-beat-Dracula",
+        "file": "Marvel-Rivals-Blood-Hunt-how-to-beat-Dracula"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-how-to-fight-Kingpin",
+        "file": "Marvel-Rivals-Blood-Hunt-how-to-fight-Kingpin"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-how-to-unlock-Kingpin",
+        "file": "Marvel-Rivals-Blood-Hunt-how-to-unlock-Kingpin"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-secret-boss",
+        "file": "Marvel-Rivals-Blood-Hunt-secret-boss"
+      }
+    ],
+    "builds": [
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-Jeff-build",
+        "file": "Marvel-Rivals-Blood-Hunt-Jeff-build"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-best-builds",
+        "file": "Marvel-Rivals-Blood-Hunt-best-builds"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-blade-build",
+        "file": "Marvel-Rivals-Blood-Hunt-blade-build"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-build-optimization",
+        "file": "Marvel-Rivals-Blood-Hunt-build-optimization"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-builds",
+        "file": "Marvel-Rivals-Blood-Hunt-builds"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-character-builds",
+        "file": "Marvel-Rivals-Blood-Hunt-character-builds"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-horde-build",
+        "file": "Marvel-Rivals-Blood-Hunt-horde-build"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-lifesteal-build",
+        "file": "Marvel-Rivals-Blood-Hunt-lifesteal-build"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-magik-build",
+        "file": "Marvel-Rivals-Blood-Hunt-magik-build"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-moon-knight-build",
+        "file": "Marvel-Rivals-Blood-Hunt-moon-knight-build"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-nightmare-build",
+        "file": "Marvel-Rivals-Blood-Hunt-nightmare-build"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-punisher-build",
+        "file": "Marvel-Rivals-Blood-Hunt-punisher-build"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-solo-build",
+        "file": "Marvel-Rivals-Blood-Hunt-solo-build"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-squirrel-girl-build",
+        "file": "Marvel-Rivals-Blood-Hunt-squirrel-girl-build"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-thor-build",
+        "file": "Marvel-Rivals-Blood-Hunt-thor-build"
+      },
+      {
+        "slug": "best-blood-hunt-builds",
+        "file": "best-blood-hunt-builds"
+      },
+      {
+        "slug": "blood-hunt-builds",
+        "file": "blood-hunt-builds"
+      },
+      {
+        "slug": "blood-hunt-marvel-rivals-builds",
+        "file": "blood-hunt-marvel-rivals-builds"
+      },
+      {
+        "slug": "marvel-rivals-blood-hunt-meta",
+        "file": "marvel-rivals-blood-hunt-meta"
+      }
+    ],
+    "characters": [
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-Jeff",
+        "file": "Marvel-Rivals-Blood-Hunt-Jeff"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-best-characters",
+        "file": "Marvel-Rivals-Blood-Hunt-best-characters"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-best-hero",
+        "file": "Marvel-Rivals-Blood-Hunt-best-hero"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-blade",
+        "file": "Marvel-Rivals-Blood-Hunt-blade"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-characters",
+        "file": "Marvel-Rivals-Blood-Hunt-characters"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-magik",
+        "file": "Marvel-Rivals-Blood-Hunt-magik"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-moon-knight",
+        "file": "Marvel-Rivals-Blood-Hunt-moon-knight"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-playable-characters",
+        "file": "Marvel-Rivals-Blood-Hunt-playable-characters"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-punisher",
+        "file": "Marvel-Rivals-Blood-Hunt-punisher"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-squirrel-girl",
+        "file": "Marvel-Rivals-Blood-Hunt-squirrel-girl"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-thor",
+        "file": "Marvel-Rivals-Blood-Hunt-thor"
+      }
+    ],
+    "gear": [
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-cards",
+        "file": "Marvel-Rivals-Blood-Hunt-cards"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-gear-farm",
+        "file": "Marvel-Rivals-Blood-Hunt-gear-farm"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-gear",
+        "file": "Marvel-Rivals-Blood-Hunt-gear"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-legendary-drops",
+        "file": "Marvel-Rivals-Blood-Hunt-legendary-drops"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-legendary-gear",
+        "file": "Marvel-Rivals-Blood-Hunt-legendary-gear"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-lifeline-serum",
+        "file": "Marvel-Rivals-Blood-Hunt-lifeline-serum"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-titles",
+        "file": "Marvel-Rivals-Blood-Hunt-titles"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-traits",
+        "file": "Marvel-Rivals-Blood-Hunt-traits"
+      },
+      {
+        "slug": "blood-hunt-how-to-smelt-gear",
+        "file": "blood-hunt-how-to-smelt-gear"
+      },
+      {
+        "slug": "blood-hunt-smelt-gear",
+        "file": "blood-hunt-smelt-gear"
+      },
+      {
+        "slug": "how-do-you-smelt-gear-in-marvel-rivals",
+        "file": "how-do-you-smelt-gear-in-marvel-rivals"
+      },
+      {
+        "slug": "how-to-forge-gear-in-blood-hunt",
+        "file": "how-to-forge-gear-in-blood-hunt"
+      },
+      {
+        "slug": "how-to-get-legendary-gear-blood-hunt",
+        "file": "how-to-get-legendary-gear-blood-hunt"
+      },
+      {
+        "slug": "how-to-smelt-gear-in-blood-hunt",
+        "file": "how-to-smelt-gear-in-blood-hunt"
+      },
+      {
+        "slug": "how-to-smelt-gear-in-marvel-rivals",
+        "file": "how-to-smelt-gear-in-marvel-rivals"
+      },
+      {
+        "slug": "how-to-smelt-gear-marvel-rivals",
+        "file": "how-to-smelt-gear-marvel-rivals"
+      },
+      {
+        "slug": "marvel-rivals-blood-hunt-how-to-smelt-gear",
+        "file": "marvel-rivals-blood-hunt-how-to-smelt-gear"
+      },
+      {
+        "slug": "marvel-rivals-blood-hunt-smelt-gear",
+        "file": "marvel-rivals-blood-hunt-smelt-gear"
+      },
+      {
+        "slug": "marvel-rivals-blood-hunt-uru-shards",
+        "file": "marvel-rivals-blood-hunt-uru-shards"
+      },
+      {
+        "slug": "marvel-rivals-how-to-smelt-gear",
+        "file": "marvel-rivals-how-to-smelt-gear"
+      },
+      {
+        "slug": "marvel-rivals-smelt-gear",
+        "file": "marvel-rivals-smelt-gear"
+      },
+      {
+        "slug": "smelt-gear-marvel-rivals",
+        "file": "smelt-gear-marvel-rivals"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-Dracula-guide",
+        "file": "Marvel-Rivals-Blood-Hunt-Dracula-guide"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-Jeff-guide",
+        "file": "Marvel-Rivals-Blood-Hunt-Jeff-guide"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-Kingpin-guide",
+        "file": "Marvel-Rivals-Blood-Hunt-Kingpin-guide"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-beginner-guide",
+        "file": "Marvel-Rivals-Blood-Hunt-beginner-guide"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-complete-guide",
+        "file": "Marvel-Rivals-Blood-Hunt-complete-guide"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-extreme-guide",
+        "file": "Marvel-Rivals-Blood-Hunt-extreme-guide"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-full-game",
+        "file": "Marvel-Rivals-Blood-Hunt-full-game"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-guide",
+        "file": "Marvel-Rivals-Blood-Hunt-guide"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-hidden-boss-guide",
+        "file": "Marvel-Rivals-Blood-Hunt-hidden-boss-guide"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-how-to-play",
+        "file": "Marvel-Rivals-Blood-Hunt-how-to-play"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-nightmare-guide",
+        "file": "Marvel-Rivals-Blood-Hunt-nightmare-guide"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-pve-guide",
+        "file": "Marvel-Rivals-Blood-Hunt-pve-guide"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-solo-guide",
+        "file": "Marvel-Rivals-Blood-Hunt-solo-guide"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-tips",
+        "file": "Marvel-Rivals-Blood-Hunt-tips"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-walkthrough",
+        "file": "Marvel-Rivals-Blood-Hunt-walkthrough"
+      },
+      {
+        "slug": "blood-hunt-drop-rates",
+        "file": "blood-hunt-drop-rates"
+      },
+      {
+        "slug": "blood-hunt-leaderboard-marvel-rivals",
+        "file": "blood-hunt-leaderboard-marvel-rivals"
+      },
+      {
+        "slug": "blood-hunt-leaderboard",
+        "file": "blood-hunt-leaderboard"
+      },
+      {
+        "slug": "blood-hunt-marvel-rivals-dracula",
+        "file": "blood-hunt-marvel-rivals-dracula"
+      },
+      {
+        "slug": "blood-hunt-marvel-rivals-rewards",
+        "file": "blood-hunt-marvel-rivals-rewards"
+      },
+      {
+        "slug": "blood-hunt-max-level",
+        "file": "blood-hunt-max-level"
+      },
+      {
+        "slug": "blood-hunt-rewards-marvel-rivals",
+        "file": "blood-hunt-rewards-marvel-rivals"
+      },
+      {
+        "slug": "marvel-rivals-blood-hunt-farming",
+        "file": "marvel-rivals-blood-hunt-farming"
+      },
+      {
+        "slug": "marvel-rivals-blood-hunt-fast-leveling",
+        "file": "marvel-rivals-blood-hunt-fast-leveling"
+      },
+      {
+        "slug": "marvel-rivals-blood-hunt-fastest-way-to-level-up",
+        "file": "marvel-rivals-blood-hunt-fastest-way-to-level-up"
+      },
+      {
+        "slug": "marvel-rivals-blood-hunt-forge",
+        "file": "marvel-rivals-blood-hunt-forge"
+      },
+      {
+        "slug": "marvel-rivals-blood-hunt-max-level",
+        "file": "marvel-rivals-blood-hunt-max-level"
+      },
+      {
+        "slug": "marvel-rivals-blood-hunt-meta",
+        "file": "marvel-rivals-blood-hunt-meta"
+      },
+      {
+        "slug": "marvel-rivals-blood-hunt-rewards",
+        "file": "marvel-rivals-blood-hunt-rewards"
+      },
+      {
+        "slug": "marvel-rivals-blood-hunt-stats",
+        "file": "marvel-rivals-blood-hunt-stats"
+      },
+      {
+        "slug": "marvel-rivals-blood-hunt-xp-farm",
+        "file": "marvel-rivals-blood-hunt-xp-farm"
+      },
+      {
+        "slug": "rivals-blood-hunt",
+        "file": "rivals-blood-hunt"
+      }
+    ],
+    "mechanics": [
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-leaderboard",
+        "file": "Marvel-Rivals-Blood-Hunt-leaderboard"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-level-cap",
+        "file": "Marvel-Rivals-Blood-Hunt-level-cap"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-level-up-fast",
+        "file": "Marvel-Rivals-Blood-Hunt-level-up-fast"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-leveling",
+        "file": "Marvel-Rivals-Blood-Hunt-leveling"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-lifesteal",
+        "file": "Marvel-Rivals-Blood-Hunt-lifesteal"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-precision-damage",
+        "file": "Marvel-Rivals-Blood-Hunt-precision-damage"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-total-output-boost",
+        "file": "Marvel-Rivals-Blood-Hunt-total-output-boost"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-total-output",
+        "file": "Marvel-Rivals-Blood-Hunt-total-output"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-what-is-output-boost",
+        "file": "Marvel-Rivals-Blood-Hunt-what-is-output-boost"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-what-is-output",
+        "file": "Marvel-Rivals-Blood-Hunt-what-is-output"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-what-is-precision",
+        "file": "Marvel-Rivals-Blood-Hunt-what-is-precision"
+      },
+      {
+        "slug": "blood-hunt-drop-rates",
+        "file": "blood-hunt-drop-rates"
+      },
+      {
+        "slug": "marvel-rivals-blood-hunt-exp-farm",
+        "file": "marvel-rivals-blood-hunt-exp-farm"
+      },
+      {
+        "slug": "marvel-rivals-blood-hunt-forging-vs-drops-level-60-gear",
+        "file": "marvel-rivals-blood-hunt-forging-vs-drops-level-60-gear"
+      },
+      {
+        "slug": "marvel-rivals-blood-hunt-max-level",
+        "file": "marvel-rivals-blood-hunt-max-level"
+      },
+      {
+        "slug": "marvel-rivals-blood-hunt-output-boost-meaning",
+        "file": "marvel-rivals-blood-hunt-output-boost-meaning"
+      },
+      {
+        "slug": "marvel-rivals-blood-hunt-stats",
+        "file": "marvel-rivals-blood-hunt-stats"
+      }
+    ],
+    "release": [
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-crashing-xbox",
+        "file": "Marvel-Rivals-Blood-Hunt-crashing-xbox"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-crashing",
+        "file": "Marvel-Rivals-Blood-Hunt-crashing"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-event",
+        "file": "Marvel-Rivals-Blood-Hunt-event"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-lag",
+        "file": "Marvel-Rivals-Blood-Hunt-lag"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-reddit",
+        "file": "Marvel-Rivals-Blood-Hunt-reddit"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-release-date",
+        "file": "Marvel-Rivals-Blood-Hunt-release-date"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-release-time",
+        "file": "Marvel-Rivals-Blood-Hunt-release-time"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-start-date",
+        "file": "Marvel-Rivals-Blood-Hunt-start-date"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-trailer",
+        "file": "Marvel-Rivals-Blood-Hunt-trailer"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-update",
+        "file": "Marvel-Rivals-Blood-Hunt-update"
+      }
+    ],
+    "tier-list": [
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-best-hero-tier-list",
+        "file": "Marvel-Rivals-Blood-Hunt-best-hero-tier-list"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-character-tier-list",
+        "file": "Marvel-Rivals-Blood-Hunt-character-tier-list"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-nightmare-tier-list",
+        "file": "Marvel-Rivals-Blood-Hunt-nightmare-tier-list"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-solo-tier-list",
+        "file": "Marvel-Rivals-Blood-Hunt-solo-tier-list"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-tier-list-reddit",
+        "file": "Marvel-Rivals-Blood-Hunt-tier-list-reddit"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-tier-list",
+        "file": "Marvel-Rivals-Blood-Hunt-tier-list"
+      },
+      {
+        "slug": "blood-hunt-hero-tier-list",
+        "file": "blood-hunt-hero-tier-list"
+      },
+      {
+        "slug": "blood-hunt-marvel-rivals-tier-list",
+        "file": "blood-hunt-marvel-rivals-tier-list"
+      },
+      {
+        "slug": "bloodhunt-tier-list-rivals",
+        "file": "bloodhunt-tier-list-rivals"
+      },
+      {
+        "slug": "marvel-rivals-pve-best-characters",
+        "file": "marvel-rivals-pve-best-characters"
+      },
+      {
+        "slug": "marvel-rivals-pve-tier-list",
+        "file": "marvel-rivals-pve-tier-list"
+      },
+      {
+        "slug": "rivals-blood-hunt-tier-list",
+        "file": "rivals-blood-hunt-tier-list"
+      }
+    ]
+  },
+  "es": {
+    "bosses": [
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-Dracula",
+        "file": "Marvel-Rivals-Blood-Hunt-Dracula"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-Kingpin",
+        "file": "Marvel-Rivals-Blood-Hunt-Kingpin"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-Ratatoskr",
+        "file": "Marvel-Rivals-Blood-Hunt-Ratatoskr"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-all-bosses",
+        "file": "Marvel-Rivals-Blood-Hunt-all-bosses"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-boss-fights",
+        "file": "Marvel-Rivals-Blood-Hunt-boss-fights"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-bosses",
+        "file": "Marvel-Rivals-Blood-Hunt-bosses"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-final-boss",
+        "file": "Marvel-Rivals-Blood-Hunt-final-boss"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-hidden-boss",
+        "file": "Marvel-Rivals-Blood-Hunt-hidden-boss"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-how-to-beat-Dracula",
+        "file": "Marvel-Rivals-Blood-Hunt-how-to-beat-Dracula"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-how-to-fight-Kingpin",
+        "file": "Marvel-Rivals-Blood-Hunt-how-to-fight-Kingpin"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-how-to-unlock-Kingpin",
+        "file": "Marvel-Rivals-Blood-Hunt-how-to-unlock-Kingpin"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-secret-boss",
+        "file": "Marvel-Rivals-Blood-Hunt-secret-boss"
+      }
+    ],
+    "builds": [
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-Jeff-build",
+        "file": "Marvel-Rivals-Blood-Hunt-Jeff-build"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-best-builds",
+        "file": "Marvel-Rivals-Blood-Hunt-best-builds"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-blade-build",
+        "file": "Marvel-Rivals-Blood-Hunt-blade-build"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-build-optimization",
+        "file": "Marvel-Rivals-Blood-Hunt-build-optimization"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-builds",
+        "file": "Marvel-Rivals-Blood-Hunt-builds"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-character-builds",
+        "file": "Marvel-Rivals-Blood-Hunt-character-builds"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-lifesteal-build",
+        "file": "Marvel-Rivals-Blood-Hunt-lifesteal-build"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-moon-knight-build",
+        "file": "Marvel-Rivals-Blood-Hunt-moon-knight-build"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-punisher-build",
+        "file": "Marvel-Rivals-Blood-Hunt-punisher-build"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-squirrel-girl-build",
+        "file": "Marvel-Rivals-Blood-Hunt-squirrel-girl-build"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-thor-build",
+        "file": "Marvel-Rivals-Blood-Hunt-thor-build"
+      },
+      {
+        "slug": "best-blood-hunt-builds",
+        "file": "best-blood-hunt-builds"
+      },
+      {
+        "slug": "blood-hunt-builds",
+        "file": "blood-hunt-builds"
+      },
+      {
+        "slug": "marvel-rivals-blood-hunt-meta",
+        "file": "marvel-rivals-blood-hunt-meta"
+      }
+    ],
+    "characters": [
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-Jeff",
+        "file": "Marvel-Rivals-Blood-Hunt-Jeff"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-best-characters",
+        "file": "Marvel-Rivals-Blood-Hunt-best-characters"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-best-hero",
+        "file": "Marvel-Rivals-Blood-Hunt-best-hero"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-blade",
+        "file": "Marvel-Rivals-Blood-Hunt-blade"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-characters",
+        "file": "Marvel-Rivals-Blood-Hunt-characters"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-magik",
+        "file": "Marvel-Rivals-Blood-Hunt-magik"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-moon-knight",
+        "file": "Marvel-Rivals-Blood-Hunt-moon-knight"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-playable-characters",
+        "file": "Marvel-Rivals-Blood-Hunt-playable-characters"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-punisher",
+        "file": "Marvel-Rivals-Blood-Hunt-punisher"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-squirrel-girl",
+        "file": "Marvel-Rivals-Blood-Hunt-squirrel-girl"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-thor",
+        "file": "Marvel-Rivals-Blood-Hunt-thor"
+      }
+    ],
+    "gear": [
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-cards",
+        "file": "Marvel-Rivals-Blood-Hunt-cards"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-gear-farm",
+        "file": "Marvel-Rivals-Blood-Hunt-gear-farm"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-gear",
+        "file": "Marvel-Rivals-Blood-Hunt-gear"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-legendary-drops",
+        "file": "Marvel-Rivals-Blood-Hunt-legendary-drops"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-legendary-gear",
+        "file": "Marvel-Rivals-Blood-Hunt-legendary-gear"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-lifeline-serum",
+        "file": "Marvel-Rivals-Blood-Hunt-lifeline-serum"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-titles",
+        "file": "Marvel-Rivals-Blood-Hunt-titles"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-traits",
+        "file": "Marvel-Rivals-Blood-Hunt-traits"
+      },
+      {
+        "slug": "blood-hunt-how-to-smelt-gear",
+        "file": "blood-hunt-how-to-smelt-gear"
+      },
+      {
+        "slug": "blood-hunt-smelt-gear",
+        "file": "blood-hunt-smelt-gear"
+      },
+      {
+        "slug": "how-to-get-legendary-gear-blood-hunt",
+        "file": "how-to-get-legendary-gear-blood-hunt"
+      },
+      {
+        "slug": "how-to-smelt-gear-in-blood-hunt",
+        "file": "how-to-smelt-gear-in-blood-hunt"
+      },
+      {
+        "slug": "marvel-rivals-blood-hunt-uru-shards",
+        "file": "marvel-rivals-blood-hunt-uru-shards"
+      },
+      {
+        "slug": "marvel-rivals-how-to-smelt-gear",
+        "file": "marvel-rivals-how-to-smelt-gear"
+      },
+      {
+        "slug": "marvel-rivals-smelt-gear",
+        "file": "marvel-rivals-smelt-gear"
+      },
+      {
+        "slug": "smelt-gear-marvel-rivals",
+        "file": "smelt-gear-marvel-rivals"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-Dracula-guide",
+        "file": "Marvel-Rivals-Blood-Hunt-Dracula-guide"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-Jeff-guide",
+        "file": "Marvel-Rivals-Blood-Hunt-Jeff-guide"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-Kingpin-guide",
+        "file": "Marvel-Rivals-Blood-Hunt-Kingpin-guide"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-beginner-guide",
+        "file": "Marvel-Rivals-Blood-Hunt-beginner-guide"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-complete-guide",
+        "file": "Marvel-Rivals-Blood-Hunt-complete-guide"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-extreme-guide",
+        "file": "Marvel-Rivals-Blood-Hunt-extreme-guide"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-full-game",
+        "file": "Marvel-Rivals-Blood-Hunt-full-game"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-guide",
+        "file": "Marvel-Rivals-Blood-Hunt-guide"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-hidden-boss-guide",
+        "file": "Marvel-Rivals-Blood-Hunt-hidden-boss-guide"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-how-to-play",
+        "file": "Marvel-Rivals-Blood-Hunt-how-to-play"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-nightmare-guide",
+        "file": "Marvel-Rivals-Blood-Hunt-nightmare-guide"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-pve-guide",
+        "file": "Marvel-Rivals-Blood-Hunt-pve-guide"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-solo-guide",
+        "file": "Marvel-Rivals-Blood-Hunt-solo-guide"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-tips",
+        "file": "Marvel-Rivals-Blood-Hunt-tips"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-walkthrough",
+        "file": "Marvel-Rivals-Blood-Hunt-walkthrough"
+      },
+      {
+        "slug": "blood-hunt-drop-rates",
+        "file": "blood-hunt-drop-rates"
+      },
+      {
+        "slug": "blood-hunt-marvel-rivals-dracula",
+        "file": "blood-hunt-marvel-rivals-dracula"
+      },
+      {
+        "slug": "blood-hunt-marvel-rivals-rewards",
+        "file": "blood-hunt-marvel-rivals-rewards"
+      },
+      {
+        "slug": "blood-hunt-max-level",
+        "file": "blood-hunt-max-level"
+      },
+      {
+        "slug": "blood-hunt-rewards-marvel-rivals",
+        "file": "blood-hunt-rewards-marvel-rivals"
+      },
+      {
+        "slug": "marvel-rivals-blood-hunt-farming",
+        "file": "marvel-rivals-blood-hunt-farming"
+      },
+      {
+        "slug": "marvel-rivals-blood-hunt-fast-leveling",
+        "file": "marvel-rivals-blood-hunt-fast-leveling"
+      },
+      {
+        "slug": "marvel-rivals-blood-hunt-fastest-way-to-level-up",
+        "file": "marvel-rivals-blood-hunt-fastest-way-to-level-up"
+      },
+      {
+        "slug": "marvel-rivals-blood-hunt-max-level",
+        "file": "marvel-rivals-blood-hunt-max-level"
+      },
+      {
+        "slug": "marvel-rivals-blood-hunt-meta",
+        "file": "marvel-rivals-blood-hunt-meta"
+      },
+      {
+        "slug": "marvel-rivals-blood-hunt-rewards",
+        "file": "marvel-rivals-blood-hunt-rewards"
+      },
+      {
+        "slug": "marvel-rivals-blood-hunt-stats",
+        "file": "marvel-rivals-blood-hunt-stats"
+      },
+      {
+        "slug": "rivals-blood-hunt",
+        "file": "rivals-blood-hunt"
+      }
+    ],
+    "mechanics": [
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-leaderboard",
+        "file": "Marvel-Rivals-Blood-Hunt-leaderboard"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-level-cap",
+        "file": "Marvel-Rivals-Blood-Hunt-level-cap"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-level-up-fast",
+        "file": "Marvel-Rivals-Blood-Hunt-level-up-fast"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-leveling",
+        "file": "Marvel-Rivals-Blood-Hunt-leveling"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-lifesteal",
+        "file": "Marvel-Rivals-Blood-Hunt-lifesteal"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-precision-damage",
+        "file": "Marvel-Rivals-Blood-Hunt-precision-damage"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-total-output-boost",
+        "file": "Marvel-Rivals-Blood-Hunt-total-output-boost"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-total-output",
+        "file": "Marvel-Rivals-Blood-Hunt-total-output"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-what-is-output-boost",
+        "file": "Marvel-Rivals-Blood-Hunt-what-is-output-boost"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-what-is-output",
+        "file": "Marvel-Rivals-Blood-Hunt-what-is-output"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-what-is-precision",
+        "file": "Marvel-Rivals-Blood-Hunt-what-is-precision"
+      },
+      {
+        "slug": "blood-hunt-drop-rates",
+        "file": "blood-hunt-drop-rates"
+      },
+      {
+        "slug": "marvel-rivals-blood-hunt-exp-farm",
+        "file": "marvel-rivals-blood-hunt-exp-farm"
+      },
+      {
+        "slug": "marvel-rivals-blood-hunt-forging-vs-drops-level-60-gear",
+        "file": "marvel-rivals-blood-hunt-forging-vs-drops-level-60-gear"
+      },
+      {
+        "slug": "marvel-rivals-blood-hunt-max-level",
+        "file": "marvel-rivals-blood-hunt-max-level"
+      },
+      {
+        "slug": "marvel-rivals-blood-hunt-output-boost-meaning",
+        "file": "marvel-rivals-blood-hunt-output-boost-meaning"
+      },
+      {
+        "slug": "marvel-rivals-blood-hunt-stats",
+        "file": "marvel-rivals-blood-hunt-stats"
+      }
+    ],
+    "release": [
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-crashing-xbox",
+        "file": "Marvel-Rivals-Blood-Hunt-crashing-xbox"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-crashing",
+        "file": "Marvel-Rivals-Blood-Hunt-crashing"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-event",
+        "file": "Marvel-Rivals-Blood-Hunt-event"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-lag",
+        "file": "Marvel-Rivals-Blood-Hunt-lag"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-reddit",
+        "file": "Marvel-Rivals-Blood-Hunt-reddit"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-release-date",
+        "file": "Marvel-Rivals-Blood-Hunt-release-date"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-release-time",
+        "file": "Marvel-Rivals-Blood-Hunt-release-time"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-start-date",
+        "file": "Marvel-Rivals-Blood-Hunt-start-date"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-update",
+        "file": "Marvel-Rivals-Blood-Hunt-update"
+      }
+    ],
+    "tier-list": [
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-best-hero-tier-list",
+        "file": "Marvel-Rivals-Blood-Hunt-best-hero-tier-list"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-character-tier-list",
+        "file": "Marvel-Rivals-Blood-Hunt-character-tier-list"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-nightmare-tier-list",
+        "file": "Marvel-Rivals-Blood-Hunt-nightmare-tier-list"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-solo-tier-list",
+        "file": "Marvel-Rivals-Blood-Hunt-solo-tier-list"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-tier-list-reddit",
+        "file": "Marvel-Rivals-Blood-Hunt-tier-list-reddit"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-tier-list",
+        "file": "Marvel-Rivals-Blood-Hunt-tier-list"
+      },
+      {
+        "slug": "blood-hunt-hero-tier-list",
+        "file": "blood-hunt-hero-tier-list"
+      },
+      {
+        "slug": "blood-hunt-marvel-rivals-tier-list",
+        "file": "blood-hunt-marvel-rivals-tier-list"
+      },
+      {
+        "slug": "bloodhunt-tier-list-rivals",
+        "file": "bloodhunt-tier-list-rivals"
+      },
+      {
+        "slug": "marvel-rivals-pve-best-characters",
+        "file": "marvel-rivals-pve-best-characters"
+      },
+      {
+        "slug": "marvel-rivals-pve-tier-list",
+        "file": "marvel-rivals-pve-tier-list"
+      },
+      {
+        "slug": "rivals-blood-hunt-tier-list",
+        "file": "rivals-blood-hunt-tier-list"
+      }
+    ]
+  },
+  "pt": {
+    "bosses": [
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-Dracula",
+        "file": "Marvel-Rivals-Blood-Hunt-Dracula"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-Kingpin",
+        "file": "Marvel-Rivals-Blood-Hunt-Kingpin"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-Ratatoskr",
+        "file": "Marvel-Rivals-Blood-Hunt-Ratatoskr"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-all-bosses",
+        "file": "Marvel-Rivals-Blood-Hunt-all-bosses"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-boss-fights",
+        "file": "Marvel-Rivals-Blood-Hunt-boss-fights"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-bosses",
+        "file": "Marvel-Rivals-Blood-Hunt-bosses"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-final-boss",
+        "file": "Marvel-Rivals-Blood-Hunt-final-boss"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-hidden-boss",
+        "file": "Marvel-Rivals-Blood-Hunt-hidden-boss"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-how-to-beat-Dracula",
+        "file": "Marvel-Rivals-Blood-Hunt-how-to-beat-Dracula"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-how-to-fight-Kingpin",
+        "file": "Marvel-Rivals-Blood-Hunt-how-to-fight-Kingpin"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-how-to-unlock-Kingpin",
+        "file": "Marvel-Rivals-Blood-Hunt-how-to-unlock-Kingpin"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-secret-boss",
+        "file": "Marvel-Rivals-Blood-Hunt-secret-boss"
+      }
+    ],
+    "builds": [
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-Jeff-build",
+        "file": "Marvel-Rivals-Blood-Hunt-Jeff-build"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-best-builds",
+        "file": "Marvel-Rivals-Blood-Hunt-best-builds"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-blade-build",
+        "file": "Marvel-Rivals-Blood-Hunt-blade-build"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-build-optimization",
+        "file": "Marvel-Rivals-Blood-Hunt-build-optimization"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-builds",
+        "file": "Marvel-Rivals-Blood-Hunt-builds"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-character-builds",
+        "file": "Marvel-Rivals-Blood-Hunt-character-builds"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-lifesteal-build",
+        "file": "Marvel-Rivals-Blood-Hunt-lifesteal-build"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-moon-knight-build",
+        "file": "Marvel-Rivals-Blood-Hunt-moon-knight-build"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-punisher-build",
+        "file": "Marvel-Rivals-Blood-Hunt-punisher-build"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-squirrel-girl-build",
+        "file": "Marvel-Rivals-Blood-Hunt-squirrel-girl-build"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-thor-build",
+        "file": "Marvel-Rivals-Blood-Hunt-thor-build"
+      },
+      {
+        "slug": "best-blood-hunt-builds",
+        "file": "best-blood-hunt-builds"
+      },
+      {
+        "slug": "blood-hunt-builds",
+        "file": "blood-hunt-builds"
+      },
+      {
+        "slug": "marvel-rivals-blood-hunt-meta",
+        "file": "marvel-rivals-blood-hunt-meta"
+      }
+    ],
+    "characters": [
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-Jeff",
+        "file": "Marvel-Rivals-Blood-Hunt-Jeff"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-best-characters",
+        "file": "Marvel-Rivals-Blood-Hunt-best-characters"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-best-hero",
+        "file": "Marvel-Rivals-Blood-Hunt-best-hero"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-blade",
+        "file": "Marvel-Rivals-Blood-Hunt-blade"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-characters",
+        "file": "Marvel-Rivals-Blood-Hunt-characters"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-magik",
+        "file": "Marvel-Rivals-Blood-Hunt-magik"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-moon-knight",
+        "file": "Marvel-Rivals-Blood-Hunt-moon-knight"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-playable-characters",
+        "file": "Marvel-Rivals-Blood-Hunt-playable-characters"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-punisher",
+        "file": "Marvel-Rivals-Blood-Hunt-punisher"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-squirrel-girl",
+        "file": "Marvel-Rivals-Blood-Hunt-squirrel-girl"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-thor",
+        "file": "Marvel-Rivals-Blood-Hunt-thor"
+      }
+    ],
+    "gear": [
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-cards",
+        "file": "Marvel-Rivals-Blood-Hunt-cards"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-gear-farm",
+        "file": "Marvel-Rivals-Blood-Hunt-gear-farm"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-gear",
+        "file": "Marvel-Rivals-Blood-Hunt-gear"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-legendary-drops",
+        "file": "Marvel-Rivals-Blood-Hunt-legendary-drops"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-legendary-gear",
+        "file": "Marvel-Rivals-Blood-Hunt-legendary-gear"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-lifeline-serum",
+        "file": "Marvel-Rivals-Blood-Hunt-lifeline-serum"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-titles",
+        "file": "Marvel-Rivals-Blood-Hunt-titles"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-traits",
+        "file": "Marvel-Rivals-Blood-Hunt-traits"
+      },
+      {
+        "slug": "blood-hunt-how-to-smelt-gear",
+        "file": "blood-hunt-how-to-smelt-gear"
+      },
+      {
+        "slug": "blood-hunt-smelt-gear",
+        "file": "blood-hunt-smelt-gear"
+      },
+      {
+        "slug": "how-to-get-legendary-gear-blood-hunt",
+        "file": "how-to-get-legendary-gear-blood-hunt"
+      },
+      {
+        "slug": "how-to-smelt-gear-in-blood-hunt",
+        "file": "how-to-smelt-gear-in-blood-hunt"
+      },
+      {
+        "slug": "marvel-rivals-blood-hunt-uru-shards",
+        "file": "marvel-rivals-blood-hunt-uru-shards"
+      },
+      {
+        "slug": "marvel-rivals-how-to-smelt-gear",
+        "file": "marvel-rivals-how-to-smelt-gear"
+      },
+      {
+        "slug": "marvel-rivals-smelt-gear",
+        "file": "marvel-rivals-smelt-gear"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-Dracula-guide",
+        "file": "Marvel-Rivals-Blood-Hunt-Dracula-guide"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-Jeff-guide",
+        "file": "Marvel-Rivals-Blood-Hunt-Jeff-guide"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-Kingpin-guide",
+        "file": "Marvel-Rivals-Blood-Hunt-Kingpin-guide"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-beginner-guide",
+        "file": "Marvel-Rivals-Blood-Hunt-beginner-guide"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-complete-guide",
+        "file": "Marvel-Rivals-Blood-Hunt-complete-guide"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-extreme-guide",
+        "file": "Marvel-Rivals-Blood-Hunt-extreme-guide"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-full-game",
+        "file": "Marvel-Rivals-Blood-Hunt-full-game"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-guide",
+        "file": "Marvel-Rivals-Blood-Hunt-guide"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-hidden-boss-guide",
+        "file": "Marvel-Rivals-Blood-Hunt-hidden-boss-guide"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-how-to-play",
+        "file": "Marvel-Rivals-Blood-Hunt-how-to-play"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-nightmare-guide",
+        "file": "Marvel-Rivals-Blood-Hunt-nightmare-guide"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-pve-guide",
+        "file": "Marvel-Rivals-Blood-Hunt-pve-guide"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-solo-guide",
+        "file": "Marvel-Rivals-Blood-Hunt-solo-guide"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-tips",
+        "file": "Marvel-Rivals-Blood-Hunt-tips"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-walkthrough",
+        "file": "Marvel-Rivals-Blood-Hunt-walkthrough"
+      },
+      {
+        "slug": "blood-hunt-drop-rates",
+        "file": "blood-hunt-drop-rates"
+      },
+      {
+        "slug": "blood-hunt-marvel-rivals-dracula",
+        "file": "blood-hunt-marvel-rivals-dracula"
+      },
+      {
+        "slug": "blood-hunt-marvel-rivals-rewards",
+        "file": "blood-hunt-marvel-rivals-rewards"
+      },
+      {
+        "slug": "blood-hunt-max-level",
+        "file": "blood-hunt-max-level"
+      },
+      {
+        "slug": "blood-hunt-rewards-marvel-rivals",
+        "file": "blood-hunt-rewards-marvel-rivals"
+      },
+      {
+        "slug": "marvel-rivals-blood-hunt-farming",
+        "file": "marvel-rivals-blood-hunt-farming"
+      },
+      {
+        "slug": "marvel-rivals-blood-hunt-fast-leveling",
+        "file": "marvel-rivals-blood-hunt-fast-leveling"
+      },
+      {
+        "slug": "marvel-rivals-blood-hunt-fastest-way-to-level-up",
+        "file": "marvel-rivals-blood-hunt-fastest-way-to-level-up"
+      },
+      {
+        "slug": "marvel-rivals-blood-hunt-max-level",
+        "file": "marvel-rivals-blood-hunt-max-level"
+      },
+      {
+        "slug": "marvel-rivals-blood-hunt-meta",
+        "file": "marvel-rivals-blood-hunt-meta"
+      },
+      {
+        "slug": "marvel-rivals-blood-hunt-rewards",
+        "file": "marvel-rivals-blood-hunt-rewards"
+      },
+      {
+        "slug": "marvel-rivals-blood-hunt-stats",
+        "file": "marvel-rivals-blood-hunt-stats"
+      },
+      {
+        "slug": "rivals-blood-hunt",
+        "file": "rivals-blood-hunt"
+      }
+    ],
+    "mechanics": [
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-leaderboard",
+        "file": "Marvel-Rivals-Blood-Hunt-leaderboard"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-level-cap",
+        "file": "Marvel-Rivals-Blood-Hunt-level-cap"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-level-up-fast",
+        "file": "Marvel-Rivals-Blood-Hunt-level-up-fast"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-leveling",
+        "file": "Marvel-Rivals-Blood-Hunt-leveling"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-lifesteal",
+        "file": "Marvel-Rivals-Blood-Hunt-lifesteal"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-precision-damage",
+        "file": "Marvel-Rivals-Blood-Hunt-precision-damage"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-total-output-boost",
+        "file": "Marvel-Rivals-Blood-Hunt-total-output-boost"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-total-output",
+        "file": "Marvel-Rivals-Blood-Hunt-total-output"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-what-is-output-boost",
+        "file": "Marvel-Rivals-Blood-Hunt-what-is-output-boost"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-what-is-output",
+        "file": "Marvel-Rivals-Blood-Hunt-what-is-output"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-what-is-precision",
+        "file": "Marvel-Rivals-Blood-Hunt-what-is-precision"
+      },
+      {
+        "slug": "blood-hunt-drop-rates",
+        "file": "blood-hunt-drop-rates"
+      },
+      {
+        "slug": "marvel-rivals-blood-hunt-exp-farm",
+        "file": "marvel-rivals-blood-hunt-exp-farm"
+      },
+      {
+        "slug": "marvel-rivals-blood-hunt-forging-vs-drops-level-60-gear",
+        "file": "marvel-rivals-blood-hunt-forging-vs-drops-level-60-gear"
+      },
+      {
+        "slug": "marvel-rivals-blood-hunt-max-level",
+        "file": "marvel-rivals-blood-hunt-max-level"
+      },
+      {
+        "slug": "marvel-rivals-blood-hunt-output-boost-meaning",
+        "file": "marvel-rivals-blood-hunt-output-boost-meaning"
+      },
+      {
+        "slug": "marvel-rivals-blood-hunt-stats",
+        "file": "marvel-rivals-blood-hunt-stats"
+      }
+    ],
+    "release": [
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-crashing-xbox",
+        "file": "Marvel-Rivals-Blood-Hunt-crashing-xbox"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-crashing",
+        "file": "Marvel-Rivals-Blood-Hunt-crashing"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-event",
+        "file": "Marvel-Rivals-Blood-Hunt-event"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-lag",
+        "file": "Marvel-Rivals-Blood-Hunt-lag"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-reddit",
+        "file": "Marvel-Rivals-Blood-Hunt-reddit"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-release-date",
+        "file": "Marvel-Rivals-Blood-Hunt-release-date"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-release-time",
+        "file": "Marvel-Rivals-Blood-Hunt-release-time"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-start-date",
+        "file": "Marvel-Rivals-Blood-Hunt-start-date"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-update",
+        "file": "Marvel-Rivals-Blood-Hunt-update"
+      }
+    ],
+    "tier-list": [
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-best-hero-tier-list",
+        "file": "Marvel-Rivals-Blood-Hunt-best-hero-tier-list"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-character-tier-list",
+        "file": "Marvel-Rivals-Blood-Hunt-character-tier-list"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-nightmare-tier-list",
+        "file": "Marvel-Rivals-Blood-Hunt-nightmare-tier-list"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-solo-tier-list",
+        "file": "Marvel-Rivals-Blood-Hunt-solo-tier-list"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-tier-list-reddit",
+        "file": "Marvel-Rivals-Blood-Hunt-tier-list-reddit"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-tier-list",
+        "file": "Marvel-Rivals-Blood-Hunt-tier-list"
+      },
+      {
+        "slug": "blood-hunt-hero-tier-list",
+        "file": "blood-hunt-hero-tier-list"
+      },
+      {
+        "slug": "bloodhunt-tier-list-rivals",
+        "file": "bloodhunt-tier-list-rivals"
+      },
+      {
+        "slug": "marvel-rivals-pve-best-characters",
+        "file": "marvel-rivals-pve-best-characters"
+      },
+      {
+        "slug": "marvel-rivals-pve-tier-list",
+        "file": "marvel-rivals-pve-tier-list"
+      },
+      {
+        "slug": "rivals-blood-hunt-tier-list",
+        "file": "rivals-blood-hunt-tier-list"
+      }
+    ]
+  },
+  "ru": {
+    "bosses": [
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-Dracula",
+        "file": "Marvel-Rivals-Blood-Hunt-Dracula"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-Kingpin",
+        "file": "Marvel-Rivals-Blood-Hunt-Kingpin"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-Ratatoskr",
+        "file": "Marvel-Rivals-Blood-Hunt-Ratatoskr"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-all-bosses",
+        "file": "Marvel-Rivals-Blood-Hunt-all-bosses"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-boss-fights",
+        "file": "Marvel-Rivals-Blood-Hunt-boss-fights"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-bosses",
+        "file": "Marvel-Rivals-Blood-Hunt-bosses"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-final-boss",
+        "file": "Marvel-Rivals-Blood-Hunt-final-boss"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-hidden-boss",
+        "file": "Marvel-Rivals-Blood-Hunt-hidden-boss"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-how-to-beat-Dracula",
+        "file": "Marvel-Rivals-Blood-Hunt-how-to-beat-Dracula"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-how-to-fight-Kingpin",
+        "file": "Marvel-Rivals-Blood-Hunt-how-to-fight-Kingpin"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-how-to-unlock-Kingpin",
+        "file": "Marvel-Rivals-Blood-Hunt-how-to-unlock-Kingpin"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-secret-boss",
+        "file": "Marvel-Rivals-Blood-Hunt-secret-boss"
+      }
+    ],
+    "builds": [
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-Jeff-build",
+        "file": "Marvel-Rivals-Blood-Hunt-Jeff-build"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-best-builds",
+        "file": "Marvel-Rivals-Blood-Hunt-best-builds"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-blade-build",
+        "file": "Marvel-Rivals-Blood-Hunt-blade-build"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-build-optimization",
+        "file": "Marvel-Rivals-Blood-Hunt-build-optimization"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-builds",
+        "file": "Marvel-Rivals-Blood-Hunt-builds"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-character-builds",
+        "file": "Marvel-Rivals-Blood-Hunt-character-builds"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-lifesteal-build",
+        "file": "Marvel-Rivals-Blood-Hunt-lifesteal-build"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-moon-knight-build",
+        "file": "Marvel-Rivals-Blood-Hunt-moon-knight-build"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-punisher-build",
+        "file": "Marvel-Rivals-Blood-Hunt-punisher-build"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-squirrel-girl-build",
+        "file": "Marvel-Rivals-Blood-Hunt-squirrel-girl-build"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-thor-build",
+        "file": "Marvel-Rivals-Blood-Hunt-thor-build"
+      },
+      {
+        "slug": "best-blood-hunt-builds",
+        "file": "best-blood-hunt-builds"
+      },
+      {
+        "slug": "blood-hunt-builds",
+        "file": "blood-hunt-builds"
+      },
+      {
+        "slug": "marvel-rivals-blood-hunt-meta",
+        "file": "marvel-rivals-blood-hunt-meta"
+      }
+    ],
+    "characters": [
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-Jeff",
+        "file": "Marvel-Rivals-Blood-Hunt-Jeff"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-best-characters",
+        "file": "Marvel-Rivals-Blood-Hunt-best-characters"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-best-hero",
+        "file": "Marvel-Rivals-Blood-Hunt-best-hero"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-blade",
+        "file": "Marvel-Rivals-Blood-Hunt-blade"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-characters",
+        "file": "Marvel-Rivals-Blood-Hunt-characters"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-magik",
+        "file": "Marvel-Rivals-Blood-Hunt-magik"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-moon-knight",
+        "file": "Marvel-Rivals-Blood-Hunt-moon-knight"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-playable-characters",
+        "file": "Marvel-Rivals-Blood-Hunt-playable-characters"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-punisher",
+        "file": "Marvel-Rivals-Blood-Hunt-punisher"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-squirrel-girl",
+        "file": "Marvel-Rivals-Blood-Hunt-squirrel-girl"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-thor",
+        "file": "Marvel-Rivals-Blood-Hunt-thor"
+      }
+    ],
+    "gear": [
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-cards",
+        "file": "Marvel-Rivals-Blood-Hunt-cards"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-gear-farm",
+        "file": "Marvel-Rivals-Blood-Hunt-gear-farm"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-gear",
+        "file": "Marvel-Rivals-Blood-Hunt-gear"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-legendary-drops",
+        "file": "Marvel-Rivals-Blood-Hunt-legendary-drops"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-legendary-gear",
+        "file": "Marvel-Rivals-Blood-Hunt-legendary-gear"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-lifeline-serum",
+        "file": "Marvel-Rivals-Blood-Hunt-lifeline-serum"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-titles",
+        "file": "Marvel-Rivals-Blood-Hunt-titles"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-traits",
+        "file": "Marvel-Rivals-Blood-Hunt-traits"
+      },
+      {
+        "slug": "blood-hunt-how-to-smelt-gear",
+        "file": "blood-hunt-how-to-smelt-gear"
+      },
+      {
+        "slug": "blood-hunt-smelt-gear",
+        "file": "blood-hunt-smelt-gear"
+      },
+      {
+        "slug": "how-to-get-legendary-gear-blood-hunt",
+        "file": "how-to-get-legendary-gear-blood-hunt"
+      },
+      {
+        "slug": "how-to-smelt-gear-in-blood-hunt",
+        "file": "how-to-smelt-gear-in-blood-hunt"
+      },
+      {
+        "slug": "marvel-rivals-blood-hunt-uru-shards",
+        "file": "marvel-rivals-blood-hunt-uru-shards"
+      },
+      {
+        "slug": "marvel-rivals-how-to-smelt-gear",
+        "file": "marvel-rivals-how-to-smelt-gear"
+      },
+      {
+        "slug": "marvel-rivals-smelt-gear",
+        "file": "marvel-rivals-smelt-gear"
+      },
+      {
+        "slug": "smelt-gear-marvel-rivals",
+        "file": "smelt-gear-marvel-rivals"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-Dracula-guide",
+        "file": "Marvel-Rivals-Blood-Hunt-Dracula-guide"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-Jeff-guide",
+        "file": "Marvel-Rivals-Blood-Hunt-Jeff-guide"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-Kingpin-guide",
+        "file": "Marvel-Rivals-Blood-Hunt-Kingpin-guide"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-beginner-guide",
+        "file": "Marvel-Rivals-Blood-Hunt-beginner-guide"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-complete-guide",
+        "file": "Marvel-Rivals-Blood-Hunt-complete-guide"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-extreme-guide",
+        "file": "Marvel-Rivals-Blood-Hunt-extreme-guide"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-full-game",
+        "file": "Marvel-Rivals-Blood-Hunt-full-game"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-guide",
+        "file": "Marvel-Rivals-Blood-Hunt-guide"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-hidden-boss-guide",
+        "file": "Marvel-Rivals-Blood-Hunt-hidden-boss-guide"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-how-to-play",
+        "file": "Marvel-Rivals-Blood-Hunt-how-to-play"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-nightmare-guide",
+        "file": "Marvel-Rivals-Blood-Hunt-nightmare-guide"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-pve-guide",
+        "file": "Marvel-Rivals-Blood-Hunt-pve-guide"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-solo-guide",
+        "file": "Marvel-Rivals-Blood-Hunt-solo-guide"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-tips",
+        "file": "Marvel-Rivals-Blood-Hunt-tips"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-walkthrough",
+        "file": "Marvel-Rivals-Blood-Hunt-walkthrough"
+      },
+      {
+        "slug": "blood-hunt-drop-rates",
+        "file": "blood-hunt-drop-rates"
+      },
+      {
+        "slug": "blood-hunt-marvel-rivals-dracula",
+        "file": "blood-hunt-marvel-rivals-dracula"
+      },
+      {
+        "slug": "blood-hunt-marvel-rivals-rewards",
+        "file": "blood-hunt-marvel-rivals-rewards"
+      },
+      {
+        "slug": "blood-hunt-max-level",
+        "file": "blood-hunt-max-level"
+      },
+      {
+        "slug": "blood-hunt-rewards-marvel-rivals",
+        "file": "blood-hunt-rewards-marvel-rivals"
+      },
+      {
+        "slug": "marvel-rivals-blood-hunt-farming",
+        "file": "marvel-rivals-blood-hunt-farming"
+      },
+      {
+        "slug": "marvel-rivals-blood-hunt-fast-leveling",
+        "file": "marvel-rivals-blood-hunt-fast-leveling"
+      },
+      {
+        "slug": "marvel-rivals-blood-hunt-fastest-way-to-level-up",
+        "file": "marvel-rivals-blood-hunt-fastest-way-to-level-up"
+      },
+      {
+        "slug": "marvel-rivals-blood-hunt-max-level",
+        "file": "marvel-rivals-blood-hunt-max-level"
+      },
+      {
+        "slug": "marvel-rivals-blood-hunt-meta",
+        "file": "marvel-rivals-blood-hunt-meta"
+      },
+      {
+        "slug": "marvel-rivals-blood-hunt-rewards",
+        "file": "marvel-rivals-blood-hunt-rewards"
+      },
+      {
+        "slug": "marvel-rivals-blood-hunt-stats",
+        "file": "marvel-rivals-blood-hunt-stats"
+      },
+      {
+        "slug": "rivals-blood-hunt",
+        "file": "rivals-blood-hunt"
+      }
+    ],
+    "mechanics": [
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-leaderboard",
+        "file": "Marvel-Rivals-Blood-Hunt-leaderboard"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-level-cap",
+        "file": "Marvel-Rivals-Blood-Hunt-level-cap"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-level-up-fast",
+        "file": "Marvel-Rivals-Blood-Hunt-level-up-fast"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-leveling",
+        "file": "Marvel-Rivals-Blood-Hunt-leveling"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-lifesteal",
+        "file": "Marvel-Rivals-Blood-Hunt-lifesteal"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-precision-damage",
+        "file": "Marvel-Rivals-Blood-Hunt-precision-damage"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-total-output-boost",
+        "file": "Marvel-Rivals-Blood-Hunt-total-output-boost"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-total-output",
+        "file": "Marvel-Rivals-Blood-Hunt-total-output"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-what-is-output-boost",
+        "file": "Marvel-Rivals-Blood-Hunt-what-is-output-boost"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-what-is-output",
+        "file": "Marvel-Rivals-Blood-Hunt-what-is-output"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-what-is-precision",
+        "file": "Marvel-Rivals-Blood-Hunt-what-is-precision"
+      },
+      {
+        "slug": "blood-hunt-drop-rates",
+        "file": "blood-hunt-drop-rates"
+      },
+      {
+        "slug": "marvel-rivals-blood-hunt-exp-farm",
+        "file": "marvel-rivals-blood-hunt-exp-farm"
+      },
+      {
+        "slug": "marvel-rivals-blood-hunt-forging-vs-drops-level-60-gear",
+        "file": "marvel-rivals-blood-hunt-forging-vs-drops-level-60-gear"
+      },
+      {
+        "slug": "marvel-rivals-blood-hunt-max-level",
+        "file": "marvel-rivals-blood-hunt-max-level"
+      },
+      {
+        "slug": "marvel-rivals-blood-hunt-output-boost-meaning",
+        "file": "marvel-rivals-blood-hunt-output-boost-meaning"
+      },
+      {
+        "slug": "marvel-rivals-blood-hunt-stats",
+        "file": "marvel-rivals-blood-hunt-stats"
+      }
+    ],
+    "release": [
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-crashing-xbox",
+        "file": "Marvel-Rivals-Blood-Hunt-crashing-xbox"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-crashing",
+        "file": "Marvel-Rivals-Blood-Hunt-crashing"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-event",
+        "file": "Marvel-Rivals-Blood-Hunt-event"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-lag",
+        "file": "Marvel-Rivals-Blood-Hunt-lag"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-reddit",
+        "file": "Marvel-Rivals-Blood-Hunt-reddit"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-release-date",
+        "file": "Marvel-Rivals-Blood-Hunt-release-date"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-release-time",
+        "file": "Marvel-Rivals-Blood-Hunt-release-time"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-start-date",
+        "file": "Marvel-Rivals-Blood-Hunt-start-date"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-update",
+        "file": "Marvel-Rivals-Blood-Hunt-update"
+      }
+    ],
+    "tier-list": [
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-best-hero-tier-list",
+        "file": "Marvel-Rivals-Blood-Hunt-best-hero-tier-list"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-character-tier-list",
+        "file": "Marvel-Rivals-Blood-Hunt-character-tier-list"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-nightmare-tier-list",
+        "file": "Marvel-Rivals-Blood-Hunt-nightmare-tier-list"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-solo-tier-list",
+        "file": "Marvel-Rivals-Blood-Hunt-solo-tier-list"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-tier-list-reddit",
+        "file": "Marvel-Rivals-Blood-Hunt-tier-list-reddit"
+      },
+      {
+        "slug": "Marvel-Rivals-Blood-Hunt-tier-list",
+        "file": "Marvel-Rivals-Blood-Hunt-tier-list"
+      },
+      {
+        "slug": "blood-hunt-marvel-rivals-tier-list",
+        "file": "blood-hunt-marvel-rivals-tier-list"
+      },
+      {
+        "slug": "bloodhunt-tier-list-rivals",
+        "file": "bloodhunt-tier-list-rivals"
+      },
+      {
+        "slug": "marvel-rivals-pve-best-characters",
+        "file": "marvel-rivals-pve-best-characters"
+      },
+      {
+        "slug": "marvel-rivals-pve-tier-list",
+        "file": "marvel-rivals-pve-tier-list"
+      },
+      {
+        "slug": "rivals-blood-hunt-tier-list",
+        "file": "rivals-blood-hunt-tier-list"
+      }
+    ]
+  }
+}
